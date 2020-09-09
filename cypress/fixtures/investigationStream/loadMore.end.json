@@ -1,0 +1,943 @@
+{
+  "hasMore": false,
+  "offset": 60,
+  "items": [
+    {
+      "type": "investigation",
+      "title": "Denial of Service",
+      "subtitle": "",
+      "id": "SOCP00701490145",
+      "lastUpdate": "Updated 13 days ago",
+      "timeOfUpdate": "2019-11-21T17:45:01.000Z",
+      "status": "New",
+      "description": "This is an automation test ticket.",
+      "priority": "medium",
+      "devices": [{ "name": "AirDefense-ids-qa" }],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701490145",
+        "title": "Denial of Service"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nbumo"
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nbump to top"
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nbump to top"
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\ntest comment [timestamp: 1574347948680]"
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\ntest comment [timestamp: 1574347178755]"
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\ntest comment [timestamp: 1574346864489]"
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 14 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nbump"
+        },
+        {
+          "user": "System",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket submitted via MSS Portal by user QA Test User 2 [qatest2]"
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Customer Reported Incident",
+      "subtitle": "Connectivity/Availability Incident",
+      "id": "SOCP00701499628",
+      "lastUpdate": "Updated 13 days ago",
+      "timeOfUpdate": "2019-11-21T17:44:53.000Z",
+      "status": "New",
+      "description": "test",
+      "priority": "low",
+      "devices": [],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701499628",
+        "title": "Customer Reported Incident"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nbump"
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\ntest comment [timestamp: 1574345798235]"
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\ntest comment [timestamp: 1574344598640]"
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 14 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nbump\n\nStatus changed to New"
+        },
+        { "user": "SOC", "lastUpdate": "Updated a month ago", "text": "Status changed to Work In Progress" },
+        { "user": "SOC", "lastUpdate": "Updated a month ago", "text": "Status changed to Pending" },
+        {
+          "user": "qatest",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket submitted via MSS Portal by user QA Test User [qatest]\n\nCustomer Impact Self-Assessment\n*None Informed*"
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Unauthorized Access",
+      "subtitle": "",
+      "id": "SOCP00701501834",
+      "lastUpdate": "Updated 13 days ago",
+      "timeOfUpdate": "2019-11-21T13:54:51.000Z",
+      "status": "New",
+      "description": "description",
+      "priority": "low",
+      "devices": [],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701501834",
+        "title": "Unauthorized Access"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 14 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nbump"
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Unauthorized Access",
+      "subtitle": "",
+      "id": "SOCP00701501832",
+      "lastUpdate": "Updated 13 days ago",
+      "timeOfUpdate": "2019-11-21T13:54:49.000Z",
+      "status": "New",
+      "description": "description",
+      "priority": "low",
+      "devices": [],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701501832",
+        "title": "Unauthorized Access"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 14 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nbump"
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Denial of Service",
+      "subtitle": "",
+      "id": "SOCP00701490172",
+      "lastUpdate": "Updated 13 days ago",
+      "timeOfUpdate": "2019-11-21T13:54:47.000Z",
+      "status": "New",
+      "description": "new desc.",
+      "priority": "low",
+      "devices": [{ "name": "ibm-selm-qa" }],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701490172",
+        "title": "Denial of Service"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 14 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nbump"
+        },
+        { "user": "null", "lastUpdate": "Updated a month ago", "text": "test - -1866736198" },
+        {
+          "user": "System",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket submitted via MSS Portal by user QA Test User 2 [qatest2]"
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Customer Reported Incident",
+      "subtitle": "Portal/Enablement Services Incident",
+      "id": "SOCP00701490070",
+      "lastUpdate": "Updated 13 days ago",
+      "timeOfUpdate": "2019-11-21T13:54:44.000Z",
+      "status": "New",
+      "description": "Portal/VMS/SELM Incident Automation - 10/24/2019",
+      "priority": "low",
+      "devices": [],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701490070",
+        "title": "Customer Reported Incident"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 14 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nbump"
+        },
+        {
+          "user": "remedyqa",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket submitted via MSS Portal by user remedyqa [remedyqa]\n\nCustomer Impact Self-Assessment\n*None Informed*"
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Customer Reported Incident",
+      "subtitle": "Security Incident",
+      "id": "SOCP00701490050",
+      "lastUpdate": "Updated 13 days ago",
+      "timeOfUpdate": "2019-11-21T13:54:40.000Z",
+      "status": "New",
+      "description": "This is an automation test ticket.",
+      "priority": "medium",
+      "devices": [{ "name": "atl-msslab-xgs-pim" }],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701490050",
+        "title": "Customer Reported Incident"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 14 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nbump"
+        },
+        {
+          "user": "qatest2",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket submitted via MSS Portal by user QA Test User 2 [qatest2]\n\n* Affected Hosts or networks: AutomationTest\nCustomer Impact Self-Assessment\n* Incident is still in progress\nProblem started: 10/23/2019 13:15:00\nProblem ended: 10/24/2019 16:45:00\nTime zone: (GMT-03:00) Brasilia\nSituation was caused by a virus or targeted attack: true\nDescription of virus or attack: Description of virus or attack - Selenium Automation\nRecent customer or IBM Changes: Recent customer or IBM Changes - Selenium Automation\nTroubleshooting steps taken: Troubleshooting steps taken - Selenium Automation"
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Customer Reported Incident",
+      "subtitle": "Portal/Enablement Services Incident",
+      "id": "SOCP00701490051",
+      "lastUpdate": "Updated 13 days ago",
+      "timeOfUpdate": "2019-11-21T13:54:38.000Z",
+      "status": "New",
+      "description": "Portal/VMS/SELM Incident Automation - 10/24/2019",
+      "priority": "low",
+      "devices": [],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701490051",
+        "title": "Customer Reported Incident"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 14 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nbump"
+        },
+        {
+          "user": "qatest2",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket submitted via MSS Portal by user QA Test User 2 [qatest2]\n\nCustomer Impact Self-Assessment\n*None Informed*"
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Unauthorized Access",
+      "subtitle": "",
+      "id": "SOCP00701501858",
+      "lastUpdate": "Updated 13 days ago",
+      "timeOfUpdate": "2019-11-21T13:54:37.000Z",
+      "status": "New",
+      "description": "description",
+      "priority": "low",
+      "devices": [],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701501858",
+        "title": "Unauthorized Access"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 14 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nbump"
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Unauthorized Access",
+      "subtitle": "",
+      "id": "SOCP00701501630",
+      "lastUpdate": "Updated 13 days ago",
+      "timeOfUpdate": "2019-11-21T13:54:35.000Z",
+      "status": "New",
+      "description": "description",
+      "priority": "low",
+      "devices": [],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701501630",
+        "title": "Unauthorized Access"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 14 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nbump"
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Unauthorized Access",
+      "subtitle": "",
+      "id": "SOCP00701501833",
+      "lastUpdate": "Updated 13 days ago",
+      "timeOfUpdate": "2019-11-21T13:54:33.000Z",
+      "status": "New",
+      "description": "description",
+      "priority": "low",
+      "devices": [],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701501833",
+        "title": "Unauthorized Access"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 14 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nbump"
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Denial of Service",
+      "subtitle": "",
+      "id": "SOCP00701490144",
+      "lastUpdate": "Updated 13 days ago",
+      "timeOfUpdate": "2019-11-21T13:54:32.000Z",
+      "status": "New",
+      "description": ".",
+      "priority": "low",
+      "devices": [{ "name": "cputm-fw-qa" }],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701490144",
+        "title": "Denial of Service"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 14 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nbump"
+        },
+        {
+          "user": "System",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket submitted via MSS Portal by user QA Test User 2 [qatest2]"
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Customer Reported Incident",
+      "subtitle": "Connectivity/Availability Incident",
+      "id": "SOCP00701490060",
+      "lastUpdate": "Updated 13 days ago",
+      "timeOfUpdate": "2019-11-21T13:54:31.000Z",
+      "status": "New",
+      "description": "Description Automation - 10/24/2019",
+      "priority": "medium",
+      "devices": [{ "name": "atl-prd-tma-01a" }],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701490060",
+        "title": "Customer Reported Incident"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 14 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nbump"
+        },
+        {
+          "user": "qatest2",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket submitted via MSS Portal by user QA Test User 2 [qatest2]\n\nCustomer Impact Self-Assessment\n* System, application, or process impacted is down or inaccessible\nProblem started: 10/24/2019 01:30:00\nTime zone: (GMT-03:00) Brasilia\nTroubleshooting steps already taken: Troubleshooting steps already taken - Selenium Automation\nKnown customer-side changes: Known Customer-Side Changes - Selenium Automation\nKnown MSS Changes: Known MSS Changes - Selenium Automation"
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Customer Reported Incident",
+      "subtitle": "Connectivity/Availability Incident",
+      "id": "SOCP00701490058",
+      "lastUpdate": "Updated 13 days ago",
+      "timeOfUpdate": "2019-11-21T13:54:28.000Z",
+      "status": "New",
+      "description": "Description Automation - 10/24/2019",
+      "priority": "low",
+      "devices": [],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701490058",
+        "title": "Customer Reported Incident"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 14 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nbump"
+        },
+        {
+          "user": "qatest2",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket submitted via MSS Portal by user QA Test User 2 [qatest2]\n\nCustomer Impact Self-Assessment\n*None Informed*"
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Customer Reported Incident",
+      "subtitle": "Portal/Enablement Services Incident",
+      "id": "SOCP00701490052",
+      "lastUpdate": "Updated 13 days ago",
+      "timeOfUpdate": "2019-11-21T13:54:26.000Z",
+      "status": "New",
+      "description": "Description Automation - 10/24/2019",
+      "priority": "medium",
+      "devices": [],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701490052",
+        "title": "Customer Reported Incident"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 14 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nbump"
+        },
+        {
+          "user": "qatest2",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket submitted via MSS Portal by user QA Test User 2 [qatest2]\n\nCustomer Impact Self-Assessment\n* Issue is impacting business continuity\n\nProblem started: 10/24/2019 01:45:00\nTime zone: (GMT-03:00) Brasilia\n\nSteps to reproduce the problem: Steps to Reproduce - Automation"
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Trend Analysis",
+      "subtitle": "",
+      "id": "SOCP00701464789",
+      "lastUpdate": "Updated 13 days ago",
+      "timeOfUpdate": "2019-11-21T13:54:25.000Z",
+      "status": "Assigned",
+      "description": "new desc.",
+      "priority": "medium",
+      "devices": [{ "name": "ibm-selm-qa" }],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701464789",
+        "title": "Trend Analysis"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 14 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nbump"
+        },
+        { "user": "qatest2", "lastUpdate": "Updated a month ago", "text": "Automation Worklog - 10/24/2019" },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\ntest comment"
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nTest comment"
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket updated via Mobile app by user: Horizon Team\n\njcjcu"
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket updated via Mobile app by user: Horizon Team\n\nndjja"
+        },
+        { "user": "null", "lastUpdate": "Updated 2 months ago", "text": "test - 1829750336" },
+        {
+          "user": "ferps",
+          "lastUpdate": "Updated 2 months ago",
+          "text": "Src Ip            Src Port  Event Name                               Action   Severity  Dst Ip            Dst Port  Count   Timestamp\n172.16.34.124     null      Failed_Login_Attempt                     FAILED   UNKNOWN   null              null      1       10/10/2019 09:15:03\n172.16.34.124     null      Failed_Login_Attempt                     FAILED   UNKNOWN   null              null      1       10/10/2019 09:15:03\n172.16.34.124     null      Failed_Login_Attempt                     FAILED   UNKNOWN   null              null      1       10/10/2019 09:15:03\n172.16.34.124     null      Failed_Login_Attempt                     FAILED   UNKNOWN   null              null      1       10/10/2019 09:15:03\n172.16.34.124     null      Failed_Login_Attempt                     FAILED   UNKNOWN   null              null      1       10/10/2019 09:15:03\n172.16.34.124     null      Failed_Login_Attempt                     FAILED   UNKNOWN   null              null      1       10/10/2019 09:15:03\n172.16.34.124     null      Failed_Login_Attempt                     FAILED   UNKNOWN   null              null      1       10/10/2019 09:15:03\n172.16.34.124     null      Failed_Login_Attempt                     FAILED   UNKNOWN   null              null      1       10/10/2019 09:15:03\n172.16.34.124     null      Failed_Login_Attempt                     FAILED   UNKNOWN   null              null      1       10/10/2019 09:15:03\n172.16.34.124     null      Failed_Login_Attempt                     FAILED   UNKNOWN   null              null      1       10/10/2019 09:15:03\n\nSrc. Attributes                                                        Dst. Attributes \n172.16.34.124: Acceptable Traffic Source Critical Internal RFC 1918    \n172.16.34.124: Acceptable Traffic Source Critical Internal RFC 1918    \n172.16.34.124: Acceptable Traffic Source Critical Internal RFC 1918    \n172.16.34.124: Acceptable Traffic Source Critical Internal RFC 1918    \n172.16.34.124: Acceptable Traffic Source Critical Internal RFC 1918    \n172.16.34.124: Acceptable Traffic Source Critical Internal RFC 1918    \n172.16.34.124: Acceptable Traffic Source Critical Internal RFC 1918    \n172.16.34.124: Acceptable Traffic Source Critical Internal RFC 1918    \n172.16.34.124: Acceptable Traffic Source Critical Internal RFC 1918    \n172.16.34.124: Acceptable Traffic Source Critical Internal RFC 1918    \nAdditional Alert Details\nAlert ID: 86543177\nKEY                            VALUE\nAction                         FAILED\nDescription                    Flow: Outbound Traffic.\nVendor                         IBM\nalertRecurrenceCount_30day     29\nalertRecurrenceCount_60day     59\nalertRecurrenceCount_90day     89\nalert_key                      P00000008041994_selm_79_real_systemactivity_LOGGEN_CRON_0915\ncustName                       QA Customer\nmitreAttack_Tactic             Discovery\nservName                       SELM - Server - Select\nuserName                       LOGGEN_CRON_0915\nxpsLogReceivedTimestamp        1570698938\nAdditional Alert Details\nAlert ID: 86543183\nKEY                            VALUE\nAction                         FAILED\nVendor                         IBM\nalertRecurrenceCount_30day     29\nalertRecurrenceCount_60day     59\nalertRecurrenceCount_90day     89\nalert_key                      P00000008041994_selm_537_real_systemactivity_LOGGEN_CRON_0915\ncustName                       QA Customer\ndeviceName                     ibm-selm-qa\nservName                       SELM - Server - Select\nuserName                       LOGGEN_CRON_0915\nxpsLogReceivedTimestamp        1570698938\n\nMSSTimestamp=1570698903, logType=systemactivity, FN=/var/log/messages, origLog=Oct 10 09: 15: 03 aixthing syslog:  pts/0:  failed login attempt for LOGGEN_CRON_0915 from 172.16.34.124\n\nMSSTimestamp=1570698903, logType=systemactivity, FN=/var/log/messages, origLog=Oct 10 09: 15: 03 aixthing syslog:  pts/0:  failed login attempt for LOGGEN_CRON_0915 from 172.16.34.124\n\nMSSTimestamp=1570698903, logType=systemactivity, FN=/var/log/messages, origLog=Oct 10 09: 15: 03 aixthing syslog:  pts/0:  failed login attempt for LOGGEN_CRON_0915 from 172.16.34.124\n\nMSSTimestamp=1570698903, logType=systemactivity, FN=/var/log/messages, origLog=Oct 10 09: 15: 03 aixthing syslog:  pts/0:  failed login attempt for LOGGEN_CRON_0915 from 172.16.34.124\n\nMSSTimestamp=1570698903, logType=systemactivity, FN=/var/log/messages, origLog=Oct 10 09: 15: 03 aixthing syslog:  pts/0:  failed login attempt for LOGGEN_CRON_0915 from 172.16.34.124\n\nMSSTimestamp=1570698903, logType=systemactivity, FN=/var/log/messages, origLog=Oct 10 09: 15: 03 aixthing syslog:  pts/0:  failed login attempt for LOGGEN_CRON_0915 from 172.16.34.124\n\nMSSTimestamp=1570698903, logType=systemactivity, FN=/var/log/messages, origLog=Oct 10 09: 15: 03 aixthing syslog:  pts/0:  failed login attempt for LOGGEN_CRON_0915 from 172.16.34.124\n\nMSSTimestamp=1570698903, logType=systemactivity, FN=/var/log/messages, origLog=Oct 10 09: 15: 03 aixthing syslog:  pts/0:  failed login attempt for LOGGEN_CRON_0915 from 172.16.34.124\n\nMSSTimestamp=1570698903, logType=systemactivity, FN=/var/log/messages, origLog=Oct 10 09: 15: 03 aixthing syslog:  pts/0:  failed login attempt for LOGGEN_CRON_0915 from 172.16.34.124\n\nMSSTimestamp=1570698903, logType=systemactivity, FN=/var/log/messages, origLog=Oct 10 09: 15: 03 aixthing syslog:  pts/0:  failed login attempt for LOGGEN_CRON_0915 from 172.16.34.124\n\n\nThis ticket contains one or more IP addresses that have been identified as critical assets: \n172.16.34.124\n\nferps has escalated alert(s): 86543177, 86543183\n\n\nThis ticket has been acknowledged by the SOC"
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Customer Reported Incident",
+      "subtitle": "Security Incident",
+      "id": "SOCP00701490006",
+      "lastUpdate": "Updated 13 days ago",
+      "timeOfUpdate": "2019-11-21T13:54:22.000Z",
+      "status": "New",
+      "description": "test",
+      "priority": "low",
+      "devices": [
+        { "name": "win-other-soc-qa" },
+        { "name": "aix-soc-qa" },
+        { "name": "oa-soc-qa" },
+        { "name": "ProventiaGX4002-ids-qa" },
+        { "name": "ibm-selm-qa" },
+        { "name": "WIN-selm-test" },
+        { "name": "Intrushield-ids-qa" },
+        { "name": "juniper-selm-qa" },
+        { "name": "netscreen-selm-qa" },
+        { "name": "cisco-fxos-qa" },
+        { "name": "arc-arcsight-qa" },
+        { "name": "sourcefires-selm-qa" },
+        { "name": "ProventiaNSC-ids-qa" },
+        { "name": "ProventiaG-ids-qa" },
+        { "name": "crossbeam-selm-qa" },
+        { "name": "fireeye-soc-qa" },
+        { "name": "qradar-soc-qa" },
+        { "name": "ula-selm-qa" },
+        { "name": "ProventiaNAB-ids-qa" },
+        { "name": "nokia-selm-qa" },
+        { "name": "ula-soc-qa" },
+        { "name": "HP-ids-qa" },
+        { "name": "releasetest20170427" },
+        { "name": "ibm-xgs-selm-qa" },
+        { "name": "Sun-ids-qa" },
+        { "name": "hp-selm-qa" },
+        { "name": "fortigate-selm-qa" },
+        { "name": "hytrust-hy-qa" },
+        { "name": "ibm-xgs-soc-qa" },
+        { "name": "IBM-ids-qa" },
+        { "name": "ASA @ estreamer2-log-gen" },
+        { "name": "finjan-selm-qa" },
+        { "name": "Nokia-ids-qa" },
+        { "name": "qradar-selm-qa" },
+        { "name": "fiesta-selm-qa" },
+        { "name": "AirDefense-ids-qa" },
+        { "name": "NetScreen-ids-qa" },
+        { "name": "Sourcefires-ids-qa" },
+        { "name": "SonicWall-ids-qa" },
+        { "name": "bluecoat-selm-qa" },
+        { "name": "CheckPoint2-ids-qa" },
+        { "name": "Tippingpoint-ids-qa" },
+        { "name": "atl-prd-tma-01a" },
+        { "name": "proventiagx-soc-qa" },
+        { "name": "cisco-ids-qa" },
+        { "name": "PaloAlto-ids-qa" },
+        { "name": "paloalto-selm-qa" },
+        { "name": "atl-prd-tma-01a" },
+        { "name": "groundha-selm-qa" },
+        { "name": "cp-nmf-selm-qa" },
+        { "name": "ciscoWAR30-selm-qa" },
+        { "name": "firepower-soc-qa" },
+        { "name": "crossbeam-ids-qa" },
+        { "name": "prov-trend-selm-qa" },
+        { "name": "compaq-selm-qa" },
+        { "name": "intrushield-selm-qa" },
+        { "name": "fortigate100A-ids-qa" }
+      ],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701490006",
+        "title": "Customer Reported Incident"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 14 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nbump"
+        },
+        { "user": "QA Test User", "lastUpdate": "Updated a month ago", "text": "test" },
+        { "user": "QA Test User", "lastUpdate": "Updated a month ago", "text": "test" },
+        {
+          "user": "qatest",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket submitted via Security Center by user QA Test User [qatest]\n\n* Affected Hosts or Networks *: test\nCustomer Impact Self-Assessment\n*None Informed*\nRecent Customer or IBM Changes *: test\nTroubleshooting Steps Already Taken *: test"
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Customer Reported Incident",
+      "subtitle": "Security Incident",
+      "id": "SOCP00701489896",
+      "lastUpdate": "Updated 13 days ago",
+      "timeOfUpdate": "2019-11-21T13:54:20.000Z",
+      "status": "New",
+      "description": "Test Automation",
+      "priority": "low",
+      "devices": [],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701489896",
+        "title": "Customer Reported Incident"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 14 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nbump"
+        },
+        {
+          "user": "js_automation",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket submitted via MSS Portal by user QA JS Automation [js_automation]\n\n* Affected Hosts or networks: 127.0.0.1\nCustomer Impact Self-Assessment\n*None Informed*"
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Unauthorized Access",
+      "subtitle": "",
+      "id": "SOCP00701477894",
+      "lastUpdate": "Updated 13 days ago",
+      "timeOfUpdate": "2019-11-21T13:54:18.000Z",
+      "status": "New",
+      "description": "\nThis ticket contains one or more IP addresses that have been identified as critical assets: \n172.16.34.124\n\nConsult the worklog for more detail as well as associations to this ticket.\n",
+      "priority": "low",
+      "devices": [{ "name": "ibm-selm-qa" }],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701477894",
+        "title": "Unauthorized Access"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 14 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nbump"
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\ntest comment"
+        },
+        {
+          "user": "AR_ESCALATOR",
+          "lastUpdate": "Updated a month ago",
+          "text": "No additional activity surrounding this issue has been detected by ISS or reported by customer.  This ticket will now be placed into a Pending Closure Status, where related activity can still be added to the ticket if needed.\n\n\n\nPlease take a moment to rate the SOC's handling of this ticket by using the Ticket Rating system, available in the Ticket Manager area of the Virtual SOC Portal. Your satisfaction and feedback is very important to us. Thank you!\n\nTicket is now pending any additional followup the customer may wish to add or report back to complete processing of this issue.  No additional related activity or customer followup within 5 days will result in closure of this issue."
+        },
+        { "user": "null", "lastUpdate": "Updated 2 months ago", "text": "=testEqualsSign217833421" },
+        {
+          "user": "atl-prd-webapp-02a-SOC_Console",
+          "lastUpdate": "Updated 2 months ago",
+          "text": "Portal Notification send to (1 contacts) diegobs@br.ibm.com at 10.17.2019 13:31:36\n\nStatus changed to Pending"
+        },
+        {
+          "user": "diegobs",
+          "lastUpdate": "Updated 2 months ago",
+          "text": "Src Ip            Src Port  Event Name                               Action   Severity  Dst Ip            Dst Port  Count   Timestamp\n172.16.34.124     null      Failed_Login_Attempt                     FAILED   UNKNOWN   null              null      1       10/17/2019 11:45:02\n172.16.34.124     null      Failed_Login_Attempt                     FAILED   UNKNOWN   null              null      1       10/17/2019 11:45:02\n172.16.34.124     null      Failed_Login_Attempt                     FAILED   UNKNOWN   null              null      1       10/17/2019 11:45:02\n172.16.34.124     null      Failed_Login_Attempt                     FAILED   UNKNOWN   null              null      1       10/17/2019 11:45:02\n172.16.34.124     null      Failed_Login_Attempt                     FAILED   UNKNOWN   null              null      1       10/17/2019 11:45:02\n\nSrc. Attributes                                                        Dst. Attributes \n172.16.34.124: Acceptable Traffic Source Critical Internal RFC 1918    \n172.16.34.124: Acceptable Traffic Source Critical Internal RFC 1918    \n172.16.34.124: Acceptable Traffic Source Critical Internal RFC 1918    \n172.16.34.124: Acceptable Traffic Source Critical Internal RFC 1918    \n172.16.34.124: Acceptable Traffic Source Critical Internal RFC 1918    \nAdditional Alert Details\nAlert ID: 86643970\nKEY                            VALUE\nAction                         FAILED\nVendor                         IBM\nalertRecurrenceCount_30day     30\nalertRecurrenceCount_60day     59\nalertRecurrenceCount_90day     89\nalert_key                      P00000008041994_selm_537_real_systemactivity_LOGGEN_CRON_1145\ncustName                       QA Customer\ndeviceName                     ibm-selm-qa\nservName                       SELM - Server - Select\nuserName                       LOGGEN_CRON_1145\nxpsLogReceivedTimestamp        1571312765\n\nMSSTimestamp=1571312702, logType=systemactivity, FN=/var/log/messages, origLog=Oct 17 11: 45: 02 aixthing syslog:  pts/0:  failed login attempt for LOGGEN_CRON_1145 from 172.16.34.124\n\nMSSTimestamp=1571312702, logType=systemactivity, FN=/var/log/messages, origLog=Oct 17 11: 45: 02 aixthing syslog:  pts/0:  failed login attempt for LOGGEN_CRON_1145 from 172.16.34.124\n\nMSSTimestamp=1571312702, logType=systemactivity, FN=/var/log/messages, origLog=Oct 17 11: 45: 02 aixthing syslog:  pts/0:  failed login attempt for LOGGEN_CRON_1145 from 172.16.34.124\n\nMSSTimestamp=1571312702, logType=systemactivity, FN=/var/log/messages, origLog=Oct 17 11: 45: 02 aixthing syslog:  pts/0:  failed login attempt for LOGGEN_CRON_1145 from 172.16.34.124\n\nMSSTimestamp=1571312702, logType=systemactivity, FN=/var/log/messages, origLog=Oct 17 11: 45: 02 aixthing syslog:  pts/0:  failed login attempt for LOGGEN_CRON_1145 from 172.16.34.124\n\n\nThis ticket contains one or more IP addresses that have been identified as critical assets: \n172.16.34.124\n\ndiegobs has escalated alert(s): 86643970\n\n\nThis ticket has been acknowledged by the SOC"
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Denial of Service",
+      "subtitle": "",
+      "id": "SOCP00701453941",
+      "lastUpdate": "Updated 13 days ago",
+      "timeOfUpdate": "2019-11-21T13:51:56.000Z",
+      "status": "New",
+      "description": "new desc.",
+      "priority": "high",
+      "devices": [{ "name": "AirDefense-ids-qa" }],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701453941",
+        "title": "Denial of Service"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\ntest comment [timestamp: 1574344174024]"
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 13 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nbump"
+        },
+        { "user": "null", "lastUpdate": "Updated 2 months ago", "text": "test - -1994621563" },
+        {
+          "user": "System",
+          "lastUpdate": "Updated 2 months ago",
+          "text": "Ticket submitted via MSS Portal by user QA Test User 2 [qatest2]"
+        }
+      ]
+    }
+  ]
+}

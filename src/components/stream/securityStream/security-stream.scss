@@ -1,0 +1,5 @@
+@import "../stream-layout";
+
+.security-stream {
+  @extend %stream-layout;
+}

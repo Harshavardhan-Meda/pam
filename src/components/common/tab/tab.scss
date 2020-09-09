@@ -1,0 +1,29 @@
+@import '../../../constants/constants';
+@import '../../../constants/media-queries';
+/*
+Style that is intended to override default style from the Tabs component
+in Carbon Components.
+
+https://github.com/IBM/carbon-components-react
+*/
+
+.bx--tabs {
+  @include respond-to(wide-screens) {
+    a {
+      color: $PRIMARY_WHITE !important;
+      font-size: 14px;
+    }
+  }
+
+  .bx--tabs-trigger {
+    background: $COLOR_GRAY_100;
+
+    svg {
+      fill: $PRIMARY_WHITE;
+    }
+  }
+
+  a.bx--tabs-trigger-text {
+    color: $PRIMARY_WHITE;
+  }
+}

@@ -1,0 +1,581 @@
+{
+  "hasMore": false,
+  "offset": 60,
+  "items": [
+    {
+      "type": "request",
+      "title": "Policy Change Request",
+      "subtitle": "Change Policy",
+      "id": "SOCP00701515284",
+      "lastUpdate": "Updated a month ago",
+      "timeOfUpdate": "2019-11-07T21:16:09.000Z",
+      "status": "New",
+      "description": "IDS Signature Change and Response:Disable",
+      "devices": [
+        {
+          "name": "nokiaip-avurl-qa"
+        }
+      ],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701515284",
+        "title": "Policy Change Request"
+      },
+      "worklog": [
+        {
+          "user": "SOC",
+          "lastUpdate": "Updated a month ago",
+          "text": "1 PCR(s) were removed from PCR Type: 24 Hour PCR SLA due to changes made to this ticket."
+        },
+        {
+          "user": "qatest2",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket submitted via MSS Portal by user QA Test User 2 [qatest2]\n\nRule Number 1:\nDevices: nokiaip-avurl-qa\nEvents:  4194 - WEB-CLIENT multipacket CBO CBL CBM file transfer start\nResponse: Disable\nSources: 90.80.70.60\nSource ports: 80.70.60.50\nDestinations: 70.60.50.40\nDestination ports: 60.50.40.30\n\nNotes: IDS Notes Automation - 11/07/2019\n\nPCR Acknowledgement Email sent to mss_engineering_-_qa@wwpdl.vnet.ibm.com at 11/7/2019 9:15:52 PM"
+        }
+      ]
+    },
+    {
+      "type": "request",
+      "title": "Policy Change Request",
+      "subtitle": "Change Policy",
+      "id": "SOCP00701515194",
+      "lastUpdate": "Updated a month ago",
+      "timeOfUpdate": "2019-11-07T21:08:26.000Z",
+      "status": "New",
+      "description": "IDS Signature Change and Response:Block",
+      "devices": [
+        {
+          "name": "ibm-xgs-soc-qa"
+        }
+      ],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701515194",
+        "title": "Policy Change Request"
+      },
+      "worklog": [
+        {
+          "user": "SOC",
+          "lastUpdate": "Updated a month ago",
+          "text": "1 PCR(s) were removed from PCR Type: 2 Hour PCR SLA due to changes made to this ticket."
+        },
+        {
+          "user": "qatest2",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket submitted via MSS Portal by user QA Test User 2 [qatest2]\n\nRule Number 1:\nDevices: ibm-xgs-soc-qa\nEvents:   RhelRhsa2005806Update\nResponse: Block\n\nPCR Acknowledgement Email sent to mss_engineering_-_qa@wwpdl.vnet.ibm.com at 11/7/2019 9:08:10 PM"
+        }
+      ]
+    },
+    {
+      "type": "request",
+      "title": "Policy Change Request",
+      "subtitle": "Change Policy",
+      "id": "SOCP00701515167",
+      "lastUpdate": "Updated a month ago",
+      "timeOfUpdate": "2019-11-07T19:41:12.000Z",
+      "status": "New",
+      "description": "Endpoint Policy Change Request",
+      "devices": [
+        {
+          "name": "crossbeam-ids-qa"
+        }
+      ],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701515167",
+        "title": "Policy Change Request"
+      },
+      "worklog": [
+        {
+          "user": "SOC",
+          "lastUpdate": "Updated a month ago",
+          "text": "1 PCR(s) were removed from PCR Type: 4 Hour PCR SLA due to changes made to this ticket."
+        },
+        {
+          "user": "qatest2",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket submitted via MSS Portal by user QA Test User 2 [qatest2]\n\nPolicy Name: Test Policy Name\nAction: Block\nNotes: Endpoint PCR Automation Notes - 11/07/2019\n\nPCR Acknowledgement Email sent to mss_engineering_-_qa@wwpdl.vnet.ibm.com at 11/7/2019 7:40:11 PM"
+        }
+      ]
+    },
+    {
+      "type": "request",
+      "title": "Policy Change Request",
+      "subtitle": "Change Policy",
+      "id": "SOCP00701515082",
+      "lastUpdate": "Updated a month ago",
+      "timeOfUpdate": "2019-11-07T19:39:27.000Z",
+      "status": "New",
+      "description": "Endpoint Policy Change Request",
+      "devices": [
+        {
+          "name": "junipersrx-avurl-qa"
+        }
+      ],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701515082",
+        "title": "Policy Change Request"
+      },
+      "worklog": [
+        {
+          "user": "SOC",
+          "lastUpdate": "Updated a month ago",
+          "text": "1 PCR(s) were removed from PCR Type: 4 Hour PCR SLA due to changes made to this ticket."
+        },
+        {
+          "user": "qatest2",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket submitted via MSS Portal by user QA Test User 2 [qatest2]\n\nAction: Allow\n\nPCR Acknowledgement Email sent to mss_engineering_-_qa@wwpdl.vnet.ibm.com at 11/7/2019 7:39:03 PM"
+        }
+      ]
+    },
+    {
+      "type": "request",
+      "title": "Security Information and Event Management Policy Change Request",
+      "subtitle": "",
+      "id": "SOCP00701515080",
+      "lastUpdate": "Updated a month ago",
+      "timeOfUpdate": "2019-11-07T19:38:02.000Z",
+      "status": "New",
+      "description": "MSIEM Policy Change Request",
+      "devices": [
+        {
+          "name": "ciscoASA1-selm-qa"
+        }
+      ],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701515080",
+        "title": "Security Information and Event Management Policy Change Request"
+      },
+      "worklog": [
+        {
+          "user": "qatest2",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket submitted via MSS Portal by user QA Test User 2 [qatest2]\n\nTuning Type: New Threat Coverage\nDescription: MSIEM Description Automation - 11/07/2019\n\nPCR Acknowledgement Email sent to mss_engineering_-_qa@wwpdl.vnet.ibm.com at 11/7/2019 7:37:37 PM"
+        }
+      ]
+    },
+    {
+      "type": "request",
+      "title": "Security Information and Event Management Policy Change Request",
+      "subtitle": "",
+      "id": "SOCP00701515241",
+      "lastUpdate": "Updated a month ago",
+      "timeOfUpdate": "2019-11-07T19:37:41.000Z",
+      "status": "New",
+      "description": "MSIEM Policy Change Request",
+      "devices": [
+        {
+          "name": "AirDefense-ids-qa"
+        }
+      ],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701515241",
+        "title": "Security Information and Event Management Policy Change Request"
+      },
+      "worklog": [
+        {
+          "user": "qatest2",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket submitted via MSS Portal by user QA Test User 2 [qatest2]\n\nTuning Type: False Negative Reduction\n\nPCR Acknowledgement Email sent to mss_engineering_-_qa@wwpdl.vnet.ibm.com at 11/7/2019 7:37:13 PM"
+        }
+      ]
+    },
+    {
+      "type": "request",
+      "title": "SIA General Inquiry",
+      "subtitle": "",
+      "id": "SOCP00701515237",
+      "lastUpdate": "Updated a month ago",
+      "timeOfUpdate": "2019-11-07T19:33:50.000Z",
+      "status": "New",
+      "description": ".",
+      "devices": [],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701515237",
+        "title": "SIA General Inquiry"
+      },
+      "worklog": [
+        {
+          "user": "System",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket submitted via MSS Portal by user QA Test User 2 [qatest2]"
+        }
+      ]
+    },
+    {
+      "type": "request",
+      "title": "General Ticket",
+      "subtitle": "",
+      "id": "SOCP00701515236",
+      "lastUpdate": "Updated a month ago",
+      "timeOfUpdate": "2019-11-07T19:33:22.000Z",
+      "status": "New",
+      "description": "This is an automation test ticket.",
+      "devices": [
+        {
+          "name": "airdefense_fw_qa"
+        }
+      ],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701515236",
+        "title": "General Ticket"
+      },
+      "worklog": [
+        {
+          "user": "System",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket submitted via MSS Portal by user QA Test User 2 [qatest2]"
+        }
+      ]
+    },
+    {
+      "type": "request",
+      "title": "General Ticket",
+      "subtitle": "",
+      "id": "SOCP00701515235",
+      "lastUpdate": "Updated a month ago",
+      "timeOfUpdate": "2019-11-07T19:32:44.000Z",
+      "status": "New",
+      "description": ".",
+      "devices": [],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701515235",
+        "title": "General Ticket"
+      },
+      "worklog": [
+        {
+          "user": "System",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket submitted via MSS Portal by user QA Test User 2 [qatest2]"
+        }
+      ]
+    },
+    {
+      "type": "request",
+      "title": "Policy Change Request",
+      "subtitle": "Change Policy",
+      "id": "SOCP00701515160",
+      "lastUpdate": "Updated a month ago",
+      "timeOfUpdate": "2019-11-07T19:31:52.000Z",
+      "status": "New",
+      "description": "General Policy Request",
+      "devices": [
+        {
+          "name": "checkpoint_fw_qa_ha1"
+        }
+      ],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701515160",
+        "title": "Policy Change Request"
+      },
+      "worklog": [
+        {
+          "user": "SOC",
+          "lastUpdate": "Updated a month ago",
+          "text": "1 PCR(s) were removed from PCR Type: 24 Hour PCR SLA due to changes made to this ticket."
+        },
+        {
+          "user": "qatest2",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket submitted via MSS Portal by user QA Test User 2 [qatest2]\n\nNotes: General PR Automation Notes - 11/07/2019\n\nPCR Acknowledgement Email sent to mss_engineering_-_qa@wwpdl.vnet.ibm.com at 11/7/2019 7:31:35 PM"
+        }
+      ]
+    },
+    {
+      "type": "request",
+      "title": "Policy Change Request",
+      "subtitle": "Change Policy",
+      "id": "SOCP00701515234",
+      "lastUpdate": "Updated a month ago",
+      "timeOfUpdate": "2019-11-07T19:30:58.000Z",
+      "status": "New",
+      "description": "General Policy Request",
+      "devices": [
+        {
+          "name": "cp4600-soc-qa"
+        }
+      ],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701515234",
+        "title": "Policy Change Request"
+      },
+      "worklog": [
+        {
+          "user": "SOC",
+          "lastUpdate": "Updated a month ago",
+          "text": "1 PCR(s) were removed from PCR Type: 24 Hour PCR SLA due to changes made to this ticket."
+        },
+        {
+          "user": "qatest2",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket submitted via MSS Portal by user QA Test User 2 [qatest2]\n\nPCR Acknowledgement Email sent to mss_engineering_-_qa@wwpdl.vnet.ibm.com at 11/7/2019 7:30:41 PM"
+        }
+      ]
+    },
+    {
+      "type": "request",
+      "title": "Policy Change Request",
+      "subtitle": "Change Policy",
+      "id": "SOCP00701515231",
+      "lastUpdate": "Updated a month ago",
+      "timeOfUpdate": "2019-11-07T19:27:11.000Z",
+      "status": "New",
+      "description": "IPS Host/Network Block/White List and Action:Block only",
+      "devices": [
+        {
+          "name": "ciscoASA1-selm-qa"
+        }
+      ],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701515231",
+        "title": "Policy Change Request"
+      },
+      "worklog": [
+        {
+          "user": "SOC",
+          "lastUpdate": "Updated a month ago",
+          "text": "1 PCR(s) were removed from PCR Type: 24 Hour PCR SLA due to changes made to this ticket."
+        },
+        {
+          "user": "qatest2",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket submitted via MSS Portal by user QA Test User 2 [qatest2]\n\nSources: 12.34.56.78\nSource ports: 23.45.56.85\nDestinations: 41.25.87.01\nDestination ports: 99.02.11.54\nAction: Block only\nNotes: IPS Notes Automation - 11/07/2019\n\nPCR Acknowledgement Email sent to mss_engineering_-_qa@wwpdl.vnet.ibm.com at 11/7/2019 7:26:55 PM"
+        }
+      ]
+    },
+    {
+      "type": "request",
+      "title": "Policy Change Request",
+      "subtitle": "Change Policy",
+      "id": "SOCP00701515030",
+      "lastUpdate": "Updated a month ago",
+      "timeOfUpdate": "2019-11-07T19:26:02.000Z",
+      "status": "New",
+      "description": "IPS Host/Network Block/White List and Action:Block",
+      "devices": [
+        {
+          "name": "cputm-fw-qa"
+        }
+      ],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701515030",
+        "title": "Policy Change Request"
+      },
+      "worklog": [
+        {
+          "user": "SOC",
+          "lastUpdate": "Updated a month ago",
+          "text": "1 PCR(s) were removed from PCR Type: 2 Hour PCR SLA due to changes made to this ticket."
+        },
+        {
+          "user": "qatest2",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket submitted via MSS Portal by user QA Test User 2 [qatest2]\n\nAction: Block\n\nPCR Acknowledgement Email sent to mss_engineering_-_qa@wwpdl.vnet.ibm.com at 11/7/2019 7:25:46 PM"
+        }
+      ]
+    },
+    {
+      "type": "request",
+      "title": "Policy Change Request",
+      "subtitle": "Change Policy",
+      "id": "SOCP00701515025",
+      "lastUpdate": "Updated a month ago",
+      "timeOfUpdate": "2019-11-07T19:21:08.000Z",
+      "status": "New",
+      "description": "IDS Signature Change and Response:Block",
+      "devices": [
+        {
+          "name": "firepower-soc-qa"
+        }
+      ],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701515025",
+        "title": "Policy Change Request"
+      },
+      "worklog": [
+        {
+          "user": "SOC",
+          "lastUpdate": "Updated a month ago",
+          "text": "1 PCR(s) were removed from PCR Type: 4 Hour PCR SLA due to changes made to this ticket."
+        },
+        {
+          "user": "qatest2",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket submitted via MSS Portal by user QA Test User 2 [qatest2]\n\nRule Number 1:\nDevices: firepower-soc-qa\nEvents:  <?\u0004orrent_DHT_Ping\nResponse: Block\n\nPCR Acknowledgement Email sent to mss_engineering_-_qa@wwpdl.vnet.ibm.com at 11/7/2019 7:20:51 PM"
+        }
+      ]
+    },
+    {
+      "type": "request",
+      "title": "Policy Change Request",
+      "subtitle": "Change Policy",
+      "id": "SOCP00701515148",
+      "lastUpdate": "Updated a month ago",
+      "timeOfUpdate": "2019-11-07T19:16:39.000Z",
+      "status": "New",
+      "description": "Firewall Policy Request and Action:Allow",
+      "devices": [
+        {
+          "name": "hp-avurl-qa"
+        }
+      ],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701515148",
+        "title": "Policy Change Request"
+      },
+      "worklog": [
+        {
+          "user": "SOC",
+          "lastUpdate": "Updated a month ago",
+          "text": "1 PCR(s) were removed from PCR Type: 8 Hour PCR SLA due to changes made to this ticket."
+        },
+        {
+          "user": "qatest2",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket submitted via MSS Portal by user QA Test User 2 [qatest2]\n\nSources: 10.0.0.1\nSource ports: 20.0.0.1\nDestinations: 30.0.0.1\nDestination ports: 40.0.0.1\nProtocol/Service: UDP-127.0.0.1\nApply to interface: Automation - 11/07/2019\nDirection: Inbound\nAction: Allow\nNotes: Firewall Notes Automation - 11/07/2019\n\nPCR Acknowledgement Email sent to mss_engineering_-_qa@wwpdl.vnet.ibm.com at 11/7/2019 7:16:22 PM"
+        }
+      ]
+    },
+    {
+      "type": "request",
+      "title": "Policy Change Request",
+      "subtitle": "Change Policy",
+      "id": "SOCP00701515147",
+      "lastUpdate": "Updated a month ago",
+      "timeOfUpdate": "2019-11-07T19:15:24.000Z",
+      "status": "New",
+      "description": "Firewall Policy Request and Action:Allow",
+      "devices": [
+        {
+          "name": "dell-fw-qa"
+        }
+      ],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701515147",
+        "title": "Policy Change Request"
+      },
+      "worklog": [
+        {
+          "user": "SOC",
+          "lastUpdate": "Updated a month ago",
+          "text": "1 PCR(s) were removed from PCR Type: 2 Hour PCR SLA due to changes made to this ticket."
+        },
+        {
+          "user": "qatest2",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket submitted via MSS Portal by user QA Test User 2 [qatest2]\n\nAction: Allow\n\nPCR Acknowledgement Email sent to mss_engineering_-_qa@wwpdl.vnet.ibm.com at 11/7/2019 7:15:07 PM"
+        }
+      ]
+    },
+    {
+      "type": "request",
+      "title": "Policy Change Request",
+      "subtitle": "Change Policy",
+      "id": "SOCP00701515146",
+      "lastUpdate": "Updated a month ago",
+      "timeOfUpdate": "2019-11-07T19:14:27.000Z",
+      "status": "New",
+      "description": "Firewall Policy Request and Action:Allow",
+      "devices": [
+        {
+          "name": "checkpoint_fw_qa_ha2"
+        },
+        {
+          "name": "checkpoint_fw_qa_ha1"
+        }
+      ],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701515146",
+        "title": "Policy Change Request"
+      },
+      "worklog": [
+        {
+          "user": "SOC",
+          "lastUpdate": "Updated a month ago",
+          "text": "1 PCR(s) were removed from PCR Type: 24 Hour PCR SLA due to changes made to this ticket."
+        },
+        {
+          "user": "qatest2",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket submitted via MSS Portal by user QA Test User 2 [qatest2]\n\nAction: Allow\n\nPCR Acknowledgement Email sent to mss_engineering_-_qa@wwpdl.vnet.ibm.com at 11/7/2019 7:14:10 PM"
+        }
+      ]
+    },
+    {
+      "type": "request",
+      "title": "Remove Security Contact",
+      "subtitle": "",
+      "id": "SOCP00701514999",
+      "lastUpdate": "Updated a month ago",
+      "timeOfUpdate": "2019-11-07T18:43:10.000Z",
+      "status": "New",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque dignissim erat est, in sodales elit placerat vel. Quisque a neque vulputate, consequat leo ac, eleifend felis. Fusce lorem magna, pharetra eu viverra eget, vulputate in diam. Aliquam pharetra dignissim sem, eu tincidunt leo lacinia in. Vivamus laoreet enim at elit dapibus, in vestibulum arcu rutrum. Cras sit amet mollis purus. Aliquam nec nisl volutpat, varius felis sit amet, bibendum diam. Nam fringilla augue bibendum neque vehicula, et molestie sapien suscipit. Curabitur felis dui, venenatis vitae placerat vel, porta a erat. Nunc efficitur egestas dolor, sit amet dignissim quam dictum ac. Quisque sit amet fermentum odio.Morbi pretium non magna at tincidunt. Etiam accumsan ac metus eget gravida. Fusce in efficitur turpis. Curabitur aliquet accumsan orci, nec mattis eros semper sit amet. Mauris ut nibh nibh. Praesent ornare facilisis lacus, eget ornare leo convallis ac. Donec nec tempus massa, sit amet rhoncus felis. Nam pellentesque mauris orci, sit amet rhoncus turpis consequat eget. Vestibulum sed metus a nunc suscipit vulputate ac ut ligula. Maecenas non mauris faucibus, faucibus dui et, semper felis. Proin aliquet mi a orci egestas, eget elementum velit malesuada. Fusce lacinia rutrum condimentum. Nam sagittis, dolor vel sodales posuere, turpis massa rutrum dolor, sit amet auctor neque ipsum posuere sapien.Cras blandit tempus urna, eget mattis eros fermentum nec. Duis in fringilla urna, a finibus orci. Quisque dignissim tempor cursus. Pellentesque vestibulum, turpis et dictum ultricies, odio ex tempor magna, eget volutpat dui neque egestas lorem. Aliquam sit amet dolor leo. In vel tellus nec ipsum congue pharetra eget in risus. Phasellus viverra vulputate fringilla.Praesent consectetur velit sit amet purus facilisis iaculis. Etiam volutpat erat vitae turpis malesuada accumsan. Nullam aliquam mauris quis metus congue mollis. Aenean ut turpis ut urna blandit imperdiet a sit amet ante. Cras magna sapien, luctus non justo non, bibendum sollicitudin nibh. Aenean vitae auctor neque, et tempus nisi. Nunc ex odio, congue quis scelerisque et, sagittis id arcu. Quisque sagittis sodales finibus. Donec bibendum tortor vel molestie feugiat. Ut tellus urna, blandit auctor interdum vel, ullamcorper a ipsum. Cras egestas nec purus ultrices ornare. Curabitur fringilla dui ac arcu viverra tincidunt. Nam et justo quis turpis aliquam ultricies sed in nibh. Curabitur eget nisi eget augue laoreet lacinia eget in nisl. Praesent aliquam rutrum nibh at dictum. Suspendisse tempor laoreet ullamcorper.Cras cursus, sem non auctor fermentum, est velit tempor ex, pulvinar condimentum turpis mi ac est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed sollicitudin erat in metus sodales, cursus pretium turpis feugiat. Aenean gravida leo in magna pretium pretium. Etiam non ex egestas, luctus urna at, convallis felis. Nunc sodales ac dui tempor varius. Duis maximus lacinia sem, sit amet laoreet eros ultrices non. Maecenas fringilla, diam sit amet mattis molestie, mauris arcu efficitur urna, sit amet finibus nisi neque vitae orci. Curabitur ligula arcu, tempor et tincidunt eget, mollis vel nisl. Integer eget faucibus mi, non venenatis sem. Sed id nunc pellentesque sem egestas maximus id non odio. Sed sit amet tellus sit amet nibh interdum bibendum dictum non mi. Mauris tincidunt turpis massa, vitae pretium elit vulputate in. Phasellus blandit massa a accumsan scelerisque.Morbi consequat et erat sit amet fermentum. Vestibulum nec feugiat dolor, vel dictum justo. Duis tincidunt mi eget sem luctus consequat. Aliquam gravida massa eget eros hendrerit vehicula. Curabitur fringilla arcu dui, sit amet venenatis massa auctor ac. Nunc quis ultricies enim. Ut maximus vel justo et suscipit. Vestibulum tristique maximus dui, sed sollicitudin enim euismod sed. Nunc placerat cursus tortor, at porta elit suscipit nec. Proin lorem augue, congue ut gravida et, consequat ac sem.Aliquam facilisis ante eu mattis aliquet. Integer eget dapibus libero. Morbi scelerisque ex et condimentum dapibus. In hac habitasse platea dictumst. Maecenas sit amet elit sapien. Suspendisse a libero tincidunt, lobortis mauris et, laoreet lacus. Proin hendrerit libero ligula, egestas rutrum nulla commodo non. Proin ut mi at purus maximus condimentum. Suspendisse bibendum scelerisque vehicula.In convallis nunc quis mi fermentum imperdiet non et est. Maecenas id pharetra magna. In pellentesque odio sed elit varius gravida. Nulla aliquam enim eros, ac viverra mauris malesuada vel. Morbi sit amet hendrerit erat. Etiam commodo euismod porta. Fusce molestie pellentesque augue et molestie. Phasellus efficitur erat ut odio ultrices condimentum. Pellentesque euismod, elit eget dictum congue, purus sapien rhoncus justo, non egestas lectus neque ut purus. Sed pulvinar tortor dui, eget gravida ex feugiat vel. Quisque vestibulum, diam id faucibus viverra, augue augue volutpat metus, sed viverra elit quam sed est. Morbi scelerisque purus ut sem imperdiet, in convallis eros aliquam. Phasellus hendrerit lacinia tristique. Etiam eu augue condimentum, vestibulum massa at, hendrerit sapien. Curabitur nisl ligula, aliquet id felis cursus, egestas viverra sem.Nulla commodo eros eu tortor vestibulum tincidunt. Donec auctor orci vitae metus venenatis, luctus maximus velit finibus. Cras nibh purus, laoreet eu fermentum eu, mattis sed arcu. Quisque tincidunt placerat tellus sit amet imperdiet. Curabitur diam diam, lacinia et odio at, fermentum luctus turpis. In in dapibus dui, eu commodo libero. Duis sed condimentum ante, eu ultrices massa. Sed vulputate tincidunt mauris, eu consectetur felis convallis non. Suspendisse semper, tellus vitae auctor sagittis, orci purus sodales felis, sed ultrices magna ante et leo. Duis a ipsum varius, tincidunt tellus ac, vehicula turpis. Sed porta justo gravida, dapibus mauris at, tristique sapien.Nulla quis mauris id arcu mollis interdum. Suspendisse tempus vitae ex sit amet varius. Vivamus varius est id pretium condimentum. Sed vel accumsan quam. Quisque enim augue, rutrum vel arcu a, sagittis ultrices justo. Cras eu aliquet ligula. Vestibulum aliquam venenatis lorem id ornare. Fusce hendrerit fermentum nibh convallis malesuada. Nullam tristique volutpat auctor. Maecenas nec sem eros. Maecenas molestie tellus ac orci iaculis, eu accumsan urna posuere. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce odio neque, auctor ut consequat id, consequat vel dui. Maecenas sodales sodales diam, ut mollis dolor sodales id. Nulla efficitur id erat id faucibus. Aenean neque nibh, blandit nec dui eget, tincidunt dictum diam.Ut viverra ultricies augue in pulvinar. Pellentesque cursus interdum erat, vel finibus purus porta eget. Etiam aliquam aliquam convallis. Nunc vitae ante nunc. Suspendisse potenti. Maecenas sollicitudin hendrerit nisl, quis accumsan lectus mattis et. Ut non efficitur leo. Integer aliquet at urna aliquam molestie. Fusce id nisi quis nisi pulvinar molestie. Duis dignissim bibendum posuere. Donec quis est vitae quam porttitor varius malesuada ac ex. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas ex lacus, eget sollicitudin purus vehicula non. Vestibulum et aliquam nulla. Pellentesque non condimentum est.Sed volutpat rutrum erat, eu dignissim nunc efficitur vel. Pellentesque facilisis risus arcu, vitae rhoncus diam dignissim tempus. Sed pharetra, ipsum sit amet luctus egestas, magna velit fringilla turpis, vitae faucibus ligula erat sed quam. Sed lobortis massa eu purus mollis iaculis. Donec in pharetra sem, vitae euismod lectus. Quisque eu ex id ex dapibus tempor nec sed dui. Nam ac vestibulum nisl. Vestibulum auctor nisi nec metus auctor convallis. Pellentesque pulvinar, leo sed consequat imperdiet, diam tellus efficitur mauris, sit amet imperdiet tortor felis a odio. Nulla facilisi. In at iaculis la...\nSee worklog for full text",
+      "devices": [],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701514999",
+        "title": "Remove Security Contact"
+      },
+      "worklog": [
+        {
+          "user": "System",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket submitted via MSS Portal by user QA Test User 2 [qatest2]\n\n\nOriginal Issue Description:\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque dignissim erat est, in sodales elit placerat vel. Quisque a neque vulputate, consequat leo ac, eleifend felis. Fusce lorem magna, pharetra eu viverra eget, vulputate in diam. Aliquam pharetra dignissim sem, eu tincidunt leo lacinia in. Vivamus laoreet enim at elit dapibus, in vestibulum arcu rutrum. Cras sit amet mollis purus. Aliquam nec nisl volutpat, varius felis sit amet, bibendum diam. Nam fringilla augue bibendum neque vehicula, et molestie sapien suscipit. Curabitur felis dui, venenatis vitae placerat vel, porta a erat. Nunc efficitur egestas dolor, sit amet dignissim quam dictum ac. Quisque sit amet fermentum odio.Morbi pretium non magna at tincidunt. Etiam accumsan ac metus eget gravida. Fusce in efficitur turpis. Curabitur aliquet accumsan orci, nec mattis eros semper sit amet. Mauris ut nibh nibh. Praesent ornare facilisis lacus, eget ornare leo convallis ac. Donec nec tempus massa, sit amet rhoncus felis. Nam pellentesque mauris orci, sit amet rhoncus turpis consequat eget. Vestibulum sed metus a nunc suscipit vulputate ac ut ligula. Maecenas non mauris faucibus, faucibus dui et, semper felis. Proin aliquet mi a orci egestas, eget elementum velit malesuada. Fusce lacinia rutrum condimentum. Nam sagittis, dolor vel sodales posuere, turpis massa rutrum dolor, sit amet auctor neque ipsum posuere sapien.Cras blandit tempus urna, eget mattis eros fermentum nec. Duis in fringilla urna, a finibus orci. Quisque dignissim tempor cursus. Pellentesque vestibulum, turpis et dictum ultricies, odio ex tempor magna, eget volutpat dui neque egestas lorem. Aliquam sit amet dolor leo. In vel tellus nec ipsum congue pharetra eget in risus. Phasellus viverra vulputate fringilla.Praesent consectetur velit sit amet purus facilisis iaculis. Etiam volutpat erat vitae turpis malesuada accumsan. Nullam aliquam mauris quis metus congue mollis. Aenean ut turpis ut urna blandit imperdiet a sit amet ante. Cras magna sapien, luctus non justo non, bibendum sollicitudin nibh. Aenean vitae auctor neque, et tempus nisi. Nunc ex odio, congue quis scelerisque et, sagittis id arcu. Quisque sagittis sodales finibus. Donec bibendum tortor vel molestie feugiat. Ut tellus urna, blandit auctor interdum vel, ullamcorper a ipsum. Cras egestas nec purus ultrices ornare. Curabitur fringilla dui ac arcu viverra tincidunt. Nam et justo quis turpis aliquam ultricies sed in nibh. Curabitur eget nisi eget augue laoreet lacinia eget in nisl. Praesent aliquam rutrum nibh at dictum. Suspendisse tempor laoreet ullamcorper.Cras cursus, sem non auctor fermentum, est velit tempor ex, pulvinar condimentum turpis mi ac est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed sollicitudin erat in metus sodales, cursus pretium turpis feugiat. Aenean gravida leo in magna pretium pretium. Etiam non ex egestas, luctus urna at, convallis felis. Nunc sodales ac dui tempor varius. Duis maximus lacinia sem, sit amet laoreet eros ultrices non. Maecenas fringilla, diam sit amet mattis molestie, mauris arcu efficitur urna, sit amet finibus nisi neque vitae orci. Curabitur ligula arcu, tempor et tincidunt eget, mollis vel nisl. Integer eget faucibus mi, non venenatis sem. Sed id nunc pellentesque sem egestas maximus id non odio. Sed sit amet tellus sit amet nibh interdum bibendum dictum non mi. Mauris tincidunt turpis massa, vitae pretium elit vulputate in. Phasellus blandit massa a accumsan scelerisque.Morbi consequat et erat sit amet fermentum. Vestibulum nec feugiat dolor, vel dictum justo. Duis tincidunt mi eget sem luctus consequat. Aliquam gravida massa eget eros hendrerit vehicula. Curabitur fringilla arcu dui, sit amet venenatis massa auctor ac. Nunc quis ultricies enim. Ut maximus vel justo et suscipit. Vestibulum tristique maximus dui, sed sollicitudin enim euismod sed. Nunc placerat cursus tortor, at porta elit suscipit nec. Proin lorem augue, congue ut gravida et, consequat ac sem.Aliquam facilisis ante eu mattis aliquet. Integer eget dapibus libero. Morbi scelerisque ex et condimentum dapibus. In hac habitasse platea dictumst. Maecenas sit amet elit sapien. Suspendisse a libero tincidunt, lobortis mauris et, laoreet lacus. Proin hendrerit libero ligula, egestas rutrum nulla commodo non. Proin ut mi at purus maximus condimentum. Suspendisse bibendum scelerisque vehicula.In convallis nunc quis mi fermentum imperdiet non et est. Maecenas id pharetra magna. In pellentesque odio sed elit varius gravida. Nulla aliquam enim eros, ac viverra mauris malesuada vel. Morbi sit amet hendrerit erat. Etiam commodo euismod porta. Fusce molestie pellentesque augue et molestie. Phasellus efficitur erat ut odio ultrices condimentum. Pellentesque euismod, elit eget dictum congue, purus sapien rhoncus justo, non egestas lectus neque ut purus. Sed pulvinar tortor dui, eget gravida ex feugiat vel. Quisque vestibulum, diam id faucibus viverra, augue augue volutpat metus, sed viverra elit quam sed est. Morbi scelerisque purus ut sem imperdiet, in convallis eros aliquam. Phasellus hendrerit lacinia tristique. Etiam eu augue condimentum, vestibulum massa at, hendrerit sapien. Curabitur nisl ligula, aliquet id felis cursus, egestas viverra sem.Nulla commodo eros eu tortor vestibulum tincidunt. Donec auctor orci vitae metus venenatis, luctus maximus velit finibus. Cras nibh purus, laoreet eu fermentum eu, mattis sed arcu. Quisque tincidunt placerat tellus sit amet imperdiet. Curabitur diam diam, lacinia et odio at, fermentum luctus turpis. In in dapibus dui, eu commodo libero. Duis sed condimentum ante, eu ultrices massa. Sed vulputate tincidunt mauris, eu consectetur felis convallis non. Suspendisse semper, tellus vitae auctor sagittis, orci purus sodales felis, sed ultrices magna ante et leo. Duis a ipsum varius, tincidunt tellus ac, vehicula turpis. Sed porta justo gravida, dapibus mauris at, tristique sapien.Nulla quis mauris id arcu mollis interdum. Suspendisse tempus vitae ex sit amet varius. Vivamus varius est id pretium condimentum. Sed vel accumsan quam. Quisque enim augue, rutrum vel arcu a, sagittis ultrices justo. Cras eu aliquet ligula. Vestibulum aliquam venenatis lorem id ornare. Fusce hendrerit fermentum nibh convallis malesuada. Nullam tristique volutpat auctor. Maecenas nec sem eros. Maecenas molestie tellus ac orci iaculis, eu accumsan urna posuere. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce odio neque, auctor ut consequat id, consequat vel dui. Maecenas sodales sodales diam, ut mollis dolor sodales id. Nulla efficitur id erat id faucibus. Aenean neque nibh, blandit nec dui eget, tincidunt dictum diam.Ut viverra ultricies augue in pulvinar. Pellentesque cursus interdum erat, vel finibus purus porta eget. Etiam aliquam aliquam convallis. Nunc vitae ante nunc. Suspendisse potenti. Maecenas sollicitudin hendrerit nisl, quis accumsan lectus mattis et. Ut non efficitur leo. Integer aliquet at urna aliquam molestie. Fusce id nisi quis nisi pulvinar molestie. Duis dignissim bibendum posuere. Donec quis est vitae quam porttitor varius malesuada ac ex. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas ex lacus, eget sollicitudin purus vehicula non. Vestibulum et aliquam nulla. Pellentesque non condimentum est.Sed volutpat rutrum erat, eu dignissim nunc efficitur vel. Pellentesque facilisis risus arcu, vitae rhoncus diam dignissim tempus. Sed pharetra, ipsum sit amet luctus egestas, magna velit fringilla turpis, vitae faucibus ligula erat sed quam. Sed lobortis massa eu purus mollis iaculis. Donec in pharetra sem, vitae euismod lectus. Quisque eu ex id ex dapibus tempor nec sed dui. Nam ac vestibulum nisl. Vestibulum auctor nisi nec metus auctor convallis. Pellentesque pulvinar, leo sed consequat imperdiet, diam tellus efficitur mauris, sit amet imperdiet tortor felis a odio. Nulla facilisi. In at iaculis lacus. Integer imperdiet sedetipsuma, ut mollis dolor sodales id. Nulla efficitur id erat id faucibus. Aenean neque nibh, blandit nec dui eget, tincidunt dictum diam.Ut viverra ultricies augue in pulvinar. Pellentesque cursus interdum erat, vel finibus purus porta eget. Etiam aliquam aliquam convallis. Nunc vitae ante nunc. Suspendisse potenti. Maecenas sollicitudin hendrerit nisl, quis accumsan lectus mattis et. Ut non efficitur leo. Integer aliquet at urna aliquam molestie. Fusce id nisi quis nisi pulvinar molestie. Duis dignissim bibendum posuere. Donec quis est vitae quam porttitor varius malesuada ac ex. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas ex lacus, eget sollicitudin purus vehiculaq"
+        }
+      ]
+    },
+    {
+      "type": "request",
+      "title": "General Ticket",
+      "subtitle": "",
+      "id": "SOCP00701515001",
+      "lastUpdate": "Updated a month ago",
+      "timeOfUpdate": "2019-11-07T18:43:09.000Z",
+      "status": "New",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque dignissim erat est, in sodales elit placerat vel. Quisque a neque vulputate, consequat leo ac, eleifend felis. Fusce lorem magna, pharetra eu viverra eget, vulputate in diam. Aliquam pharetra dignissim sem, eu tincidunt leo lacinia in. Vivamus laoreet enim at elit dapibus, in vestibulum arcu rutrum. Cras sit amet mollis purus. Aliquam nec nisl volutpat, varius felis sit amet, bibendum diam. Nam fringilla augue bibendum neque vehicula, et molestie sapien suscipit. Curabitur felis dui, venenatis vitae placerat vel, porta a erat. Nunc efficitur egestas dolor, sit amet dignissim quam dictum ac. Quisque sit amet fermentum odio.Morbi pretium non magna at tincidunt. Etiam accumsan ac metus eget gravida. Fusce in efficitur turpis. Curabitur aliquet accumsan orci, nec mattis eros semper sit amet. Mauris ut nibh nibh. Praesent ornare facilisis lacus, eget ornare leo convallis ac. Donec nec tempus massa, sit amet rhoncus felis. Nam pellentesque mauris orci, sit amet rhoncus turpis consequat eget. Vestibulum sed metus a nunc suscipit vulputate ac ut ligula. Maecenas non mauris faucibus, faucibus dui et, semper felis. Proin aliquet mi a orci egestas, eget elementum velit malesuada. Fusce lacinia rutrum condimentum. Nam sagittis, dolor vel sodales posuere, turpis massa rutrum dolor, sit amet auctor neque ipsum posuere sapien.Cras blandit tempus urna, eget mattis eros fermentum nec. Duis in fringilla urna, a finibus orci. Quisque dignissim tempor cursus. Pellentesque vestibulum, turpis et dictum ultricies, odio ex tempor magna, eget volutpat dui neque egestas lorem. Aliquam sit amet dolor leo. In vel tellus nec ipsum congue pharetra eget in risus. Phasellus viverra vulputate fringilla.Praesent consectetur velit sit amet purus facilisis iaculis. Etiam volutpat erat vitae turpis malesuada accumsan. Nullam aliquam mauris quis metus congue mollis. Aenean ut turpis ut urna blandit imperdiet a sit amet ante. Cras magna sapien, luctus non justo non, bibendum sollicitudin nibh. Aenean vitae auctor neque, et tempus nisi. Nunc ex odio, congue quis scelerisque et, sagittis id arcu. Quisque sagittis sodales finibus. Donec bibendum tortor vel molestie feugiat. Ut tellus urna, blandit auctor interdum vel, ullamcorper a ipsum. Cras egestas nec purus ultrices ornare. Curabitur fringilla dui ac arcu viverra tincidunt. Nam et justo quis turpis aliquam ultricies sed in nibh. Curabitur eget nisi eget augue laoreet lacinia eget in nisl. Praesent aliquam rutrum nibh at dictum. Suspendisse tempor laoreet ullamcorper.Cras cursus, sem non auctor fermentum, est velit tempor ex, pulvinar condimentum turpis mi ac est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed sollicitudin erat in metus sodales, cursus pretium turpis feugiat. Aenean gravida leo in magna pretium pretium. Etiam non ex egestas, luctus urna at, convallis felis. Nunc sodales ac dui tempor varius. Duis maximus lacinia sem, sit amet laoreet eros ultrices non. Maecenas fringilla, diam sit amet mattis molestie, mauris arcu efficitur urna, sit amet finibus nisi neque vitae orci. Curabitur ligula arcu, tempor et tincidunt eget, mollis vel nisl. Integer eget faucibus mi, non venenatis sem. Sed id nunc pellentesque sem egestas maximus id non odio. Sed sit amet tellus sit amet nibh interdum bibendum dictum non mi. Mauris tincidunt turpis massa, vitae pretium elit vulputate in. Phasellus blandit massa a accumsan scelerisque.Morbi consequat et erat sit amet fermentum. Vestibulum nec feugiat dolor, vel dictum justo. Duis tincidunt mi eget sem luctus consequat. Aliquam gravida massa eget eros hendrerit vehicula. Curabitur fringilla arcu dui, sit amet venenatis massa auctor ac. Nunc quis ultricies enim. Ut maximus vel justo et suscipit. Vestibulum tristique maximus dui, sed sollicitudin enim euismod sed. Nunc placerat cursus tortor, at porta elit suscipit nec. Proin lorem augue, congue ut gravida et, consequat ac sem.Aliquam facilisis ante eu mattis aliquet. Integer eget dapibus libero. Morbi scelerisque ex et condimentum dapibus. In hac habitasse platea dictumst. Maecenas sit amet elit sapien. Suspendisse a libero tincidunt, lobortis mauris et, laoreet lacus. Proin hendrerit libero ligula, egestas rutrum nulla commodo non. Proin ut mi at purus maximus condimentum. Suspendisse bibendum scelerisque vehicula.In convallis nunc quis mi fermentum imperdiet non et est. Maecenas id pharetra magna. In pellentesque odio sed elit varius gravida. Nulla aliquam enim eros, ac viverra mauris malesuada vel. Morbi sit amet hendrerit erat. Etiam commodo euismod porta. Fusce molestie pellentesque augue et molestie. Phasellus efficitur erat ut odio ultrices condimentum. Pellentesque euismod, elit eget dictum congue, purus sapien rhoncus justo, non egestas lectus neque ut purus. Sed pulvinar tortor dui, eget gravida ex feugiat vel. Quisque vestibulum, diam id faucibus viverra, augue augue volutpat metus, sed viverra elit quam sed est. Morbi scelerisque purus ut sem imperdiet, in convallis eros aliquam. Phasellus hendrerit lacinia tristique. Etiam eu augue condimentum, vestibulum massa at, hendrerit sapien. Curabitur nisl ligula, aliquet id felis cursus, egestas viverra sem.Nulla commodo eros eu tortor vestibulum tincidunt. Donec auctor orci vitae metus venenatis, luctus maximus velit finibus. Cras nibh purus, laoreet eu fermentum eu, mattis sed arcu. Quisque tincidunt placerat tellus sit amet imperdiet. Curabitur diam diam, lacinia et odio at, fermentum luctus turpis. In in dapibus dui, eu commodo libero. Duis sed condimentum ante, eu ultrices massa. Sed vulputate tincidunt mauris, eu consectetur felis convallis non. Suspendisse semper, tellus vitae auctor sagittis, orci purus sodales felis, sed ultrices magna ante et leo. Duis a ipsum varius, tincidunt tellus ac, vehicula turpis. Sed porta justo gravida, dapibus mauris at, tristique sapien.Nulla quis mauris id arcu mollis interdum. Suspendisse tempus vitae ex sit amet varius. Vivamus varius est id pretium condimentum. Sed vel accumsan quam. Quisque enim augue, rutrum vel arcu a, sagittis ultrices justo. Cras eu aliquet ligula. Vestibulum aliquam venenatis lorem id ornare. Fusce hendrerit fermentum nibh convallis malesuada. Nullam tristique volutpat auctor. Maecenas nec sem eros. Maecenas molestie tellus ac orci iaculis, eu accumsan urna posuere. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce odio neque, auctor ut consequat id, consequat vel dui. Maecenas sodales sodales diam, ut mollis dolor sodales id. Nulla efficitur id erat id faucibus. Aenean neque nibh, blandit nec dui eget, tincidunt dictum diam.Ut viverra ultricies augue in pulvinar. Pellentesque cursus interdum erat, vel finibus purus porta eget. Etiam aliquam aliquam convallis. Nunc vitae ante nunc. Suspendisse potenti. Maecenas sollicitudin hendrerit nisl, quis accumsan lectus mattis et. Ut non efficitur leo. Integer aliquet at urna aliquam molestie. Fusce id nisi quis nisi pulvinar molestie. Duis dignissim bibendum posuere. Donec quis est vitae quam porttitor varius malesuada ac ex. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas ex lacus, eget sollicitudin purus vehicula non. Vestibulum et aliquam nulla. Pellentesque non condimentum est.Sed volutpat rutrum erat, eu dignissim nunc efficitur vel. Pellentesque facilisis risus arcu, vitae rhoncus diam dignissim tempus. Sed pharetra, ipsum sit amet luctus egestas, magna velit fringilla turpis, vitae faucibus ligula erat sed quam. Sed lobortis massa eu purus mollis iaculis. Donec in pharetra sem, vitae euismod lectus. Quisque eu ex id ex dapibus tempor nec sed dui. Nam ac vestibulum nisl. Vestibulum auctor nisi nec metus auctor convallis. Pellentesque pulvinar, leo sed consequat imperdiet, diam tellus efficitur mauris, sit amet imperdiet tortor felis a odio. Nulla facilisi. In at iaculis la...\nSee worklog for full text",
+      "devices": [],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701515001",
+        "title": "General Ticket"
+      },
+      "worklog": [
+        {
+          "user": "System",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket submitted via MSS Portal by user QA Test User 2 [qatest2]\n\n\nOriginal Issue Description:\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque dignissim erat est, in sodales elit placerat vel. Quisque a neque vulputate, consequat leo ac, eleifend felis. Fusce lorem magna, pharetra eu viverra eget, vulputate in diam. Aliquam pharetra dignissim sem, eu tincidunt leo lacinia in. Vivamus laoreet enim at elit dapibus, in vestibulum arcu rutrum. Cras sit amet mollis purus. Aliquam nec nisl volutpat, varius felis sit amet, bibendum diam. Nam fringilla augue bibendum neque vehicula, et molestie sapien suscipit. Curabitur felis dui, venenatis vitae placerat vel, porta a erat. Nunc efficitur egestas dolor, sit amet dignissim quam dictum ac. Quisque sit amet fermentum odio.Morbi pretium non magna at tincidunt. Etiam accumsan ac metus eget gravida. Fusce in efficitur turpis. Curabitur aliquet accumsan orci, nec mattis eros semper sit amet. Mauris ut nibh nibh. Praesent ornare facilisis lacus, eget ornare leo convallis ac. Donec nec tempus massa, sit amet rhoncus felis. Nam pellentesque mauris orci, sit amet rhoncus turpis consequat eget. Vestibulum sed metus a nunc suscipit vulputate ac ut ligula. Maecenas non mauris faucibus, faucibus dui et, semper felis. Proin aliquet mi a orci egestas, eget elementum velit malesuada. Fusce lacinia rutrum condimentum. Nam sagittis, dolor vel sodales posuere, turpis massa rutrum dolor, sit amet auctor neque ipsum posuere sapien.Cras blandit tempus urna, eget mattis eros fermentum nec. Duis in fringilla urna, a finibus orci. Quisque dignissim tempor cursus. Pellentesque vestibulum, turpis et dictum ultricies, odio ex tempor magna, eget volutpat dui neque egestas lorem. Aliquam sit amet dolor leo. In vel tellus nec ipsum congue pharetra eget in risus. Phasellus viverra vulputate fringilla.Praesent consectetur velit sit amet purus facilisis iaculis. Etiam volutpat erat vitae turpis malesuada accumsan. Nullam aliquam mauris quis metus congue mollis. Aenean ut turpis ut urna blandit imperdiet a sit amet ante. Cras magna sapien, luctus non justo non, bibendum sollicitudin nibh. Aenean vitae auctor neque, et tempus nisi. Nunc ex odio, congue quis scelerisque et, sagittis id arcu. Quisque sagittis sodales finibus. Donec bibendum tortor vel molestie feugiat. Ut tellus urna, blandit auctor interdum vel, ullamcorper a ipsum. Cras egestas nec purus ultrices ornare. Curabitur fringilla dui ac arcu viverra tincidunt. Nam et justo quis turpis aliquam ultricies sed in nibh. Curabitur eget nisi eget augue laoreet lacinia eget in nisl. Praesent aliquam rutrum nibh at dictum. Suspendisse tempor laoreet ullamcorper.Cras cursus, sem non auctor fermentum, est velit tempor ex, pulvinar condimentum turpis mi ac est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed sollicitudin erat in metus sodales, cursus pretium turpis feugiat. Aenean gravida leo in magna pretium pretium. Etiam non ex egestas, luctus urna at, convallis felis. Nunc sodales ac dui tempor varius. Duis maximus lacinia sem, sit amet laoreet eros ultrices non. Maecenas fringilla, diam sit amet mattis molestie, mauris arcu efficitur urna, sit amet finibus nisi neque vitae orci. Curabitur ligula arcu, tempor et tincidunt eget, mollis vel nisl. Integer eget faucibus mi, non venenatis sem. Sed id nunc pellentesque sem egestas maximus id non odio. Sed sit amet tellus sit amet nibh interdum bibendum dictum non mi. Mauris tincidunt turpis massa, vitae pretium elit vulputate in. Phasellus blandit massa a accumsan scelerisque.Morbi consequat et erat sit amet fermentum. Vestibulum nec feugiat dolor, vel dictum justo. Duis tincidunt mi eget sem luctus consequat. Aliquam gravida massa eget eros hendrerit vehicula. Curabitur fringilla arcu dui, sit amet venenatis massa auctor ac. Nunc quis ultricies enim. Ut maximus vel justo et suscipit. Vestibulum tristique maximus dui, sed sollicitudin enim euismod sed. Nunc placerat cursus tortor, at porta elit suscipit nec. Proin lorem augue, congue ut gravida et, consequat ac sem.Aliquam facilisis ante eu mattis aliquet. Integer eget dapibus libero. Morbi scelerisque ex et condimentum dapibus. In hac habitasse platea dictumst. Maecenas sit amet elit sapien. Suspendisse a libero tincidunt, lobortis mauris et, laoreet lacus. Proin hendrerit libero ligula, egestas rutrum nulla commodo non. Proin ut mi at purus maximus condimentum. Suspendisse bibendum scelerisque vehicula.In convallis nunc quis mi fermentum imperdiet non et est. Maecenas id pharetra magna. In pellentesque odio sed elit varius gravida. Nulla aliquam enim eros, ac viverra mauris malesuada vel. Morbi sit amet hendrerit erat. Etiam commodo euismod porta. Fusce molestie pellentesque augue et molestie. Phasellus efficitur erat ut odio ultrices condimentum. Pellentesque euismod, elit eget dictum congue, purus sapien rhoncus justo, non egestas lectus neque ut purus. Sed pulvinar tortor dui, eget gravida ex feugiat vel. Quisque vestibulum, diam id faucibus viverra, augue augue volutpat metus, sed viverra elit quam sed est. Morbi scelerisque purus ut sem imperdiet, in convallis eros aliquam. Phasellus hendrerit lacinia tristique. Etiam eu augue condimentum, vestibulum massa at, hendrerit sapien. Curabitur nisl ligula, aliquet id felis cursus, egestas viverra sem.Nulla commodo eros eu tortor vestibulum tincidunt. Donec auctor orci vitae metus venenatis, luctus maximus velit finibus. Cras nibh purus, laoreet eu fermentum eu, mattis sed arcu. Quisque tincidunt placerat tellus sit amet imperdiet. Curabitur diam diam, lacinia et odio at, fermentum luctus turpis. In in dapibus dui, eu commodo libero. Duis sed condimentum ante, eu ultrices massa. Sed vulputate tincidunt mauris, eu consectetur felis convallis non. Suspendisse semper, tellus vitae auctor sagittis, orci purus sodales felis, sed ultrices magna ante et leo. Duis a ipsum varius, tincidunt tellus ac, vehicula turpis. Sed porta justo gravida, dapibus mauris at, tristique sapien.Nulla quis mauris id arcu mollis interdum. Suspendisse tempus vitae ex sit amet varius. Vivamus varius est id pretium condimentum. Sed vel accumsan quam. Quisque enim augue, rutrum vel arcu a, sagittis ultrices justo. Cras eu aliquet ligula. Vestibulum aliquam venenatis lorem id ornare. Fusce hendrerit fermentum nibh convallis malesuada. Nullam tristique volutpat auctor. Maecenas nec sem eros. Maecenas molestie tellus ac orci iaculis, eu accumsan urna posuere. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce odio neque, auctor ut consequat id, consequat vel dui. Maecenas sodales sodales diam, ut mollis dolor sodales id. Nulla efficitur id erat id faucibus. Aenean neque nibh, blandit nec dui eget, tincidunt dictum diam.Ut viverra ultricies augue in pulvinar. Pellentesque cursus interdum erat, vel finibus purus porta eget. Etiam aliquam aliquam convallis. Nunc vitae ante nunc. Suspendisse potenti. Maecenas sollicitudin hendrerit nisl, quis accumsan lectus mattis et. Ut non efficitur leo. Integer aliquet at urna aliquam molestie. Fusce id nisi quis nisi pulvinar molestie. Duis dignissim bibendum posuere. Donec quis est vitae quam porttitor varius malesuada ac ex. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas ex lacus, eget sollicitudin purus vehicula non. Vestibulum et aliquam nulla. Pellentesque non condimentum est.Sed volutpat rutrum erat, eu dignissim nunc efficitur vel. Pellentesque facilisis risus arcu, vitae rhoncus diam dignissim tempus. Sed pharetra, ipsum sit amet luctus egestas, magna velit fringilla turpis, vitae faucibus ligula erat sed quam. Sed lobortis massa eu purus mollis iaculis. Donec in pharetra sem, vitae euismod lectus. Quisque eu ex id ex dapibus tempor nec sed dui. Nam ac vestibulum nisl. Vestibulum auctor nisi nec metus auctor convallis. Pellentesque pulvinar, leo sed consequat imperdiet, diam tellus efficitur mauris, sit amet imperdiet tortor felis a odio. Nulla facilisi. In at iaculis lacus. Integer imperdiet sedetipsuma, ut mollis dolor sodales id. Nulla efficitur id erat id faucibus. Aenean neque nibh, blandit nec dui eget, tincidunt dictum diam.Ut viverra ultricies augue in pulvinar. Pellentesque cursus interdum erat, vel finibus purus porta eget. Etiam aliquam aliquam convallis. Nunc vitae ante nunc. Suspendisse potenti. Maecenas sollicitudin hendrerit nisl, quis accumsan lectus mattis et. Ut non efficitur leo. Integer aliquet at urna aliquam molestie. Fusce id nisi quis nisi pulvinar molestie. Duis dignissim bibendum posuere. Donec quis est vitae quam porttitor varius malesuada ac ex. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas ex lacus, eget sollicitudin purus vehiculaq"
+        }
+      ]
+    },
+    {
+      "type": "request",
+      "title": "Policy Change Request",
+      "subtitle": "Change Policy",
+      "id": "SOCP00701514820",
+      "lastUpdate": "Updated a month ago",
+      "timeOfUpdate": "2019-11-07T18:03:15.000Z",
+      "status": "New",
+      "description": "Firewall Policy Request and Action:Allow",
+      "devices": [
+        {
+          "name": "checkpoint_fw_qa_ha2"
+        },
+        {
+          "name": "checkpoint_fw_qa_ha1"
+        }
+      ],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701514820",
+        "title": "Policy Change Request"
+      },
+      "worklog": [
+        {
+          "user": "SOC",
+          "lastUpdate": "Updated a month ago",
+          "text": "1 PCR(s) were removed from PCR Type: 4 Hour PCR SLA due to changes made to this ticket."
+        },
+        {
+          "user": "js_automation",
+          "lastUpdate": "Updated a month ago",
+          "text": "Ticket submitted via MSS Portal by user QA JS Automation [js_automation]\n\nAction: Allow\n\nPCR Acknowledgement Email sent to tfcosta@br.ibm.com at 11/7/2019 6:02:59 PM"
+        }
+      ]
+    }
+  ]
+}

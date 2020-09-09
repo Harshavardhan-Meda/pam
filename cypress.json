@@ -1,0 +1,11 @@
+{
+  "baseUrl": "https://localhost:8080",
+  "chromeWebSecurity": false,
+  "defaultCommandTimeout": 25000,
+  "responseTimeout": 30000,
+  "reporter": "cypress-multi-reporters",
+  "reporterOptions": {
+    "configFile": "reporter.json"
+  },
+  "snapshotFileName": "./cypress/snapshots/snapshots.js"
+}

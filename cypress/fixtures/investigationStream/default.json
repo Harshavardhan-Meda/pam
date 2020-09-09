@@ -1,0 +1,670 @@
+{
+  "hasMore": true,
+  "offset": 20,
+  "items": [
+    {
+      "type": "investigation",
+      "title": "Unauthorized Access",
+      "subtitle": "",
+      "id": "SOCP00701548574",
+      "lastUpdate": "Updated 40 minutes ago",
+      "timeOfUpdate": "2019-11-25T20:11:55.000Z",
+      "status": "New",
+      "description": "new desc.",
+      "priority": "low",
+      "devices": [],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701548574",
+        "title": "Unauthorized Access"
+      },
+      "worklog": [{ "user": "null", "lastUpdate": "Updated 40 minutes ago", "text": "test - -1440601860" }]
+    },
+    {
+      "type": "investigation",
+      "title": "Probes and Scans",
+      "subtitle": "",
+      "id": "SOCP00701428776",
+      "lastUpdate": "Updated 40 minutes ago",
+      "timeOfUpdate": "2019-12-03T21:52:47.000Z",
+      "status": "New",
+      "description": "This is an automation test ticket.",
+      "priority": "high",
+      "devices": [{ "name": "bluecoat-selm-qa" }],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701428776",
+        "title": "Probes and Scans"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 40 minutes ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 40 minutes ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\ntest comment [timestamp: 1575409952044]"
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated an hour ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated an hour ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\ntest comment [timestamp: 1575409493587]"
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated an hour ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated an hour ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\ntest comment [timestamp: 1575408730752]"
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated an hour ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated an hour ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\ntest comment [timestamp: 1575408185144]"
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated an hour ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 12 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 12 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "System",
+          "lastUpdate": "Updated 2 months ago",
+          "text": "Ticket submitted via MSS Portal by user QA Test User 2 [qatest2]"
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Trend Analysis",
+      "subtitle": "",
+      "id": "SOCP00701542938",
+      "lastUpdate": "Updated an hour ago",
+      "timeOfUpdate": "2019-12-03T21:07:43.000Z",
+      "status": "New",
+      "description": "Automation Test",
+      "priority": "low",
+      "devices": [{ "name": "ibm-selm-qa" }],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701542938",
+        "title": "Trend Analysis"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated an hour ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated an hour ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\ntest comment [timestamp: 1575407251168]"
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 2 hours ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 6 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 6 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\ntest comment [timestamp: 1574861009354]"
+        },
+        {
+          "user": "AR_ESCALATOR",
+          "lastUpdate": "Updated 6 days ago",
+          "text": "No additional activity surrounding this issue has been detected by ISS or reported by customer.  This ticket will now be placed into a Pending Closure Status, where related activity can still be added to the ticket if needed.\n\n\n\nPlease take a moment to rate the SOC's handling of this ticket by using the Ticket Rating system, available in the Ticket Manager area of the Virtual SOC Portal. Your satisfaction and feedback is very important to us. Thank you!\n\nTicket is now pending any additional followup the customer may wish to add or report back to complete processing of this issue.  No additional related activity or customer followup within 5 days will result in closure of this issue."
+        },
+        {
+          "user": "atl-prd-webapp-02a-SOC_Console",
+          "lastUpdate": "Updated 11 days ago",
+          "text": "Portal Notification send to (1 contacts) diegocs@br.ibm.com at 11.22.2019 13:08:23\n\nStatus changed to Pending"
+        },
+        {
+          "user": "remedyqa",
+          "lastUpdate": "Updated 11 days ago",
+          "text": "Src Ip            Src Port  Event Name                               Action   Severity  Dst Ip            Dst Port  Count   Timestamp\n172.16.34.124     null      Failed_Login_Attempt                     FAILED   UNKNOWN   null              null      1       11/20/2019 00:15:02\n172.16.34.124     null      Failed_Login_Attempt                     FAILED   UNKNOWN   null              null      1       11/20/2019 00:15:02\n172.16.34.124     null      Failed_Login_Attempt                     FAILED   UNKNOWN   null              null      1       11/20/2019 00:15:02\n172.16.34.124     null      Failed_Login_Attempt                     FAILED   UNKNOWN   null              null      1       11/20/2019 00:15:02\n172.16.34.124     null      Failed_Login_Attempt                     FAILED   UNKNOWN   null              null      1       11/20/2019 00:15:02\n\nSrc. Attributes                                                        Dst. Attributes \n172.16.34.124: Acceptable Traffic Source Critical Internal RFC 1918    \n172.16.34.124: Acceptable Traffic Source Critical Internal RFC 1918    \n172.16.34.124: Acceptable Traffic Source Critical Internal RFC 1918    \n172.16.34.124: Acceptable Traffic Source Critical Internal RFC 1918    \n172.16.34.124: Acceptable Traffic Source Critical Internal RFC 1918    \nAdditional Alert Details\nAlert ID: 87303421\nKEY                            VALUE\nAction                         FAILED\nDescription                    Flow: Outbound Traffic.\nVendor                         IBM\nalertRecurrenceCount_30day     30\nalertRecurrenceCount_60day     60\nalertRecurrenceCount_90day     90\nalert_key                      P00000008041994_selm_79_real_systemactivity_LOGGEN_CRON_0015\ncustName                       QA Customer\nmitreAttack_Tactic             Discovery\nservName                       SELM - Server - Select\nuserName                       LOGGEN_CRON_0015\nxpsLogReceivedTimestamp        1574208936\n\nMSSTimestamp=1574208902, logType=systemactivity, FN=/var/log/messages, origLog=Nov 20 00: 15: 02 aixthing syslog:  pts/0:  failed login attempt for LOGGEN_CRON_0015 from 172.16.34.124\n\nMSSTimestamp=1574208902, logType=systemactivity, FN=/var/log/messages, origLog=Nov 20 00: 15: 02 aixthing syslog:  pts/0:  failed login attempt for LOGGEN_CRON_0015 from 172.16.34.124\n\nMSSTimestamp=1574208902, logType=systemactivity, FN=/var/log/messages, origLog=Nov 20 00: 15: 02 aixthing syslog:  pts/0:  failed login attempt for LOGGEN_CRON_0015 from 172.16.34.124\n\nMSSTimestamp=1574208902, logType=systemactivity, FN=/var/log/messages, origLog=Nov 20 00: 15: 02 aixthing syslog:  pts/0:  failed login attempt for LOGGEN_CRON_0015 from 172.16.34.124\n\nMSSTimestamp=1574208902, logType=systemactivity, FN=/var/log/messages, origLog=Nov 20 00: 15: 02 aixthing syslog:  pts/0:  failed login attempt for LOGGEN_CRON_0015 from 172.16.34.124\n\nremedyqa has escalated alert(s): 87303421\n\n\nThis ticket has been acknowledged by the SOC"
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Commented Security Incident",
+      "subtitle": "External Activity",
+      "id": "SOCP00701548727",
+      "lastUpdate": "Updated 2 hours ago",
+      "timeOfUpdate": "2019-12-03T21:00:31.000Z",
+      "status": "New",
+      "description": "new desc.",
+      "priority": "low",
+      "devices": [{ "name": "ibm-selm-qa" }],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701548727",
+        "title": "Commented Security Incident"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 2 hours ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 7 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "null",
+          "lastUpdate": "Updated 8 days ago",
+          "text": "test - -1064299427\n\n\nPlease take a moment to rate the SOC's handling of this ticket by using the Ticket Rating system, available in the Ticket Manager area of the Virtual SOC Portal. Your satisfaction and feedback is very important to us. Thank you!\n\nTicket is now pending any additional followup the customer may wish to add or report back to complete processing of this issue.  No additional related activity or customer followup within 5 days will result in closure of this issue."
+        },
+        {
+          "user": "atl-prd-webapp-02a-SOC_Console",
+          "lastUpdate": "Updated 8 days ago",
+          "text": "Please take a moment to rate the SOC's handling of this ticket by using the Ticket Rating system, available in the Ticket Manager area of the Virtual SOC Portal. Your satisfaction and feedback is very important to us. Thank you!\n\nTicket is now pending any additional followup the customer may wish to add or report back to complete processing of this issue.  No additional related activity or customer followup within 5 days will result in closure of this issue."
+        },
+        {
+          "user": "atl-prd-webapp-02a-SOC_Console",
+          "lastUpdate": "Updated 8 days ago",
+          "text": "TESTES\n\n\n\nPlease take a moment to rate the SOC's handling of this ticket by using the Ticket Rating system, available in the Ticket Manager area of the Virtual SOC Portal. Your satisfaction and feedback is very important to us. Thank you!\n\nTicket is now pending any additional followup the customer may wish to add or report back to complete processing of this issue.  No additional related activity or customer followup within 5 days will result in closure of this issue.\n\n\nThis ticket has been acknowledged by the SOC"
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Unauthorized Access",
+      "subtitle": "",
+      "id": "SOCP00701548843",
+      "lastUpdate": "Updated 2 hours ago",
+      "timeOfUpdate": "2019-12-03T21:00:27.000Z",
+      "status": "New",
+      "description": "description",
+      "priority": "low",
+      "devices": [],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701548843",
+        "title": "Unauthorized Access"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 2 hours ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 7 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Unauthorized Access",
+      "subtitle": "",
+      "id": "SOCP00701548773",
+      "lastUpdate": "Updated 2 hours ago",
+      "timeOfUpdate": "2019-12-03T21:00:25.000Z",
+      "status": "New",
+      "description": "description",
+      "priority": "low",
+      "devices": [],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701548773",
+        "title": "Unauthorized Access"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 2 hours ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 7 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Unauthorized Access",
+      "subtitle": "",
+      "id": "SOCP00701548775",
+      "lastUpdate": "Updated 2 hours ago",
+      "timeOfUpdate": "2019-12-03T21:00:01.000Z",
+      "status": "New",
+      "description": "description",
+      "priority": "low",
+      "devices": [],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701548775",
+        "title": "Unauthorized Access"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 2 hours ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 7 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Unauthorized Access",
+      "subtitle": "",
+      "id": "SOCP00701548860",
+      "lastUpdate": "Updated 2 hours ago",
+      "timeOfUpdate": "2019-12-03T20:59:59.000Z",
+      "status": "New",
+      "description": "description",
+      "priority": "low",
+      "devices": [],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701548860",
+        "title": "Unauthorized Access"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 2 hours ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 7 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Unauthorized Access",
+      "subtitle": "",
+      "id": "SOCP00701548859",
+      "lastUpdate": "Updated 2 hours ago",
+      "timeOfUpdate": "2019-12-03T20:59:57.000Z",
+      "status": "New",
+      "description": "description",
+      "priority": "low",
+      "devices": [],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701548859",
+        "title": "Unauthorized Access"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 2 hours ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 7 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Unauthorized Access",
+      "subtitle": "",
+      "id": "SOCP00701548858",
+      "lastUpdate": "Updated 2 hours ago",
+      "timeOfUpdate": "2019-12-03T20:59:56.000Z",
+      "status": "New",
+      "description": "description",
+      "priority": "low",
+      "devices": [],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701548858",
+        "title": "Unauthorized Access"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 2 hours ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 7 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Unauthorized Access",
+      "subtitle": "",
+      "id": "SOCP00701548855",
+      "lastUpdate": "Updated 2 hours ago",
+      "timeOfUpdate": "2019-12-03T20:59:56.000Z",
+      "status": "New",
+      "description": "description",
+      "priority": "low",
+      "devices": [],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701548855",
+        "title": "Unauthorized Access"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 2 hours ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 7 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 7 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Unauthorized Access",
+      "subtitle": "",
+      "id": "SOCP00701548844",
+      "lastUpdate": "Updated 2 hours ago",
+      "timeOfUpdate": "2019-12-03T20:59:53.000Z",
+      "status": "New",
+      "description": "description",
+      "priority": "low",
+      "devices": [],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701548844",
+        "title": "Unauthorized Access"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 2 hours ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 7 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Unauthorized Access",
+      "subtitle": "",
+      "id": "SOCP00701548717",
+      "lastUpdate": "Updated 2 hours ago",
+      "timeOfUpdate": "2019-12-03T20:59:52.000Z",
+      "status": "New",
+      "description": "description",
+      "priority": "low",
+      "devices": [],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701548717",
+        "title": "Unauthorized Access"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 2 hours ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 7 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Unauthorized Access",
+      "subtitle": "",
+      "id": "SOCP00701548777",
+      "lastUpdate": "Updated 2 hours ago",
+      "timeOfUpdate": "2019-12-03T20:59:51.000Z",
+      "status": "New",
+      "description": "description",
+      "priority": "low",
+      "devices": [],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701548777",
+        "title": "Unauthorized Access"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 2 hours ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 7 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket.\n\nStatus changed to New"
+        },
+        { "user": "SOC", "lastUpdate": "Updated 8 days ago", "text": "Status changed to Work In Progress" },
+        { "user": "SOC", "lastUpdate": "Updated 8 days ago", "text": "Status changed to Pending" }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Unauthorized Access",
+      "subtitle": "",
+      "id": "SOCP00701548715",
+      "lastUpdate": "Updated 2 hours ago",
+      "timeOfUpdate": "2019-12-03T20:59:47.000Z",
+      "status": "New",
+      "description": "description",
+      "priority": "low",
+      "devices": [],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701548715",
+        "title": "Unauthorized Access"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 2 hours ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 7 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Unauthorized Access",
+      "subtitle": "",
+      "id": "SOCP00701548714",
+      "lastUpdate": "Updated 2 hours ago",
+      "timeOfUpdate": "2019-12-03T20:59:46.000Z",
+      "status": "New",
+      "description": "description",
+      "priority": "low",
+      "devices": [],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701548714",
+        "title": "Unauthorized Access"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 2 hours ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 7 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Unauthorized Access",
+      "subtitle": "",
+      "id": "SOCP00701548712",
+      "lastUpdate": "Updated 2 hours ago",
+      "timeOfUpdate": "2019-12-03T20:59:45.000Z",
+      "status": "New",
+      "description": "description",
+      "priority": "low",
+      "devices": [],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701548712",
+        "title": "Unauthorized Access"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 2 hours ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 7 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 7 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Unauthorized Access",
+      "subtitle": "",
+      "id": "SOCP00701548711",
+      "lastUpdate": "Updated 2 hours ago",
+      "timeOfUpdate": "2019-12-03T20:59:45.000Z",
+      "status": "New",
+      "description": "description",
+      "priority": "low",
+      "devices": [],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701548711",
+        "title": "Unauthorized Access"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 2 hours ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 7 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Unauthorized Access",
+      "subtitle": "",
+      "id": "SOCP00701548572",
+      "lastUpdate": "Updated 2 hours ago",
+      "timeOfUpdate": "2019-12-03T20:59:42.000Z",
+      "status": "New",
+      "description": "description",
+      "priority": "low",
+      "devices": [],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701548572",
+        "title": "Unauthorized Access"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 2 hours ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 7 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        { "user": "null", "lastUpdate": "Updated 8 days ago", "text": "-testMinusSign-355765365" },
+        { "user": "null", "lastUpdate": "Updated 8 days ago", "text": "+testPlusSign-283876058" },
+        { "user": "null", "lastUpdate": "Updated 8 days ago", "text": "@testAmpersand1285925030" },
+        { "user": "null", "lastUpdate": "Updated 8 days ago", "text": "=testEqualsSign-1036563160" }
+      ]
+    },
+    {
+      "type": "investigation",
+      "title": "Unauthorized Access",
+      "subtitle": "",
+      "id": "SOCP00701545145",
+      "lastUpdate": "Updated 2 hours ago",
+      "timeOfUpdate": "2019-12-03T20:59:40.000Z",
+      "status": "New",
+      "description": "description",
+      "priority": "low",
+      "devices": [],
+      "sharing": {
+        "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701545145",
+        "title": "Unauthorized Access"
+      },
+      "worklog": [
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 2 hours ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        {
+          "user": "Horizon Team",
+          "lastUpdate": "Updated 7 days ago",
+          "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+        },
+        { "user": "null", "lastUpdate": "Updated 8 days ago", "text": "-testMinusSign-1953580838" },
+        { "user": "null", "lastUpdate": "Updated 8 days ago", "text": "+testPlusSign-645904893" },
+        { "user": "null", "lastUpdate": "Updated 8 days ago", "text": "@testAmpersand1282958480" },
+        { "user": "null", "lastUpdate": "Updated 8 days ago", "text": "=testEqualsSign420566033" }
+      ]
+    }
+  ]
+}

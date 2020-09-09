@@ -1,0 +1,77 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+    name: {{ include "horizon-webapp.fullname" . }}
+    labels:
+        app: {{ include "horizon-webapp.name" . }}
+        chart: {{ include "horizon-webapp.chart" . }}
+        release: {{ .Release.Name }}
+        heritage: {{ .Release.Service }}
+spec:
+    replicas: {{ .Values.replicaCount }}
+    strategy:
+        type: RollingUpdate
+        rollingUpdate:
+            maxUnavailable: 0
+            maxSurge: 1
+    revisionHistoryLimit: {{ .Values.revisionHistoryLimit }}
+    selector:
+        matchLabels:
+            app: {{ include "horizon-webapp.name" . }}
+            release: {{ .Release.Name }}
+    template:
+        metadata:
+            labels:
+                app: {{ include "horizon-webapp.name" . }}
+                release: {{ .Release.Name }}
+            annotations:
+                timestamp: "{{ .Release.Time }}"
+        spec:
+            containers:
+                - name: "{{ .Chart.Name  }}"
+                  image: "{{ .Values.image.repository }}:{{ .Values.image.tag }}"
+                  imagePullPolicy: "{{ .Values.image.pullPolicy }}"
+                  ports:
+                      - name: http
+                        containerPort: {{ .Values.service.port }}
+                        protocol: TCP
+                  readinessProbe:
+                      httpGet:
+                          path: /
+                          port: http
+                      initialDelaySeconds: 60
+                  resources:
+                      requests:
+                          cpu: "{{ .Values.image.resources.requests.cpu }}"
+                          memory: "{{ .Values.image.resources.requests.memory }}"
+                  env:
+                      - name: PORT
+                        value: "{{ .Values.service.port }}"
+                      - name: APPLICATION_NAME
+                        value: "{{ .Release.Name }}"
+                      - name: CORS_ALLOW_ORIGIN
+                        value: "{{ .Values.corsAllowOrigin }}"
+                      - name: BFF_URL
+                        value: "{{ .Values.bffUrl }}"
+                      - name: REACT_APP_PIWIK_HOST
+                        value: "{{ .Values.piwik.host }}"
+                      - name: REACT_APP_PIWIK_SITE_ID
+                        value: "{{ .Values.piwik.siteId }}"
+                      - name: ISSUER
+                        value: "{{ .Values.ibmIdIssuer }}"
+                      - name: IBM_ID_CLIENT_ID
+                        valueFrom:
+                            secretKeyRef:
+                                name: horizon-webapp
+                                key: ibmIdClientId
+                      - name: IBM_ID_CLIENT_SECRET
+                        valueFrom:
+                            secretKeyRef:
+                                name: horizon-webapp
+                                key: ibmIdClientSecret
+                      - name: PASSPORT_SESSION_SECRET
+                        valueFrom:
+                            secretKeyRef:
+                                name: horizon-webapp
+                                key: passportSessionSecret
+

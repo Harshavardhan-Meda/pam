@@ -1,0 +1,36 @@
+@import "../../../../constants/constants";
+
+.type {
+  background-color: $COLOR_GRAY_90;
+  display: grid;
+  grid-template-rows: auto 1fr;
+  height: 160px;
+  padding: 20px;
+  cursor: pointer;
+  transition-timing-function: cubic-bezier(0.2, 0, 0.38, 0.9);
+  transition-duration: 0.1s;
+  color: $PRIMARY_FONT_COLOR;
+
+  &:hover {
+    background-color: $COLOR_GRAY_80;
+  }
+
+  &:focus {
+    outline: 2px solid #FFFFFF;
+    outline-offset: -2px;
+  }
+
+  .type-header {
+    display: flex;
+    justify-content: space-between;
+
+    svg {
+      fill: $COLOR_BLUE_40;
+    }
+  }
+
+  .type-description {
+    align-self: center;
+    color: $COLOR_FONT_SUB;
+  }
+}

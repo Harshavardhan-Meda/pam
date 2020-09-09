@@ -1,0 +1,9 @@
+{
+  "reporterEnabled": "mochawesome",
+  "mochawesomeReporterOptions": {
+    "overwrite": false,
+    "html": false,
+    "json": true
+  },
+  "snapshotFileName": "./cypress/snapshots/snapshots.js"
+}

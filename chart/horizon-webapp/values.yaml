@@ -1,0 +1,16 @@
+replicaCount: 1
+revisionHistoryLimit: 1
+nameOverride: ""
+fullnameOverride: ""
+image:
+  repository: registry.ng.bluemix.net/mssace/horizon-webapp
+  pullPolicy: Always
+  resources:
+    requests:
+      cpu: 100m
+      memory: 150Mi
+service:
+  type: ClusterIP
+  port: 3000
+piwik:
+  host: 'https://piwik.sec.ibm.com'

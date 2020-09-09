@@ -1,0 +1,255 @@
+.creat-new-request-form {
+  background-color: #282828;
+  color: #ffffff;
+  margin: 0 30px 60px 48px;
+}
+.request-step-section {
+  padding-left: 8px;
+  padding-bottom: 20px;
+}
+
+.ProgressIndicator .bx--progress--vertical .bx--progress-step, .ProgressIndicator .bx--progress--vertical .bx--progress-step-button {
+  min-height: auto;
+  margin-bottom: 5px;
+}
+
+.next-btn {
+  width: 35%;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  height: 82px;
+}
+
+.submit-btn {
+  width: 35%;
+  float: right;
+  height: 82px;
+}
+// .cancel-btn{
+//   width: 35%;
+//   position: absolute;
+//   bottom: 0;
+//   right: 0;
+//   height: 82px;
+  
+// }
+.ProgressIndicator .bx--progress-label{
+  color:#C6C6C6;
+}
+
+.ProgressIndicator .bx--progress-step--current .bx--progress-label {
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.ProgressIndicator {
+  padding: 20px 0 20px 20px;
+}
+
+.bx--progress--vertical .bx--progress-line, .bx--progress-step--current .bx--progress-line, .bx--progress-line {
+  display: none;
+}
+
+.progress-undicator-container-border-left {
+  border-left: 1px solid #000;
+  padding-left: 20px;
+}
+
+.progressIndicator-container {
+  padding: 20px 16px 20px 0;
+  position: relative;
+  min-height: 520px;
+}
+
+.p-0 {
+  padding: 0 !important;
+}
+
+.progressIndicator-container .bx--file__drop-container {
+  background: url("../../../assets/upload.png") 50% 30%;
+  background-size: 32px;
+    background-repeat: no-repeat;
+    justify-content: center !important;
+    padding: 5rem 1rem 3rem 1rem !important;
+    margin-bottom: 0.5rem;
+}
+
+.progressIndicator-container .bx--file-browse-btn {
+    display: inline;
+}
+
+.progressIndicator-container .bx--btn--ghost:hover{
+  background-color: transparent;
+}
+
+.progressIndicator-container .bx--dropdown, .progressIndicator-container .bx--text-area, .progressIndicator-container .bx--text-input {
+  background-color: #262626; 
+}
+
+.progressIndicator-container h4 {
+  color: #C6C6C6;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 36px;
+  margin-bottom: 24px;
+}
+
+.bx--list-box-expanded .bx--list-box__menu {
+  height: 6.75rem !important;
+}
+
+.ProgressIndicator .request-step-section h4, .progressIndicator-container h4{
+  margin-bottom: 19px;
+  color: #c6c6c6;
+}
+
+.progressIndicator-container .details{
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.ProgressIndicator .request-step-section p, .progressIndicator-container .tab p {
+  color: #C6C6C6;
+  font-size: 12px;
+  letter-spacing: 0.32px;
+  line-height: 16px;
+}
+
+.progressIndicator-container .tab p {
+ margin-bottom: 10px;
+}
+
+h6{
+  font-weight: 50;
+}
+.cancel-btnn{
+  margin-top: 90px;
+}
+input{
+  color: green;
+}
+.radio-item {
+  display: inline-block;
+  position: relative;
+  padding: 0 6px 4px;
+  margin: 0px 0 0;
+}
+
+.radio-item:focus, .radio-item:active {
+  outline: 2px solid #ffffff;
+  outline-offset: -2px;
+}
+
+.radio-item input[type='radio'] {
+  display: none;
+}
+
+.radio-item label {
+  color: #c6c6c6;
+  font-weight: normal;
+}
+
+.radio-item label:before {
+  content: " ";
+  display: inline-block;
+  position: relative;
+  top: 5px;
+  margin: 0 5px 0 0;
+  width: 20px;
+  height: 20px;
+  border-radius: 11px;
+  border: 1px solid white;
+  background-color: transparent;
+}
+
+.radio-item input[type=radio]:checked + label:after {
+  border-radius: 11px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  top: 10px;
+  left: 11px;
+  content: " ";
+  display: block;
+  background: white;
+}
+
+body{
+    background:#282828;
+}
+
+.btn-container {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+}
+
+.progressIndicator-container .bx--btn--secondary {
+  background-color: #393939;
+}
+
+.progressIndicator-container .bx--file__selected-file {
+  display: grid;
+  margin-right: 10px;
+  float: left;
+  grid-gap: 1rem;
+  grid-template-columns: 1fr auto;
+  grid-auto-rows: auto;
+  align-items: center;
+  min-height: 2rem;
+  max-width: 20rem;
+  margin-bottom: 0.5rem;
+  background-color: #393939;
+  word-break: break-word;
+  border-radius: 25px;
+}
+
+.progressIndicator-container .files-attched{
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+.noFilesAttached{
+  font-weight: normal;
+    color: #6f6f6f;
+}
+
+.attched-files {
+  background-color: #393939;
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 25px;
+    font-size: 12px;
+}
+
+.sucess-message {
+  background:#FFF; 
+  color:#000;
+  margin: 0 30px 60px 48px; 
+  padding: 9px 0;
+}
+
+.icon-position {
+  vertical-align: middle;
+  color:#4B8400;
+  margin: 0 12px 0 17px;
+}
+
+.now-you-see {
+  margin: 48px 30px 60px 48px; ;
+}
+
+.progressIndicator-container .bx--file__selected-file .bx--file-filename {
+  margin-bottom: 0;
+}
+
+.creat-new-request-form .bx--progress-step--current svg path:last-of-type {
+  stroke-width: 0;
+}
+
+.creat-new-request-form label {
+  margin-left: 0;
+  font-size: 14px;
+}

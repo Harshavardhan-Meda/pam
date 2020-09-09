@@ -1,0 +1,28 @@
+{
+  "type": "investigation",
+  "title": "Unauthorized Access",
+  "subtitle": "",
+  "id": "addComment",
+  "lastUpdate": "Updated 7 days ago",
+  "status": "New",
+  "timeOfUpdate": "2019-11-26T12:22:43.000Z",
+  "description": "description",
+  "priority": "low",
+  "devices": [],
+  "sharing": {
+    "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701548774",
+    "title": "Unauthorized Access"
+  },
+  "worklog": [
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated a few seconds ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\ntset"
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated 7 days ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+    }
+  ]
+}

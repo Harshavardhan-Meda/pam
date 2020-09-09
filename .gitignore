@@ -1,0 +1,54 @@
+# dependencies
+/node_modules
+
+# testing
+/coverage
+/lcov_coverage
+/e2e
+
+# production
+/build
+
+# misc
+.DS_Store
+
+.env
+.env.test
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+.java-version
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.iml
+/.idea
+.vscode
+cypress/videos
+cypress/screenshots
+
+mochawesome-report
+audit.json
+.git
+dev-ops/
+consul-template
+coverage
+lcov_coverage
+.nyc_output
+reports
+e2e
+.build_tools
+.owasp
+.wicked
+.scannerwork
+jest-sonar-report
+
+/.scannerwork
+/jest-sonar-report
+
+#cypress
+cypress.env.json
+snapshots.js

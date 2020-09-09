@@ -1,0 +1,5 @@
+@import "../stream-layout";
+
+.investigation-stream {
+  @extend %stream-layout;
+}

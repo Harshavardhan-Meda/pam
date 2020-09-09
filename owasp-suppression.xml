@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suppressions xmlns="https://jeremylong.github.io/DependencyCheck/dependency-suppression.1.2.xsd">
+    <!--https://jira.sec.ibm.com/browse/XPS-40622-->
+    <suppress>
+        <notes><![CDATA[
+        This suppresses a specific cve for any server.jar in any directory.
+        ]]></notes>
+        <filePath regex="true">.*\bserver\.jar</filePath>
+        <cve>CVE-2002-1178</cve>
+    </suppress>
+    <!--https://jira.sec.ibm.com/browse/XPS-40622-->
+    <suppress>
+        <notes><![CDATA[
+        This suppresses a specific cve for any non-node.js files in any directory for.
+        ]]></notes>
+        <filePath regex="true">.*(\.(jar)|pom\.xml|package.json|packages.config)$</filePath>
+        <cve>CVE-2018-10237</cve>
+    </suppress>
+</suppressions>

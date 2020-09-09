@@ -1,0 +1,51 @@
+{
+  "type": "request",
+  "title": "Device Management Security Advisories",
+  "subtitle": "",
+  "id": "SOCP00700577663",
+  "lastUpdate": "Updated 2 months ago",
+  "status": "Closed",
+  "timeOfUpdate": "2019-10-08T02:45:02.000Z",
+  "description": "IBM has opened this ticket to track required hardware or software maintenance related to the following issue:\n\nThis is a test\n\nPlease see the Work Log for further Details.",
+  "devices": [
+    {
+      "name": "cisco-fw-qa"
+    }
+  ],
+  "sharing": {
+    "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00700577663",
+    "title": "Device Management Security Advisories"
+  },
+  "worklog": [
+    {
+      "user": "AR_ESCALATOR",
+      "lastUpdate": "Updated 2 months ago",
+      "text": "No additional activity surrounding this issue has been detected by ISS or reported by customer.  This ticket will now be closed and cannot be reopened. If related activity occurs please open a new ticket and reference this ticket."
+    },
+    {
+      "user": "nguyenva",
+      "lastUpdate": "Updated 2 months ago",
+      "text": "Status changed to Resolved, Pending Closure\n\n\nPlease take a moment to rate the SOC's handling of this ticket by using the Ticket Rating system, available in the Ticket Manager area of the Virtual SOC Portal. Your satisfaction and feedback is very important to us. Thank you!\n\nTicket is now pending any additional followup the customer may wish to add or report back to complete processing of this issue.  No additional related activity or customer followup within 5 days will result in closure of this issue."
+    },
+    {
+      "user": "nguyenva",
+      "lastUpdate": "Updated 2 months ago",
+      "text": "This ticket is demo ticket. Therefore, we will close this ticket."
+    },
+    {
+      "user": "jdunntest",
+      "lastUpdate": "Updated a year ago",
+      "text": "Attachment:  General was added to the attachment field by jdunntest"
+    },
+    {
+      "user": "qatest",
+      "lastUpdate": "Updated 2 years ago",
+      "text": "Automation Worklog - 05/24/2018\n\nStatus changed to New"
+    },
+    {
+      "user": "diegocs",
+      "lastUpdate": "Updated 2 years ago",
+      "text": "This ticket has been acknowledged by the SOC"
+    }
+  ]
+}

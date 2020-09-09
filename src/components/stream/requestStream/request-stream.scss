@@ -1,0 +1,5 @@
+@import "../stream-layout";
+
+.request-stream {
+  @extend %stream-layout;
+}

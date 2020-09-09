@@ -1,0 +1,214 @@
+{
+  "type": "investigation",
+  "title": "Trend Analysis",
+  "subtitle": "",
+  "id": "SOCP00701544697",
+  "lastUpdate": "Updated 36 minutes ago",
+  "status": "New",
+  "timeOfUpdate": "2019-12-03T15:23:58.000Z",
+  "description": "TEST",
+  "priority": "low",
+  "devices": [{ "name": "ibm-selm-qa" }],
+  "sharing": {
+    "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701544697",
+    "title": "Trend Analysis"
+  },
+  "worklog": [
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated 36 minutes ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated 6 hours ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated a day ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated a day ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\ntest comment [timestamp: 1575310989485]"
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated a day ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated a day ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated a day ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated a day ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated a day ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\ntest comment [timestamp: 1575286109062]"
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated a day ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated a day ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\ntest comment [timestamp: 1575285008526]"
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated a day ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated a day ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\ntest comment [timestamp: 1575283663151]"
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated a day ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated 4 days ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated 4 days ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\ntest comment [timestamp: 1575034602989]"
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated 4 days ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated 4 days ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\ntest comment [timestamp: 1575033796130]"
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated 4 days ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated 4 days ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\ntest comment [timestamp: 1575033106168]"
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated 4 days ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated 4 days ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated 4 days ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\ntest comment [timestamp: 1575024531497]"
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated 4 days ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated 4 days ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\ntest comment [timestamp: 1575023880253]"
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated 4 days ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\ntest"
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated 4 days ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated 4 days ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\ntest comment [timestamp: 1575023280874]"
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated 4 days ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\ntest2"
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated 4 days ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\ntest"
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated 4 days ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated 4 days ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\ntest comment [timestamp: 1575021033434]"
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated 4 days ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\ntest"
+    },
+    {
+      "user": "AR_ESCALATOR",
+      "lastUpdate": "Updated 5 days ago",
+      "text": "No additional activity surrounding this issue has been detected by ISS or reported by customer.  This ticket will now be placed into a Pending Closure Status, where related activity can still be added to the ticket if needed.\n\n\n\nPlease take a moment to rate the SOC's handling of this ticket by using the Ticket Rating system, available in the Ticket Manager area of the Virtual SOC Portal. Your satisfaction and feedback is very important to us. Thank you!\n\nTicket is now pending any additional followup the customer may wish to add or report back to complete processing of this issue.  No additional related activity or customer followup within 5 days will result in closure of this issue."
+    },
+    { "user": "qatest2", "lastUpdate": "Updated 10 days ago", "text": "Automation Worklog - 11/23/2019" },
+    {
+      "user": "mss_resilient_app",
+      "lastUpdate": "Updated 10 days ago",
+      "text": "Username: Resilient Sysadmin\nDate: 11/23/2019 15:42 GMT Username: atl-prd-webapp-02b-SOC_Console Type: \nMSS Portal Notification send to (1 contacts) diegobs@br.ibm.com at \n11.23.2019 15:42:04"
+    },
+    {
+      "user": "atl-prd-webapp-02b-SOC_Console",
+      "lastUpdate": "Updated 10 days ago",
+      "text": "Portal Notification send to (1 contacts) diegobs@br.ibm.com at 11.23.2019 15:42:04"
+    },
+    {
+      "user": "diegobs",
+      "lastUpdate": "Updated 10 days ago",
+      "text": "Src Ip            Src Port  Event Name                               Action   Severity  Dst Ip            Dst Port  Count   Timestamp\n172.16.34.124     null      Failed_Login_Attempt                     FAILED   UNKNOWN   null              null      1       11/23/2019 14:15:02\n172.16.34.124     null      Failed_Login_Attempt                     FAILED   UNKNOWN   null              null      1       11/23/2019 14:15:02\n172.16.34.124     null      Failed_Login_Attempt                     FAILED   UNKNOWN   null              null      1       11/23/2019 14:15:02\n172.16.34.124     null      Failed_Login_Attempt                     FAILED   UNKNOWN   null              null      1       11/23/2019 14:15:02\n172.16.34.124     null      Failed_Login_Attempt                     FAILED   UNKNOWN   null              null      1       11/23/2019 14:15:02\n\nSrc. Attributes                                                        Dst. Attributes \n172.16.34.124: Acceptable Traffic Source Internal RFC 1918             \n172.16.34.124: Acceptable Traffic Source Internal RFC 1918             \n172.16.34.124: Acceptable Traffic Source Internal RFC 1918             \n172.16.34.124: Acceptable Traffic Source Internal RFC 1918             \n172.16.34.124: Acceptable Traffic Source Internal RFC 1918             \nAdditional Alert Details\nAlert ID: 87379934\nKEY                            VALUE\nAction                         FAILED\nDescription                    Flow: Outbound Traffic.\nVendor                         IBM\nalertRecurrenceCount_30day     30\nalertRecurrenceCount_60day     60\nalertRecurrenceCount_90day     89\nalert_key                      P00000008041994_selm_79_real_systemactivity_LOGGEN_CRON_1415\ncustName                       QA Customer\nmitreAttack_Tactic             Discovery\nservName                       SELM - Server - Select\nuserName                       LOGGEN_CRON_1415\nxpsLogReceivedTimestamp        1574518536\n\nMSSTimestamp=1574518502, logType=systemactivity, FN=/var/log/messages, origLog=Nov 23 14: 15: 02 aixthing syslog:  pts/0:  failed login attempt for LOGGEN_CRON_1415 from 172.16.34.124\n\nMSSTimestamp=1574518502, logType=systemactivity, FN=/var/log/messages, origLog=Nov 23 14: 15: 02 aixthing syslog:  pts/0:  failed login attempt for LOGGEN_CRON_1415 from 172.16.34.124\n\nMSSTimestamp=1574518502, logType=systemactivity, FN=/var/log/messages, origLog=Nov 23 14: 15: 02 aixthing syslog:  pts/0:  failed login attempt for LOGGEN_CRON_1415 from 172.16.34.124\n\nMSSTimestamp=1574518502, logType=systemactivity, FN=/var/log/messages, origLog=Nov 23 14: 15: 02 aixthing syslog:  pts/0:  failed login attempt for LOGGEN_CRON_1415 from 172.16.34.124\n\nMSSTimestamp=1574518502, logType=systemactivity, FN=/var/log/messages, origLog=Nov 23 14: 15: 02 aixthing syslog:  pts/0:  failed login attempt for LOGGEN_CRON_1415 from 172.16.34.124\n\ndiegobs has associated alert(s): 87379934 to OPS:TT #SOCP00701544697 based on match for:\n * Rule from alert (FailedLoginAttemptsForAccount) matched the existing ticket\n * Creation in the last 7 day(s) matched the existing ticket\n * Update in the last 7 day(s) matched the existing ticket\n\n\nadding public worklog"
+    },
+    {
+      "user": "atl-prd-webapp-02b-SOC_Console",
+      "lastUpdate": "Updated 10 days ago",
+      "text": "Portal Notification send to (1 contacts) diegobs@br.ibm.com at 11.23.2019 15:33:42\n\nStatus changed to Pending"
+    },
+    {
+      "user": "diegobs",
+      "lastUpdate": "Updated 10 days ago",
+      "text": "Src Ip            Src Port  Event Name                               Action   Severity  Dst Ip            Dst Port  Count   Timestamp\n172.16.34.124     null      Failed_Login_Attempt                     FAILED   UNKNOWN   null              null      1       11/23/2019 14:45:03\n172.16.34.124     null      Failed_Login_Attempt                     FAILED   UNKNOWN   null              null      1       11/23/2019 14:45:03\n172.16.34.124     null      Failed_Login_Attempt                     FAILED   UNKNOWN   null              null      1       11/23/2019 14:45:03\n172.16.34.124     null      Failed_Login_Attempt                     FAILED   UNKNOWN   null              null      1       11/23/2019 14:45:03\n172.16.34.124     null      Failed_Login_Attempt                     FAILED   UNKNOWN   null              null      1       11/23/2019 14:45:03\n\nSrc. Attributes                                                        Dst. Attributes \n172.16.34.124: Acceptable Traffic Source Internal RFC 1918             \n172.16.34.124: Acceptable Traffic Source Internal RFC 1918             \n172.16.34.124: Acceptable Traffic Source Internal RFC 1918             \n172.16.34.124: Acceptable Traffic Source Internal RFC 1918             \n172.16.34.124: Acceptable Traffic Source Internal RFC 1918             \nAdditional Alert Details\nAlert ID: 87380090\nKEY                            VALUE\nAction                         FAILED\nDescription                    Flow: Outbound Traffic.\nVendor                         IBM\nalertRecurrenceCount_30day     30\nalertRecurrenceCount_60day     60\nalertRecurrenceCount_90day     90\nalert_key                      P00000008041994_selm_79_real_systemactivity_LOGGEN_CRON_1445\ncustName                       QA Customer\nmitreAttack_Tactic             Discovery\nservName                       SELM - Server - Select\nuserName                       LOGGEN_CRON_1445\nxpsLogReceivedTimestamp        1574520312\n\nMSSTimestamp=1574520303, logType=systemactivity, FN=/var/log/messages, origLog=Nov 23 14: 45: 03 aixthing syslog:  pts/0:  failed login attempt for LOGGEN_CRON_1445 from 172.16.34.124\n\nMSSTimestamp=1574520303, logType=systemactivity, FN=/var/log/messages, origLog=Nov 23 14: 45: 03 aixthing syslog:  pts/0:  failed login attempt for LOGGEN_CRON_1445 from 172.16.34.124\n\nMSSTimestamp=1574520303, logType=systemactivity, FN=/var/log/messages, origLog=Nov 23 14: 45: 03 aixthing syslog:  pts/0:  failed login attempt for LOGGEN_CRON_1445 from 172.16.34.124\n\nMSSTimestamp=1574520303, logType=systemactivity, FN=/var/log/messages, origLog=Nov 23 14: 45: 03 aixthing syslog:  pts/0:  failed login attempt for LOGGEN_CRON_1445 from 172.16.34.124\n\nMSSTimestamp=1574520303, logType=systemactivity, FN=/var/log/messages, origLog=Nov 23 14: 45: 03 aixthing syslog:  pts/0:  failed login attempt for LOGGEN_CRON_1445 from 172.16.34.124\n\ndiegobs has escalated alert(s): 87380090\n\n\nThis ticket has been acknowledged by the SOC"
+    }
+  ]
+}

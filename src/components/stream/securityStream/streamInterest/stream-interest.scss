@@ -1,0 +1,49 @@
+@import '../../../../constants/constants';
+
+.stream-interest {
+  position: relative;
+  float: right;
+
+  .image {
+    height: 16px;
+    vertical-align: bottom;
+  }
+
+  .interested {
+    fill: #fdc228;
+  }
+
+  .not-interest {
+    fill: transparent;
+    stroke: $COLOR_BLUE_40;
+  }
+
+  &:hover {
+    .interested,
+    .not-interest {
+      .image {
+        transform: scale(1.2);
+      }
+    }
+  }
+
+  .bx--btn,
+  a {
+    border: none;
+    &:hover,
+    &:focus,
+    &:active,
+    &.active {
+      background-color: #252525 !important;
+      text-decoration: none !important;
+      border: none;
+      outline: 0;
+    }
+    &:-moz-focusring {
+      outline: 2px solid $COLOR_BLUE_40;
+    }
+    .image {
+      width: 16px;
+    }
+  }
+}

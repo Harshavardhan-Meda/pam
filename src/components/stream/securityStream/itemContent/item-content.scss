@@ -1,0 +1,81 @@
+@import '../../../../constants/media-queries';
+@import '../../../../constants/constants';
+
+.content {
+  display: flex;
+  flex-direction: row;
+  background: $COLOR_GRAY_95;
+  cursor: pointer;
+  @include respond-to(mobile-portrait) {
+    flex-direction: column;
+  }
+
+  &:hover {
+    background-color: $COLOR_GRAY_100;
+    transition-duration: 250ms;
+  }
+
+  img,
+  video {
+    align-self: start;
+    width: 34%;
+    @include respond-to(mobile-portrait) {
+      width: 100%;
+      margin-top: 0;
+    }
+  }
+
+  .data {
+    color: #c7c7c7;
+    width: 66%;
+    padding: 0 20px;
+    @include respond-to(mobile-portrait) {
+      width: 100%;
+    }
+
+    h3 {
+      color: #f4f4f4;
+      font-size: 18px;
+      line-height: 24px;
+      margin: 0;
+      padding: 11px 0 2px 0;
+      font-weight: bold;
+
+      a {
+        &[href^='https://twitter.com/'] {
+          color: inherit;
+        }
+
+        &:hover {
+          color: $LINK_HOVER_FOCUS;
+        }
+      }
+    }
+
+    p {
+      font-size: 16px;
+      padding: 6px 0 4px 0;
+      margin: 0;
+    }
+
+    .author {
+      color: $SECONDARY_GREY;
+      margin: 0;
+      padding: 0;
+      line-height: 1.5em;
+      font-size: 14px;
+    }
+    .link {
+      word-break: break-all;
+    }
+
+    .description {
+      overflow-wrap: break-word;
+    }
+
+    .title-light {
+      font-weight: 400;
+      font-size: 16px;
+    }
+  }
+}

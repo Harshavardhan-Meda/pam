@@ -1,0 +1,59 @@
+@import "../../../../../constants/constants";
+
+%checkmark {
+  width: 6px;
+  height: 12px;
+  margin-right: 16px;
+  border-width: 0 2px 2px 0;
+  border-style: solid;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.filter-button {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  height: 28px;
+  line-height: 28px;
+  padding-left: 10px;
+  &:focus {
+    outline: 2px solid $COLOR_BLUE_40;
+  }
+  input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+  }
+
+  .checkmark {
+    height: 25px;
+    width: 25px;
+  }
+
+  &:hover input ~ .checkmark {
+    @extend %checkmark;
+    border-color: $SECONDARY_GREY;
+  }
+
+  input:checked ~ .checkmark {
+    @extend %checkmark;
+    border-color: white;
+  }
+  .interest {
+    height: 16px;
+    width: 16px;
+    vertical-align: bottom;
+    fill: #FDC228;
+    margin-right: 6px;
+  }
+}
+
+.filter-icon-label {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}

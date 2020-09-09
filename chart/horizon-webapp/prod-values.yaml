@@ -1,0 +1,17 @@
+bffUrl: "https://api.us.apiconnect.ibmcloud.com/mssace-prod/xftm/"
+corsAllowOrigin: https://center.sec.ibm.com
+ibmIdIssuer: https://login.ibm.com/oidc/endpoint/default
+piwik:
+  siteId: 16
+ingress:
+  enabled: true
+  annotations: {
+    ingress.bluemix.net/redirect-to-https: "True"
+  }
+  path: /
+  hosts:
+    - center.sec.ibm.com
+  tls:
+    - secretName: wc.sec.ibm.com
+      hosts:
+        - center.sec.ibm.com

@@ -1,0 +1,44 @@
+@import "../../constants/constants";
+@import "../../constants/media-queries";
+
+.security--shell {
+  .security--header__group {
+    > li:first-child {
+      display: none;
+    }
+  }
+
+  .security--toolbar__nav__item__icon {
+    filter: brightness(0) invert(1);
+  }
+  // TODO: Remove after @carbon/ibm-security refactor Shell component that will support custom link elements
+  nav[aria-label="First tab"] {
+    h1 {
+      display: none;
+    }
+    a.security--nav__list__item__link {
+      padding: 0;
+
+      .navLinks {
+        padding: .375rem 2rem;;
+        width: 100%;
+        svg {
+          fill: #FFFFFF;
+        }
+      }
+    }
+  }
+
+  .security--header__container.security--shell--active__header {
+    display: none;
+  }
+
+  @include respond-to(mobile) {
+    .security--toolbar {
+      top: 0;
+    }
+    .security--toolbar__panel {
+      top: 0;
+    }
+  }
+}

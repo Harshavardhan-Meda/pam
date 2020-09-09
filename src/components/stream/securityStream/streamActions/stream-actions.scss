@@ -1,0 +1,54 @@
+@import '../../../../constants/constants';
+
+.stream-actions {
+  position: relative;
+
+  .image {
+    height: 16px;
+    vertical-align: bottom;
+  }
+  .share {
+    color: #3d8aff !important;
+    float: right;
+    &:hover,
+    &:focus,
+    &:active,
+    &.active {
+      background-color: #252525 !important;
+      text-decoration: none !important;
+      border: 2px solid #464646;
+      color: #c7c7c7;
+    }
+    &:visited {
+      color: #3d8aff !important;
+    }
+  }
+  .options {
+    background-color: #252525;
+    position: absolute;
+    right: 53px;
+    bottom: 0;
+    & > * {
+      display: block;
+    }
+    .image {
+      margin-right: 8px;
+    }
+  }
+  .bx--btn,
+  a {
+    border: none;
+    &:hover,
+    &:focus,
+    &:active,
+    &.active {
+      background-color: #252525;
+      text-decoration: none !important;
+      border: none;
+      color: #c7c7c7;
+    }
+    .image {
+      width: 16px;
+    }
+  }
+}

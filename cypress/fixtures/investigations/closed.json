@@ -1,0 +1,38 @@
+{
+  "type": "investigation",
+  "title": "Security Information and Event Management DDoS",
+  "subtitle": "",
+  "id": "SOCP00701542943",
+  "lastUpdate": "Updated 15 hours ago",
+  "status": "Closed",
+  "timeOfUpdate": "2019-12-03T02:46:40.000Z",
+  "description": "SOC Console Automation Test",
+  "priority": "low",
+  "devices": [],
+  "sharing": {
+    "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701542943",
+    "title": "Security Information and Event Management DDoS"
+  },
+  "worklog": [
+    {
+      "user": "AR_ESCALATOR",
+      "lastUpdate": "Updated 15 hours ago",
+      "text": "No additional activity surrounding this issue has been detected by ISS or reported by customer.  This ticket will now be closed and cannot be reopened. If related activity occurs please open a new ticket and reference this ticket."
+    },
+    {
+      "user": "AR_ESCALATOR",
+      "lastUpdate": "Updated 6 days ago",
+      "text": "No additional activity surrounding this issue has been detected by ISS or reported by customer.  This ticket will now be placed into a Pending Closure Status, where related activity can still be added to the ticket if needed.\n\n\n\nPlease take a moment to rate the SOC's handling of this ticket by using the Ticket Rating system, available in the Ticket Manager area of the Virtual SOC Portal. Your satisfaction and feedback is very important to us. Thank you!\n\nTicket is now pending any additional followup the customer may wish to add or report back to complete processing of this issue.  No additional related activity or customer followup within 5 days will result in closure of this issue."
+    },
+    {
+      "user": "atl-prd-webapp-02a-SOC_Console",
+      "lastUpdate": "Updated 11 days ago",
+      "text": "Portal Notification send to (1 contacts) diegocs@br.ibm.com at 11.22.2019 13:12:38\n\nStatus changed to Pending"
+    },
+    {
+      "user": "remedyqa",
+      "lastUpdate": "Updated 11 days ago",
+      "text": "Event Name                               Src Ip            Dst Ip            Earliest                 Latest                  \nCross_Site_Scripting                     1.0.0.1           192.168.13.1      11/22/2019 08:17:41      11/22/2019 08:17:41     \nCross_Site_Scripting                     10.0.0.108        192.168.13.5      11/22/2019 08:18:39      11/22/2019 08:18:39     \nCross_Site_Scripting                     10.0.0.107        192.168.13.5      11/22/2019 08:18:00      11/22/2019 08:18:00     \nCross_Site_Scripting                     10.0.0.106        192.168.13.5      11/22/2019 08:18:20      11/22/2019 08:18:20     \nCross_Site_Scripting                     10.0.0.107        192.168.13.5      11/22/2019 08:23:27      11/22/2019 08:23:27     \nCross_Site_Scripting                     10.0.0.108        192.168.12.1      11/22/2019 08:23:46      11/22/2019 08:23:46     \nCross_Site_Scripting                     10.0.0.108        192.168.13.6      11/22/2019 08:20:44      11/22/2019 08:20:44     \n\n\nThis security incident included source IPs from the following countries:\nAustralia (1)\n\n\n\nThis ticket has been acknowledged by the SOC"
+    }
+  ]
+}

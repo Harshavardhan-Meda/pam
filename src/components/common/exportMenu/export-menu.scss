@@ -1,0 +1,20 @@
+@import '../../../constants/constants';
+.export-icon {
+  fill: $COLOR_GRAY_20;
+  background-color: #181818 !important;
+}
+.spinner-export {
+  margin: 0 auto;
+  height: 30px !important;
+  width: 30px;
+}
+.export-icon-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.export-icon-header {
+  width: 20px;
+  fill: #58a5f3;
+  color: $COLOR_GRAY_90;
+}

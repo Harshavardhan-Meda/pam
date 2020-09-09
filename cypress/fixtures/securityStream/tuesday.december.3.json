@@ -1,0 +1,287 @@
+{
+  "items": [
+    {
+      "date": "2019-12-03T18:29:00.000Z",
+      "image": "https://images.idgesg.net/images/article/2017/09/windows_patch_security14-100734743-large.3x2.jpg",
+      "author": "Woody Leonhard (Computer World)",
+      "type": "news",
+      "title": "Microsoft Patch Alert: November patches behave themselves – with a few exceptions",
+      "summary": "What a relief. The only major patching problem for November came from Office, not Windows. We had a handful of completely inscrutable patches – including two .NET non-security ...",
+      "sourceURI": "https://www.computerworld.com/article/3216425/microsoft-patch-alert-november-patches-behave-themselves-with-a-few-exceptions.html#tk.rss_security",
+      "sharing": {
+        "url": "https://www.computerworld.com/article/3216425/microsoft-patch-alert-november-patches-behave-themselves-with-a-few-exceptions.html#tk.rss_security",
+        "title": "Microsoft Patch Alert: November patches behave themselves – with a few exceptions"
+      },
+      "id": "e491077d26dc001fb09909843156ca7f"
+    },
+    {
+      "date": "2019-12-03T18:00:50.000Z",
+      "image": "https://xftm-help.mybluemix.net/images/stream-news-general2.png",
+      "author": "Tara Seals (Threatpost)",
+      "type": "news",
+      "title": "Android Ups the Mobile Security Ante with Default TLS Encryption",
+      "summary": "More than 90 percent of Android apps running on the latest OS encrypt their traffic by default. ...",
+      "sourceURI": "https://threatpost.com/android-mobile-security-tls-encryption/150760/",
+      "sharing": {
+        "url": "https://threatpost.com/android-mobile-security-tls-encryption/150760/",
+        "title": "Android Ups the Mobile Security Ante with Default TLS Encryption"
+      },
+      "id": "e491077d26dc001fb099098431488f11"
+    },
+    {
+      "date": "2019-12-03T18:00:09.000Z",
+      "image": "https://xftm-help.mybluemix.net/images/stream-news-general2.png",
+      "author": "Catalin Cimpanu (ZDNet)",
+      "type": "news",
+      "title": "80% of all Android apps are encrypting traffic by default",
+      "summary": "90% of all Android 9 apps are encrypting network traffic via HTTPS. ...",
+      "sourceURI": "https://www.zdnet.com/article/80-of-all-android-apps-are-encrypting-traffic-by-default/#ftag=RSSbaffb68",
+      "sharing": {
+        "url": "https://www.zdnet.com/article/80-of-all-android-apps-are-encrypting-traffic-by-default/#ftag=RSSbaffb68",
+        "title": "80% of all Android apps are encrypting traffic by default"
+      },
+      "id": "1b776b445eda6e7bf0d3e5ec216a20a1"
+    },
+    {
+      "date": "2019-12-03T17:40:00.000Z",
+      "image": "https://xftm-help.mybluemix.net/images/stream-news-general2.png",
+      "author": "Dark Reading Staff (DARKReading)",
+      "type": "news",
+      "title": "Smith & Wesson Is Magecart's Latest Target",
+      "summary": "Researchers estimate the gun manufacturer's website was compromised sometime before Black Friday. ...",
+      "sourceURI": "https://www.darkreading.com/threat-intelligence/smith-and-wesson-is-magecarts-latest-target/d/d-id/1336505?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple",
+      "sharing": {
+        "url": "https://www.darkreading.com/threat-intelligence/smith-and-wesson-is-magecarts-latest-target/d/d-id/1336505?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple",
+        "title": "Smith & Wesson Is Magecart's Latest Target"
+      },
+      "id": "a26445a9b2d4f1b87bdce6d338b0ecc3"
+    },
+    {
+      "date": "2019-12-03T17:31:33.000Z",
+      "image": "https://xftm-help.mybluemix.net/images/stream-news-general2.png",
+      "author": "Sergiu Gatlan (Bleeping Computer)",
+      "type": "news",
+      "title": "FTC Warns of Ongoing Scam Spreading Scary Terrorism Allegations",
+      "summary": "The U.S. Federal Trade Commission (FTC) warned consumers today of an active scam campaign targeting potential victims with letters designed to scare them with fake money laundering and terrorism allegations. [...] ...",
+      "sourceURI": "https://www.bleepingcomputer.com/news/security/ftc-warns-of-ongoing-scam-spreading-scary-terrorism-allegations/",
+      "sharing": {
+        "url": "https://www.bleepingcomputer.com/news/security/ftc-warns-of-ongoing-scam-spreading-scary-terrorism-allegations/",
+        "title": "FTC Warns of Ongoing Scam Spreading Scary Terrorism Allegations"
+      },
+      "id": "e4e3da5ac9199cb839d4c6c277a8ac74"
+    },
+    {
+      "date": "2019-12-03T17:18:47.000Z",
+      "image": "https://xftm-help.mybluemix.net/images/stream-news-general1.png",
+      "author": "Lindsey O'Donnell (Threatpost)",
+      "type": "news",
+      "title": "Critical Android Flaw Leads to ‘Permanent DoS’",
+      "summary": "The December security update stomped out critical denial-of-service (DoS) and remote-code-execution (RCE) vulnerabilities in the Android operating system. ...",
+      "sourceURI": "https://threatpost.com/google-critical-android-permanent-dos-flaw/150764/",
+      "sharing": {
+        "url": "https://threatpost.com/google-critical-android-permanent-dos-flaw/150764/",
+        "title": "Critical Android Flaw Leads to ‘Permanent DoS’"
+      },
+      "id": "1b12f7ad14c66b1633a61977078d1e68"
+    },
+    {
+      "date": "2019-12-03T16:45:00.000Z",
+      "image": "https://xftm-help.mybluemix.net/images/stream-news-general2.png",
+      "author": "Kelly Jackson Higgins Executive Editor at Dark Reading (DARKReading)",
+      "type": "news",
+      "title": "Siemens Offers Workarounds for Newly Found PLC Vulnerability",
+      "summary": "An undocumented hardware-based special access feature recently found by researchers in Siemens' S7-1200 can be used by attackers to gain control of the industrial devices. ...",
+      "sourceURI": "https://www.darkreading.com/vulnerabilities---threats/siemens-offers-workarounds-for-newly-found-plc-vulnerability/d/d-id/1336503?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple",
+      "sharing": {
+        "url": "https://www.darkreading.com/vulnerabilities---threats/siemens-offers-workarounds-for-newly-found-plc-vulnerability/d/d-id/1336503?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple",
+        "title": "Siemens Offers Workarounds for Newly Found PLC Vulnerability"
+      },
+      "id": "1e50a06278b975df4c354ebb1fd082ab"
+    },
+    {
+      "date": "2019-12-03T16:31:22.000Z",
+      "image": "https://xftm-help.mybluemix.net/images/stream-news-general1.png",
+      "author": "Kevin Townsend (SecurityWeek)",
+      "type": "news",
+      "title": "Inside Mastercard's Push for Continuous Security",
+      "summary": "read more ...",
+      "sourceURI": "http://feedproxy.google.com/~r/Securityweek/~3/VS1DMslNu0c/inside-mastercards-push-continuous-security",
+      "sharing": {
+        "url": "http://feedproxy.google.com/~r/Securityweek/~3/VS1DMslNu0c/inside-mastercards-push-continuous-security",
+        "title": "Inside Mastercard's Push for Continuous Security"
+      },
+      "id": "1b776b445eda6e7bf0d3e5ec21267732"
+    },
+    {
+      "date": "2019-12-03T16:22:44.000Z",
+      "image": "https://xftm-help.mybluemix.net/images/stream-news-general2.png",
+      "author": "Sergiu Gatlan (Bleeping Computer)",
+      "type": "news",
+      "title": "Microsoft Forms Now Automatically Blocks Confirmed Phishing",
+      "summary": "Microsoft is rolling out automatic blocking for repeated Microsoft Forms phishing attempts to boost the product's security by stopping attackers from abusing forms and surveys to harvest sensitive data from their targets. [...] ...",
+      "sourceURI": "https://www.bleepingcomputer.com/news/security/microsoft-forms-now-automatically-blocks-confirmed-phishing/",
+      "sharing": {
+        "url": "https://www.bleepingcomputer.com/news/security/microsoft-forms-now-automatically-blocks-confirmed-phishing/",
+        "title": "Microsoft Forms Now Automatically Blocks Confirmed Phishing"
+      },
+      "id": "1b12f7ad14c66b1633a6197707772433"
+    },
+    {
+      "date": "2019-12-03T15:47:30.000Z",
+      "image": "https://xftm-help.mybluemix.net/images/stream-news-general2.png",
+      "author": "AFP (SecurityWeek)",
+      "type": "news",
+      "title": "EU to Relaunch Push to Regulate WhatsApp, Skype on Privacy",
+      "summary": "The EU will relaunch its deadlocked effort to more closely regulate internet phone and message services such as WhatsApp, Skype and Messenger, a top bloc official said on Tuesday. read ...",
+      "sourceURI": "http://feedproxy.google.com/~r/Securityweek/~3/bGjTScrVtPI/eu-relaunch-push-regulate-whatsapp-skype-privacy",
+      "sharing": {
+        "url": "http://feedproxy.google.com/~r/Securityweek/~3/bGjTScrVtPI/eu-relaunch-push-regulate-whatsapp-skype-privacy",
+        "title": "EU to Relaunch Push to Regulate WhatsApp, Skype on Privacy"
+      },
+      "id": "af362cef3f0a0f1f1d263249f228cbf4"
+    },
+    {
+      "date": "2019-12-03T15:22:34.000Z",
+      "image": "https://xftm-help.mybluemix.net/images/stream-news-general2.png",
+      "author": "Catalin Cimpanu (ZDNet)",
+      "type": "news",
+      "title": "Mozilla removes Avast and AVG extensions from add-on portal over snooping claims",
+      "summary": "The four extensions, two from Avast and two from AVG, are still available on the Chrome Web Store. ...",
+      "sourceURI": "https://www.zdnet.com/article/mozilla-removes-avast-and-avg-extensions-from-add-on-portal-over-snooping-claims/#ftag=RSSbaffb68",
+      "sharing": {
+        "url": "https://www.zdnet.com/article/mozilla-removes-avast-and-avg-extensions-from-add-on-portal-over-snooping-claims/#ftag=RSSbaffb68",
+        "title": "Mozilla removes Avast and AVG extensions from add-on portal over snooping claims"
+      },
+      "id": "13174b1aba684d71a271e6891ae25f0f"
+    },
+    {
+      "date": "2019-12-03T15:00:00.000Z",
+      "image": "https://xftm-help.mybluemix.net/images/stream-news-general2.png",
+      "author": "Paul Kurtz Co-Founder and Executive Chairman of TruSTAR (DARKReading)",
+      "type": "news",
+      "title": "Leveraging the Cloud for Cyber Intelligence",
+      "summary": "How fusing output datasets and sharing information can create a real-time understanding of suspicious activity across your enterprise. ...",
+      "sourceURI": "https://www.darkreading.com/cloud/leveraging-the-cloud-for-cyber-intelligence-/a/d-id/1336457?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple",
+      "sharing": {
+        "url": "https://www.darkreading.com/cloud/leveraging-the-cloud-for-cyber-intelligence-/a/d-id/1336457?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple",
+        "title": "Leveraging the Cloud for Cyber Intelligence"
+      },
+      "id": "6879bff032b847e4598fe1025224779a"
+    },
+    {
+      "date": "2019-12-03T14:15:35.000Z",
+      "image": "https://xftm-help.mybluemix.net/images/stream-news-general2.png",
+      "author": "Lawrence Abrams (Bleeping Computer)",
+      "type": "news",
+      "title": "Avast and AVG Firefox Extensions Pulled from Mozilla Addons Site",
+      "summary": "Mozilla has removed four extensions from Avast and AVG from the Firefox addon site over concerns that they were tracking a user's activity as they are browsed the web. [...] ...",
+      "sourceURI": "https://www.bleepingcomputer.com/news/software/avast-and-avg-firefox-extensions-pulled-from-mozilla-addons-site/",
+      "sharing": {
+        "url": "https://www.bleepingcomputer.com/news/software/avast-and-avg-firefox-extensions-pulled-from-mozilla-addons-site/",
+        "title": "Avast and AVG Firefox Extensions Pulled from Mozilla Addons Site"
+      },
+      "id": "1b12f7ad14c66b1633a6197707187c8b"
+    },
+    {
+      "date": "2019-12-03T14:09:47.000Z",
+      "image": "https://xftm-help.mybluemix.net/images/stream-news-general2.png",
+      "author": "Charlie Osborne (ZDNet)",
+      "type": "news",
+      "title": "EFF warns of ‘one-way mirror’ in the world of corporate online spying",
+      "summary": "The report exposes privacy issues and tracking techniques in online services we use on a daily basis. ...",
+      "sourceURI": "https://www.zdnet.com/article/eff-warns-of-one-way-mirror-in-the-world-of-corporate-online-spying/#ftag=RSSbaffb68",
+      "sharing": {
+        "url": "https://www.zdnet.com/article/eff-warns-of-one-way-mirror-in-the-world-of-corporate-online-spying/#ftag=RSSbaffb68",
+        "title": "EFF warns of ‘one-way mirror’ in the world of corporate online spying"
+      },
+      "id": "13174b1aba684d71a271e6891abb3af4"
+    },
+    {
+      "date": "2019-12-03T14:00:59.000Z",
+      "image": "https://xftm-help.mybluemix.net/images/stream-news-general2.png",
+      "author": "Pat Cooper (Threatpost)",
+      "type": "news",
+      "title": "Supply Chain Account Takeover: How Criminals Exploit Third-Party Access",
+      "summary": "It’s important for businesses of all sizes to not only view their suppliers’ attack surface as their own but also extend some of their security protections. ...",
+      "sourceURI": "https://threatpost.com/supply-chain-account-takeover-how-criminals-exploit-third-party-access/150700/",
+      "sharing": {
+        "url": "https://threatpost.com/supply-chain-account-takeover-how-criminals-exploit-third-party-access/150700/",
+        "title": "Supply Chain Account Takeover: How Criminals Exploit Third-Party Access"
+      },
+      "id": "642708b68aa5dcc01db7df8f82ef2d47"
+    },
+    {
+      "date": "2019-12-03T13:50:44.000Z",
+      "image": "https://xftm-help.mybluemix.net/images/stream-news-general1.png",
+      "author": "Eduard Kovacs (SecurityWeek)",
+      "type": "news",
+      "title": "Critical Code Execution Vulnerability Found in GoAhead Web Server",
+      "summary": "Cisco Talos researchers have identified two vulnerabilities in the GoAhead embedded web server, including a critical flaw that can be exploited for remote code execution. read more ...",
+      "sourceURI": "http://feedproxy.google.com/~r/Securityweek/~3/8C_dLMCi6QQ/critical-code-execution-vulnerability-found-goahead-web-server",
+      "sharing": {
+        "url": "http://feedproxy.google.com/~r/Securityweek/~3/8C_dLMCi6QQ/critical-code-execution-vulnerability-found-goahead-web-server",
+        "title": "Critical Code Execution Vulnerability Found in GoAhead Web Server"
+      },
+      "id": "8532de02ea7d74366ba2ab06e5fa943e"
+    },
+    {
+      "date": "2019-12-03T13:30:28.000Z",
+      "image": "https://xftm-help.mybluemix.net/images/stream_xftas-03.png",
+      "author": "IBM XFTAS Team",
+      "type": "news",
+      "title": "'StrandHogg' Vulnerability Allows Malware to Pose as Legitimate Android Apps",
+      "summary": "The flaw can allow hackers to take over typical device functions like sending messages and taking photos because users think malicious activity is a mobile app they use regularly.",
+      "sourceURI": "https://threatpost.com/strandhogg-vulnerability-allows-malware-to-pose-as-legitimate-android-apps/150750/",
+      "sharing": {
+        "url": "https://threatpost.com/strandhogg-vulnerability-allows-malware-to-pose-as-legitimate-android-apps/150750/",
+        "title": "'StrandHogg' Vulnerability Allows Malware to Pose as Legitimate Android Apps"
+      },
+      "id": "1b12f7ad14c66b1633a619770719f1a8"
+    },
+    {
+      "date": "2019-12-03T13:26:14.000Z",
+      "image": "https://xftm-help.mybluemix.net/images/stream-news-general1.png",
+      "author": "Elizabeth Montalbano (Threatpost)",
+      "type": "news",
+      "title": "‘StrandHogg’ Vulnerability Allows Malware to Pose as Legitimate Android Apps",
+      "summary": "The flaw can allow hackers to take over typical device functions like sending messages and taking photos because users think malicious activity is a mobile app they use regularly. ...",
+      "sourceURI": "https://threatpost.com/strandhogg-vulnerability-allows-malware-to-pose-as-legitimate-android-apps/150750/",
+      "sharing": {
+        "url": "https://threatpost.com/strandhogg-vulnerability-allows-malware-to-pose-as-legitimate-android-apps/150750/",
+        "title": "‘StrandHogg’ Vulnerability Allows Malware to Pose as Legitimate Android Apps"
+      },
+      "id": "206b83f631c44cd819c7945663e04c3b"
+    },
+    {
+      "date": "2019-12-03T13:20:28.000Z",
+      "image": "https://xftm-help.mybluemix.net/images/stream-news-general1.png",
+      "author": "Ionut Arghire (SecurityWeek)",
+      "type": "news",
+      "title": "Twitter Promises Increased Transparency With New Privacy Center",
+      "summary": "Twitter this week announced the launch of a privacy center whose goal is to provide increased transparency on how the social platform handles user information. read more ...",
+      "sourceURI": "http://feedproxy.google.com/~r/Securityweek/~3/0t2hDUgIVrA/twitter-promises-increased-transparency-new-privacy-center",
+      "sharing": {
+        "url": "http://feedproxy.google.com/~r/Securityweek/~3/0t2hDUgIVrA/twitter-promises-increased-transparency-new-privacy-center",
+        "title": "Twitter Promises Increased Transparency With New Privacy Center"
+      },
+      "id": "2c56c74c4ded44a1f4d85aed287831e4"
+    },
+    {
+      "date": "2019-12-03T12:56:04.000Z",
+      "image": "https://xftm-help.mybluemix.net/images/stream-news-general2.png",
+      "author": "Danny Palmer (ZDNet)",
+      "type": "news",
+      "title": "This new Android malware comes disguised as a chat app",
+      "summary": "CallerSpy can monitor calls, messages, take screenshots and records its surroundings, say researchers - who warn that it could be the early stages of a targeted cyber-espionage campaign. ...",
+      "sourceURI": "https://www.zdnet.com/article/this-new-android-malware-comes-disguised-as-a-chat-app/#ftag=RSSbaffb68",
+      "sharing": {
+        "url": "https://www.zdnet.com/article/this-new-android-malware-comes-disguised-as-a-chat-app/#ftag=RSSbaffb68",
+        "title": "This new Android malware comes disguised as a chat app"
+      },
+      "id": "1e50a06278b975df4c354ebb1f2e871c"
+    }
+  ],
+  "hasMore": true,
+  "offset": "loadMoreOffset",
+  "newPosts": false
+}

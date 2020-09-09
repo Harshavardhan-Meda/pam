@@ -1,0 +1,23 @@
+.evidences {
+  .collapsible-panel {
+    margin-bottom: 32px;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+
+    .items {
+      font-size: 14px;
+      margin-top: 10px;
+      line-height: 21px;
+
+      .devices li:not(:last-of-type) {
+        margin-bottom: 4px;
+      }
+    }
+  }
+
+  .description {
+    white-space: pre-wrap;
+  }
+}

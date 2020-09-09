@@ -1,0 +1,66 @@
+@import '../../../../constants/constants';
+
+.security-stream-item {
+  display: flex;
+  flex-direction: column;
+  background: $COLOR_GRAY_90;
+  margin-bottom: 16px;
+
+  h2 {
+    background: transparent url('../../../../assets/securityStream/securityStreamItem/wikis_bright_16.svg') no-repeat
+      scroll 10px 10px / 16px auto;
+    color: $SECONDARY_GREY;
+    font-size: 13px;
+    font-weight: 500;
+    margin: 0;
+    padding: 10px 16px 13px 32px;
+    text-transform: uppercase;
+    line-height: initial;
+
+    img {
+      width: 16px;
+    }
+
+    time {
+      float: right;
+      text-transform: initial;
+    }
+
+    &.icon-alert {
+      background: transparent url('../../../../assets/securityStream/securityStreamItem/warning_bright_16.svg')
+        no-repeat scroll 16px 8px / 16px auto;
+    }
+
+    &.icon-investigation {
+      background: transparent url('../../../../assets/securityStream/securityStreamItem/investigation_bright_16.svg')
+        no-repeat scroll 16px 8px / 16px auto;
+    }
+
+    &.icon-vulnerability {
+      background: transparent url('../../../../assets/securityStream/securityStreamItem/vulnerability_bright_16.svg')
+        no-repeat scroll 16px 8px / 16px auto;
+    }
+
+    &.icon-collection {
+      background: transparent url('../../../../assets/securityStream/securityStreamItem/collection_bright_16.svg')
+        no-repeat scroll 16px 8px / 16px auto;
+    }
+
+    &.icon-xftas-rss {
+      background: transparent url('../../../../assets/securityStream/securityStreamItem/rss-feed_bright_16.svg')
+        no-repeat scroll 16px 8px / 16px auto;
+    }
+  }
+
+  .actions-container {
+    & button {
+      height: 14px;
+      padding: 0 17px;
+    }
+    .stream-interest {
+      button {
+        padding-right: 20px;
+      }
+    }
+  }
+}

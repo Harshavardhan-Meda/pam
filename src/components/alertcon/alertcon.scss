@@ -1,0 +1,30 @@
+.alertcon {
+  .level1 {
+    background: transparent url(./alertcon-level1.png) no-repeat;
+  }
+
+  .level2 {
+    background: transparent url(./alertcon-level3.png) no-repeat;
+  }
+
+  .level3 {
+    background: transparent url(./alertcon-level3.png) no-repeat;
+  }
+
+  .level4 {
+    background: transparent url(./alertcon-level4.png) no-repeat;
+  }
+
+  .level1, .level2, .level3, .level4 {
+    margin-left: 15px;
+    display: inline-block;
+    width: 30px;
+    height: 24px;
+    padding-left: 11px;
+    padding-top: 5px;
+    background-size: 30px 24px;
+  }
+  &__label {
+    font-weight: bold;
+  }
+}

@@ -1,0 +1,67 @@
+@import "../../../constants/constants";
+@import "../../../constants/media-queries";
+
+.statusContainer {
+  display: flex;
+  flex-direction: column;
+  text-align: right;
+  margin-left: auto;
+  margin-right: 24px;
+  justify-content: flex-end;
+  padding-bottom: 16px;
+
+  .flag {
+    background: transparent url("../../../assets/common/flag_16.svg") no-repeat scroll right;
+    height: 14px;
+
+    @include respond-to(mobile-portrait) {
+      margin: 0;
+    }
+  }
+
+  .status {
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 18px;
+    padding-top: 11px;
+    padding-bottom: 10px;
+  }
+  
+  .lastUpdate {
+    font-size: 12px;
+    color: $PRIMARY_FONT_COLOR;
+    line-height: 15px;
+  }
+
+  @include respond-to(mobile) {
+    .status {
+      font-size: 12px;
+      font-weight: normal;
+      line-height: 15px;
+    }
+
+    .lastUpdate {
+      font-size: 11px;
+      line-height: 14px;
+    }
+  }
+
+  &.right {
+    .flag {
+      margin-bottom: 8px;
+      height: 16px;
+    }
+
+    .status {
+      font-weight: normal;
+      padding: 0;
+      line-height: 14px;
+    }
+
+    .lastUpdate {
+      line-height: 12px;
+      margin-top: 8px;
+      color: inherit;
+    }
+  }
+}

@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="theme-color" content="#000000">
+    <!--
+      manifest.json provides metadata used when your web app is added to the
+      homescreen on Android. See https://developers.google.com/web/fundamentals/engage-and-retain/web-app-manifest/
+    -->
+    <link rel="manifest" href="/manifest.json" />
+    <link rel="shortcut icon" href="/security.png" />
+    <title>IBM Security Services</title>
+    <style>
+      html, body {
+        background: #3d3d3d;
+        color: #f4f4f4;
+      }
+
+      @font-face {
+        font-family: 'IBM Plex Sans';
+        font-style: normal;
+        font-weight: 400;
+        src: url('/fonts/eot/IBMPlexSans-Regular.eot'); /* IE9 Compat Modes */
+        src: local('IBM Plex Sans'), local('IBMPlexSans'),
+          url('/fonts/eot/IBMPlexSans-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+          url('/fonts/woff2/IBMPlexSans-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+          url('/fonts/woff/IBMPlexSans-Regular.woff') format('woff'), /* Modern Browsers */
+          url('/fonts/ttf/IBMPlexSans-Regular.ttf') format('truetype'); /* Safari, Android, iOS */
+      }
+
+      #logout {
+        position: relative;
+        display: block;
+        margin-top: 100px;
+      }
+
+      h3 {
+        font-family: 'IBM Plex Sans', Arial, sans-serif;
+        font-weight:normal;
+        font-style:normal;
+        text-align: center;
+      }
+
+      @keyframes rotate {
+        0% {
+          transform: rotate(0deg);
+        }
+        100% {
+          transform: rotate(360deg);
+        }
+      }
+
+      .bx--loading {
+        width: 10.5rem;
+        height: 10.5rem;
+        margin: 0 auto;
+        animation-name: rotate;
+        -webkit-animation-name: rotate;
+        animation-duration: 690ms;
+        -webkit-animation-duration: 690ms;
+        animation-timing-function: linear;
+        -webkit-animation-timing-function: linear;
+        animation-fill-mode: forwards;
+        -webkit-animation-fill-mode: forwards;
+        animation-iteration-count: infinite;
+        -webkit-animation-iteration-count: infinite;
+        transform: rotate(360deg);
+      }
+
+      .bx--loading svg circle {
+        animation-name: init-stroke;
+        -webkit-animation-name: init-stroke;
+        animation-duration: 10ms;
+        -webkit-animation-duration: 10ms;
+        animation-timing-function: cubic-bezier(0.2, 0, 0.38, 0.9);
+        -webkit-animation-timing-function: cubic-bezier(0.2, 0, 0.38, 0.9);
+      }
+
+      .bx--loading svg {
+        fill: transparent;
+        stroke: #3d8aff;
+        stroke-width: 8;
+        stroke-linecap: butt;
+        stroke-dasharray: 240;
+      }
+
+      .bx--loading circle {
+        stroke: #0062ff;
+        stroke-dashoffset: 40;
+      }
+    </style>
+    <script>
+      window.onload = function() {
+        var host = location.hostname;
+        if (host === 'center.sec.ibm.com') {
+          document.getElementById('logoutFromCloudIdentity').src = "https://login.ibm.com/pkmslogout";
+          document.getElementById('logoutFromIdaas').src = "https://idaas.iam.ibm.com/pkmslogout";
+        } else {
+          document.getElementById('logoutFromCloudIdentity').src = "https://prepiam.ice.ibmcloud.com/pkmslogout";
+          document.getElementById('logoutFromIdaas').src = "https://prepiam.toronto.ca.ibm.com/pkmslogout ";
+        }
+      }
+      setTimeout(function(){ window.location.href = '/login'; }, 3000);
+    </script>
+  </head>
+  <body>
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <div id="logout">
+      <div class="bx--loading">
+        <svg className="bx--loading__svg" viewBox="-75 -75 150 150">
+          <title>Loading</title>
+          <circle
+            className="bx--loading__stroke"
+            cx="0"
+            cy="0"
+            r="37.5"
+          />
+        </svg>
+      </div>
+      <h3>Please wait... Signing out.</h3>
+      <div style="visibility:hidden">
+        <iframe height="0" width="0" src="" id="logoutFromCloudIdentity"></iframe>
+        <!-- Calling old IDAAS logout is only required until IBMid won't finish migration to Cloud Identity and after that only above call will be required -->
+        <iframe height="0" width="0" src="" id="logoutFromIdaas"></iframe>
+    </div>
+    </div>
+  </body>
+</html>

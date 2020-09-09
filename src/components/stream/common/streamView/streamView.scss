@@ -1,0 +1,27 @@
+@import "../../../../constants/media-queries";
+@import "../../../../constants/constants";
+
+.stream-view {
+  margin-left: 3.5rem;
+  width: 100%;
+  max-width: 70%;
+  min-width: 320px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-self: flex-start;
+
+  @include respond-to(mobile) {
+    max-width: 100%;
+    min-width: 0;
+  }
+}
+
+.spinner-container {
+  height: 280px;
+}
+
+.spinner {
+  svg {stroke: #3d8aff}
+  margin: 0 auto;
+}

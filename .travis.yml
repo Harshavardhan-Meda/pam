@@ -1,0 +1,52 @@
+notifications:
+  slack:
+    rooms:
+      - ibm-security:Z7gMZs9gRCO9hnp3l4QxoI21
+      - ibm-security:KfBxeJCtnPW3dd0TcUZqdiJj
+    on_success: always
+    on_failure: always
+
+language: node_js
+node_js: 12
+
+cache:
+  # cypress optimisation
+  directories:
+    - ~/.cache
+
+before_install:
+  - "curl -L -o tmp.zip --header 'Authorization: token '$GH_TOKEN \
+    $(curl -s --header 'Authorization: token '$GH_TOKEN https://api.github.ibm.com/repos/mss-transformation/dev-sec-ops/releases/latest | jq --raw-output '.zipball_url')"
+  - mkdir -p dev-ops && unzip -j tmp.zip -d dev-ops
+  - SECRETS=`[[ $TRAVIS_BRANCH == 'master' || -n "$TRAVIS_TAG" ]] && echo "${SECRETS_PROD}" || echo "${SECRETS_DEV}"`
+  - BFF_URL=`[[ $TRAVIS_BRANCH == 'master' || -n "$TRAVIS_TAG" ]] && echo "${BFF_URL_PROD}" || echo "${BFF_URL_DEV}"`
+  - RUN_WICKED=false
+  - source ./dev-ops/get_vault.sh --extra-secret ${SECRETS}
+
+before_script:
+  - npm run audit-ci
+  - npm run build
+  - BFF_URL=$BFF_URL npm start &
+
+script:
+  - npm run lint-travis
+  - npm test -- --coverage --silent --bail
+  - npm run e2e
+  - echo 'Sonar / Wicked' && echo -en 'travis_fold:start:script.sonar_wicked\\r'
+  - travis_wait 60 source ./dev-ops/mss_build_tools.sh
+  - echo -en 'travis_fold:end:script.sonar_wicked\\r'
+
+after_script:
+  - source ./dev-ops/push_artifacts.sh
+
+before_deploy:
+  - source ./dev-ops/install_travis_deps.sh
+  - chmod +x dev-ops/kube_deploy.sh
+
+deploy:
+  skip_cleanup: true
+  provider: script
+  script: ./dev-ops/kube_deploy.sh
+  on:
+    all_branches: true
+    condition: $TRAVIS_BRANCH == 'dev' || -n "$TRAVIS_TAG"

@@ -1,0 +1,147 @@
+{
+  "name": "horizon-webapp",
+  "version": "2.1.2",
+  "private": false,
+  "dependencies": {
+    "@carbon/ibm-security": "^1.22.0",
+    "@carbon/icons-react": "^10.10.2",
+    "@horizon/logger": "^1.1.0",
+    "carbon-components": "^10.11.2",
+    "carbon-components-react": "^7.11.3",
+    "carbon-icons": "^7.0.7",
+    "chalk": "^2.4.2",
+    "classnames": "^2.2.6",
+    "cookie-parser": "^1.4.5",
+    "core-js": "^3.6.5",
+    "cucumber-html-reporter": "^5.2.0",
+    "cypress-multi-reporters": "^1.2.3",
+    "escape-string-regexp": "^2.0.0",
+    "export-from-json": "^1.3.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "find": "^0.3.0",
+    "fs-extra": "^8.1.0",
+    "helmet": "^3.22.0",
+    "history": "^4.10.1",
+    "http-proxy-middleware": "^0.20.0",
+    "interweave": "^11.2.0",
+    "interweave-autolink": "^3.0.2",
+    "isobject": "^4.0.0",
+    "lodash": "^4.17.15",
+    "memorystore": "^1.6.2",
+    "moment": "^2.25.3",
+    "object-assign": "^4.1.1",
+    "passport": "^0.4.0",
+    "passport-ci-oidc": "^2.0.3",
+    "promise": "^8.0.3",
+    "prop-types": "^15.7.2",
+    "qs": "^6.9.4",
+    "react": "^16.13.1",
+    "react-clipboard.js": "^2.0.16",
+    "react-dom": "^16.13.1",
+    "react-infinite-scroller": "^1.2.4",
+    "react-piwik": "^1.6.0",
+    "react-redux": "^7.1.1",
+    "react-responsive": "^8.0.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.4.1",
+    "redux": "^4.0.4",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-logger": "^3.0.6",
+    "redux-mock-store": "^1.5.3",
+    "redux-responsive": "^4.3.8",
+    "redux-saga": "^1.1.1",
+    "swagger-client": "^3.10.1",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {
+    "@cypress/schema-tools": "^4.7.4",
+    "@cypress/snapshot": "^2.1.3",
+    "@redux-saga/testing-utils": "^1.1.1",
+    "async-await-retry": "^1.0.4",
+    "concurrently": "^5.2.0",
+    "cypress": "^4.9.0",
+    "enzyme": "^3.10.0",
+    "enzyme-adapter-react-16": "^1.15.1",
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb": "^18.1.0",
+    "eslint-loader": "^3.0.4",
+    "eslint-plugin-cypress": "^2.7.0",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.19.0",
+    "eslint-plugin-webdriverio": "^1.0.1",
+    "expect": "^24.9.0",
+    "husky": "^3.0.9",
+    "jest-fetch-mock": "^2.1.2",
+    "jest-sonar-reporter": "^2.0.0",
+    "lint-staged": "^9.4.2",
+    "mocha": "^6.2.3",
+    "mochawesome": "^4.1.0",
+    "mochawesome-merge": "^4.0.3",
+    "mochawesome-report-generator": "^4.0.1",
+    "node-sass": "^4.14.1",
+    "puppeteer": "^3.0.2"
+  },
+  "scripts": {
+    "audit-ci": "npm audit --audit-level=critical",
+    "audit": "npm audit fix",
+    "start": "node -r dotenv/config ./server/server.js",
+    "start:docker": "npm run build && npm start",
+    "build": "react-scripts build",
+    "docker": "docker build -t webapp -f Dockerfile . && docker run -it -p 8080:8080 webapp",
+    "test": "react-scripts test --testResultsProcessor ./node_modules/jest-sonar-reporter",
+    "test-precommit": "CI=true npm test -- --bail --silent --findRelatedTests",
+    "ui": "react-scripts start",
+    "dev": "HTTPS=true concurrently \"npm start\" \"npm run ui\"",
+    "e2e": "node -r dotenv/config cypress/cypress.js",
+    "lint": "eslint . --fix",
+    "lint-travis": "eslint .",
+    "precommit": "lint-staged",
+    "postcommit": "git update-index --again",
+    "init:dev": "consul-template -config env/dev-config.hcl -once",
+    "init:prod": "consul-template -config env/prod-config.hcl -once"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "lint-staged": {
+    "*.js": [
+      "npm run lint",
+      "npm run test-precommit",
+      "git add"
+    ]
+  },
+  "proxy": "https://localhost:8080",
+  "jestSonar": {
+    "reportPath": "jest-sonar-report",
+    "reportFile": "jest-sonar-report.xml"
+  },
+  "jest": {
+    "collectCoverageFrom": [
+      "src/**/*.{js,jsx,mjs}",
+      "!src/index.js",
+      "!src/sagas/rootSaga.js",
+      "!src/reducers/index.js",
+      "!**/filterSchema.js"
+    ],
+    "transform": {
+      "^.+\\.(js|jsx|mjs)$": "<rootDir>/node_modules/babel-jest"
+    },
+    "transformIgnorePatterns": [
+      "[/\\\\]node_modules[/\\\\].+\\.(js|jsx|mjs)$"
+    ],
+    "moduleNameMapper": {
+      "^react-native$": "react-native-web"
+    }
+  },
+  "publishConfig": {
+    "registry": "https://na.artifactory.swg-devops.com/artifactory/api/npm/mss-npm-virtual/"
+  }
+}

@@ -1,0 +1,40 @@
+@import "../../../constants/constants";
+
+.collapsible-panel {
+
+  .title {
+    display: flex;
+    color: $SECONDARY_GREY;
+    border-bottom: 1px solid $SECONDARY_GREY;
+    padding-bottom: 6px;
+    cursor: pointer;
+
+    span {
+      font-size: 16px;
+    }
+    span:nth-of-type(1) {
+      font-weight: bold;
+    }
+    span:nth-of-type(2) {
+      font-weight: lighter;
+      margin-left: 4px;
+    }
+
+    .collapse-arrow {
+      height: 16px;
+      width: 16px;
+      margin-left: auto;
+      border: none;
+      cursor: pointer;
+      background: transparent;
+      padding: 0;
+
+      svg {
+        fill: $SECONDARY_GREY;
+      }
+    }
+  }
+  .items {
+    line-height: 24px;
+  }
+}

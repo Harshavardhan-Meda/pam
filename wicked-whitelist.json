@@ -1,0 +1,8 @@
+[
+  {
+    "name": "horizon-webapp",
+  },
+  {
+    "name": "@horizon/web-bff-client",
+  }
+]

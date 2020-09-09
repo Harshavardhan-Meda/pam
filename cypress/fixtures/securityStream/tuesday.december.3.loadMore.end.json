@@ -1,0 +1,281 @@
+{
+  "items": [
+    {
+      "date": "2019-11-29T17:14:37.000Z",
+      "image": "https://xftm-help.mybluemix.net/images/stream-news-general1.png",
+      "author": "Lawrence Abrams (Bleeping Computer)",
+      "type": "news",
+      "title": "Kali Linux Adds 'Undercover' Mode to Impersonate Windows 10",
+      "summary": "Kali Linux 2019.4 was released last week and with it comes an 'Undercover' mode that can be used to quickly make the Kali desktop look like Windows 10. [...] ...",
+      "sourceURI": "https://www.bleepingcomputer.com/news/security/kali-linux-adds-undercover-mode-to-impersonate-windows-10/",
+      "sharing": {
+        "url": "https://www.bleepingcomputer.com/news/security/kali-linux-adds-undercover-mode-to-impersonate-windows-10/",
+        "title": "Kali Linux Adds 'Undercover' Mode to Impersonate Windows 10"
+      },
+      "id": "a0ca49e9204459ebb6d0e5d3aa67be7a"
+    },
+    {
+      "date": "2019-11-29T16:00:00.000Z",
+      "image": "https://media.wired.com/photos/5ddef34581defb0009df4ab5/master/pass/Science_deaddrop-1145160815.jpg",
+      "author": "Andy Greenberg (Wired)",
+      "type": "news",
+      "title": "What Is a Dead Drop?",
+      "summary": "A mainstay of spycraft still has plenty of relevance in the digital age. ...",
+      "sourceURI": "https://www.wired.com/story/what-is-dead-drop",
+      "sharing": { "url": "https://www.wired.com/story/what-is-dead-drop", "title": "What Is a Dead Drop?" },
+      "id": "ea5f1d671aeb849ff56eb470569305be"
+    },
+    {
+      "date": "2019-11-29T15:06:42.000Z",
+      "image": "https://sophosnews.files.wordpress.com/2019/11/nfl-scam-1200.png",
+      "author": "Paul Ducklin (Naked Security)",
+      "type": "news",
+      "title": "Netflix account freeze – don’t click, it’s a scam!",
+      "summary": "The telltale signs are all there... but if you're in a hurry, this Netflix scam passes the \"visual appeal\" test. ...",
+      "sourceURI": "https://nakedsecurity.sophos.com/2019/11/29/netflix-account-freeze-dont-click-its-a-scam/",
+      "sharing": {
+        "url": "https://nakedsecurity.sophos.com/2019/11/29/netflix-account-freeze-dont-click-its-a-scam/",
+        "title": "Netflix account freeze – don’t click, it’s a scam!"
+      },
+      "id": "b5a6f6e43441d0e988e6607bf59cfc3c"
+    },
+    {
+      "date": "2019-11-29T14:56:00.000Z",
+      "image": "https://xftm-help.mybluemix.net/images/stream-news-general2.png",
+      "author": "Lawrence Abrams (Bleeping Computer)",
+      "type": "news",
+      "title": "Law Enfocement Shuts Down Imminent Monitor Malware, Makes Arrests",
+      "summary": "Law enforcement agencies from numerous countries have shut down the Imminent Monitor Remote Access Trojan (RAT) and have arrested thirteen of its most prolific users. [...] ...",
+      "sourceURI": "https://www.bleepingcomputer.com/news/security/law-enfocement-shuts-down-imminent-monitor-malware-makes-arrests/",
+      "sharing": {
+        "url": "https://www.bleepingcomputer.com/news/security/law-enfocement-shuts-down-imminent-monitor-malware-makes-arrests/",
+        "title": "Law Enfocement Shuts Down Imminent Monitor Malware, Makes Arrests"
+      },
+      "id": "c2d8882c697538c4db7064979a4ebfe3"
+    },
+    {
+      "date": "2019-11-29T14:00:37.000Z",
+      "image": "https://xftm-help.mybluemix.net/images/stream-news-general1.png",
+      "author": "Lindsey O'Donnell (Threatpost)",
+      "type": "news",
+      "title": "Amazon Plans Ring Facial Recognition-Based ‘Watch List’, Report",
+      "summary": "Amazon's facial recognition would alert Ring users if \"suspicious\" individuals are near their house. ...",
+      "sourceURI": "https://threatpost.com/amazon-ring-facial-recognition-watch-list/150681/",
+      "sharing": {
+        "url": "https://threatpost.com/amazon-ring-facial-recognition-watch-list/150681/",
+        "title": "Amazon Plans Ring Facial Recognition-Based ‘Watch List’, Report"
+      },
+      "id": "ea5f1d671aeb849ff56eb47056563887"
+    },
+    {
+      "date": "2019-11-29T12:59:46.000Z",
+      "image": "https://xftm-help.mybluemix.net/images/stream-news-general2.png",
+      "author": "Danny Palmer (ZDNet)",
+      "type": "news",
+      "title": "Ransomware: Big paydays and little chance of getting caught means boom time for crooks",
+      "summary": "File-encrypting malware is proving to be extremely lucrative for cyber attackers, who can continue large-scale ransomware campaigns – making hundreds of thousands of dollars – almost risk-free. ...",
+      "sourceURI": "https://www.zdnet.com/article/ransomware-big-paydays-and-little-chance-of-getting-caught-means-boom-time-for-crooks/#ftag=RSSbaffb68",
+      "sharing": {
+        "url": "https://www.zdnet.com/article/ransomware-big-paydays-and-little-chance-of-getting-caught-means-boom-time-for-crooks/#ftag=RSSbaffb68",
+        "title": "Ransomware: Big paydays and little chance of getting caught means boom time for crooks"
+      },
+      "id": "a62b968d68ebf41d41abce3813ffb126"
+    },
+    {
+      "date": "2019-11-29T12:15:02.000Z",
+      "image": "https://1.bp.blogspot.com/-tesnni9scT0/XeEHuyyJbHI/AAAAAAAA13k/_lzkSNeVWiIQmypZ8OyKlDh_miPoA-llgCLcBGAsYHQ/s72-c-e100/Imminent-Monitor-Remote-Access-Trojan.png",
+      "author": "Unknown (TheHackersNews)",
+      "type": "news",
+      "title": "Europol Shuts Down 'Imminent Monitor' RAT Operations With 13 Arrests",
+      "summary": "In a coordinated International law enforcement operation, Europol today announced to shut down the global organized cybercrime network behind Imminent Monitor RAT, yet another hacking tool that allows cybercriminals to ...",
+      "sourceURI": "http://feedproxy.google.com/~r/TheHackersNews/~3/0SX47yoknMs/europol-imminent-monitor-rat.html",
+      "sharing": {
+        "url": "http://feedproxy.google.com/~r/TheHackersNews/~3/0SX47yoknMs/europol-imminent-monitor-rat.html",
+        "title": "Europol Shuts Down 'Imminent Monitor' RAT Operations With 13 Arrests"
+      },
+      "id": "8f5c5e1ba771c6d376cfda0726aaa6dc"
+    },
+    {
+      "date": "2019-11-29T11:22:20.000Z",
+      "image": "https://sophosnews.files.wordpress.com/2019/11/shutterstock_415195669-1.png",
+      "author": "John E Dunn (Naked Security)",
+      "type": "news",
+      "title": "US tightens rules on drone use in policy update",
+      "summary": "When it comes to managing drones (Unmanned Aircraft Systems, or UAS) the US Department of Justice wants Americans to know it’s on the case. ...",
+      "sourceURI": "https://nakedsecurity.sophos.com/2019/11/29/us-tightens-rules-on-drone-use-in-policy-update/",
+      "sharing": {
+        "url": "https://nakedsecurity.sophos.com/2019/11/29/us-tightens-rules-on-drone-use-in-policy-update/",
+        "title": "US tightens rules on drone use in policy update"
+      },
+      "id": "6814aaedcf50339be9a3eb939a6c83d3"
+    },
+    {
+      "date": "2019-11-29T11:05:15.000Z",
+      "image": "https://sophosnews.files.wordpress.com/2019/11/magento.png",
+      "author": "John E Dunn (Naked Security)",
+      "type": "news",
+      "title": "Adobe’s Magento Marketplace suffers data breach",
+      "summary": "Adobe’s Magento Marketplace has suffered a data breach, the company has said in an email sent to customers. ...",
+      "sourceURI": "https://nakedsecurity.sophos.com/2019/11/29/adobes-magento-marketplace-suffers-data-breach/",
+      "sharing": {
+        "url": "https://nakedsecurity.sophos.com/2019/11/29/adobes-magento-marketplace-suffers-data-breach/",
+        "title": "Adobe’s Magento Marketplace suffers data breach"
+      },
+      "id": "fc920619a20c4e54193ed578e3a39fa8"
+    },
+    {
+      "date": "2019-11-29T11:03:37.000Z",
+      "image": "https://sophosnews.files.wordpress.com/2019/11/shutterstock_616761890.png",
+      "author": "Danny Bradbury (Naked Security)",
+      "type": "news",
+      "title": "Pressure mounts for federal privacy law with second bill",
+      "summary": "Pressure is gathering for a federal privacy law in the US with the introduction of a second bill that would protect consumer data. ...",
+      "sourceURI": "https://nakedsecurity.sophos.com/2019/11/29/pressure-mounts-for-federal-privacy-law-with-second-bill/",
+      "sharing": {
+        "url": "https://nakedsecurity.sophos.com/2019/11/29/pressure-mounts-for-federal-privacy-law-with-second-bill/",
+        "title": "Pressure mounts for federal privacy law with second bill"
+      },
+      "id": "e47af045107a28e058b34df46e46500c"
+    },
+    {
+      "date": "2019-11-29T10:41:32.000Z",
+      "image": "https://sophosnews.files.wordpress.com/2019/11/shutterstock_403937830-compressor.png",
+      "author": "Danny Bradbury (Naked Security)",
+      "type": "news",
+      "title": "Master Go player retires citing AI supremacy",
+      "summary": "Master Go player Lee Se-dol has handed in his stones after deciding that there's just no way to beat a machine when playing the ancient Chinese board game. ...",
+      "sourceURI": "https://nakedsecurity.sophos.com/2019/11/29/master-go-player-retires-citing-ai-supremacy/",
+      "sharing": {
+        "url": "https://nakedsecurity.sophos.com/2019/11/29/master-go-player-retires-citing-ai-supremacy/",
+        "title": "Master Go player retires citing AI supremacy"
+      },
+      "id": "ea5f1d671aeb849ff56eb4705629a12d"
+    },
+    {
+      "date": "2019-11-29T09:15:00.000Z",
+      "image": "https://xftm-help.mybluemix.net/images/stream-news-general1.png",
+      "author": "Eileen Yu (ZDNet)",
+      "type": "news",
+      "title": "Singapore government must realise human error also a security breach",
+      "summary": "Latest data breach involving a government agency may have been the result of human error, but it should still be deemed a security breach and treated as a risk that ...",
+      "sourceURI": "https://www.zdnet.com/article/singapore-government-must-realise-human-error-also-a-security-breach/#ftag=RSSbaffb68",
+      "sharing": {
+        "url": "https://www.zdnet.com/article/singapore-government-must-realise-human-error-also-a-security-breach/#ftag=RSSbaffb68",
+        "title": "Singapore government must realise human error also a security breach"
+      },
+      "id": "0ad1879c339e92c4d8eabb2a75d294e2"
+    },
+    {
+      "date": "2019-11-29T04:07:54.000Z",
+      "image": "https://xftm-help.mybluemix.net/images/stream-news-general1.png",
+      "author": "Ionut Ilascu (Bleeping Computer)",
+      "type": "news",
+      "title": "Advanced Hacking Groups Keep Showing Up, Old Ones Evolve",
+      "summary": "Advancements in the threat landscape are clear from one year to another. Since last year, security researchers have seen new adversaries along with methods of compromise and more overt cyberattacks. ...",
+      "sourceURI": "https://www.bleepingcomputer.com/news/security/advanced-hacking-groups-keep-showing-up-old-ones-evolve/",
+      "sharing": {
+        "url": "https://www.bleepingcomputer.com/news/security/advanced-hacking-groups-keep-showing-up-old-ones-evolve/",
+        "title": "Advanced Hacking Groups Keep Showing Up, Old Ones Evolve"
+      },
+      "id": "f3a391e2ae8db5d2550ac4f7667fbcca"
+    },
+    {
+      "date": "2019-11-28T18:23:09.000Z",
+      "image": "https://xftm-help.mybluemix.net/images/stream-news-general1.png",
+      "author": "AFP (SecurityWeek)",
+      "type": "news",
+      "title": "Bytedance: The Chinese Company Behind Global TikTok Craze",
+      "summary": "TikTok's Owner ByteDance Could be Forced to Share User Information With Chinese Intelligence read more ...",
+      "sourceURI": "http://feedproxy.google.com/~r/Securityweek/~3/kdonqRSovCE/bytedance-chinese-company-behind-global-tiktok-craze",
+      "sharing": {
+        "url": "http://feedproxy.google.com/~r/Securityweek/~3/kdonqRSovCE/bytedance-chinese-company-behind-global-tiktok-craze",
+        "title": "Bytedance: The Chinese Company Behind Global TikTok Craze"
+      },
+      "id": "2404bf69ea6958e8ea06a872a5bc2eb1"
+    },
+    {
+      "date": "2019-11-28T17:49:42.000Z",
+      "image": "https://xftm-help.mybluemix.net/images/stream-news-general2.png",
+      "author": "Ionut Ilascu (Bleeping Computer)",
+      "type": "news",
+      "title": "Dutch Govt Warns of 3 Ransomware Infecting 1,800 Businesses",
+      "summary": "A confidential report from the National Cyber Security Centre (NCSC) in the Netherlands informs that at least 1,800 companies are affected by ransomware across the world. [...] ...",
+      "sourceURI": "https://www.bleepingcomputer.com/news/security/dutch-govt-warns-of-3-ransomware-infecting-1-800-businesses/",
+      "sharing": {
+        "url": "https://www.bleepingcomputer.com/news/security/dutch-govt-warns-of-3-ransomware-infecting-1-800-businesses/",
+        "title": "Dutch Govt Warns of 3 Ransomware Infecting 1,800 Businesses"
+      },
+      "id": "72bd059d222c0ae103972076dde0f773"
+    },
+    {
+      "date": "2019-11-28T16:48:45.000Z",
+      "image": "https://sophosnews.files.wordpress.com/2019/11/nsl-bf-1200.jpg",
+      "author": "Paul Ducklin (Naked Security)",
+      "type": "news",
+      "title": "Stay safe on Black Friday – and the rest  of the year, too!",
+      "summary": "Watch our latest Naked Security Live video for some handy and practical cybersecurity tips - for Black Friday and beyond. ...",
+      "sourceURI": "https://nakedsecurity.sophos.com/2019/11/28/stay-safe-on-black-friday-and-the-rest-of-the-year-too/",
+      "sharing": {
+        "url": "https://nakedsecurity.sophos.com/2019/11/28/stay-safe-on-black-friday-and-the-rest-of-the-year-too/",
+        "title": "Stay safe on Black Friday – and the rest  of the year, too!"
+      },
+      "id": "2404bf69ea6958e8ea06a872a5798519"
+    },
+    {
+      "date": "2019-11-28T15:53:48.000Z",
+      "image": "https://xftm-help.mybluemix.net/images/stream-news-general1.png",
+      "author": "DEF CON Announcements (DefCon)",
+      "type": "news",
+      "title": "Happy Thanksgiving!",
+      "summary": "Happy Thanksgiving from all of us at DEF CON! ...",
+      "sourceURI": "https://defcon.org/html/links/dc-news.html#thanksgiving19",
+      "sharing": { "url": "https://defcon.org/html/links/dc-news.html#thanksgiving19", "title": "Happy Thanksgiving!" },
+      "id": "afebf51c9ca324e4a0432d6cd201354c"
+    },
+    {
+      "date": "2019-11-28T13:30:24.000Z",
+      "image": "https://xftm-help.mybluemix.net/images/stream-news-general1.png",
+      "author": "Charlie Osborne (ZDNet)",
+      "type": "news",
+      "title": "Hotel front desks are now a hotbed for hackers",
+      "summary": "The hospitality industry can’t catch a break when it comes to cybercrime. ...",
+      "sourceURI": "https://www.zdnet.com/article/hotel-front-desks-are-now-a-hot-target-for-hackers/#ftag=RSSbaffb68",
+      "sharing": {
+        "url": "https://www.zdnet.com/article/hotel-front-desks-are-now-a-hot-target-for-hackers/#ftag=RSSbaffb68",
+        "title": "Hotel front desks are now a hotbed for hackers"
+      },
+      "id": "9a546aa44e2dd60b1f42cefb0727ca60"
+    },
+    {
+      "date": "2019-11-28T13:00:06.000Z",
+      "image": "https://xftm-help.mybluemix.net/images/stream-news-general1.png",
+      "author": "Tara Seals (Threatpost)",
+      "type": "news",
+      "title": "ThreatList: Healthcare Breaches Spike in October",
+      "summary": "38 million consumer health records have been exposed so far in 2019. ...",
+      "sourceURI": "https://threatpost.com/threatlist-healthcare-breaches-spike-in-october/150677/",
+      "sharing": {
+        "url": "https://threatpost.com/threatlist-healthcare-breaches-spike-in-october/150677/",
+        "title": "ThreatList: Healthcare Breaches Spike in October"
+      },
+      "id": "6b88f0b75b7ce60837c1b25fcb4987fe"
+    },
+    {
+      "date": "2019-11-28T12:11:00.000Z",
+      "image": "https://xftm-help.mybluemix.net/images/stream-news-general1.png",
+      "author": "Liam Tung (ZDNet)",
+      "type": "news",
+      "title": "Security firm Prosegur: We've shut our IT network after Ryuk ransomware attack",
+      "summary": "Prosegur's website is back online but customers are complaining that alarms remain offline. ...",
+      "sourceURI": "https://www.zdnet.com/article/security-firm-prosegur-weve-shut-our-it-network-after-ryuk-ransomware-attack/#ftag=RSSbaffb68",
+      "sharing": {
+        "url": "https://www.zdnet.com/article/security-firm-prosegur-weve-shut-our-it-network-after-ryuk-ransomware-attack/#ftag=RSSbaffb68",
+        "title": "Security firm Prosegur: We've shut our IT network after Ryuk ransomware attack"
+      },
+      "id": "54e74f80eef41435c75eca0cd4b033d1"
+    }
+  ],
+  "hasMore": false,
+  "offset": "end",
+  "newPosts": false
+}

@@ -1,0 +1,19 @@
+@import "../../../constants/constants";
+
+.bx--inline-notification {
+  position: sticky;
+  top: 0;
+  margin-top: 0;
+  z-index: 99999;
+  max-width: 100%;
+  color: #000000;
+  background-color: $PRIMARY_WHITE;
+
+  &__subtitle b {
+    font-weight: bold;
+  }
+
+  &__close-button > &__close-icon {
+    fill: #000000;
+  }
+}

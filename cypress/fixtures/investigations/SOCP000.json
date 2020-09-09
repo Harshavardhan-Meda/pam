@@ -1,0 +1,93 @@
+{
+  "type": "investigation",
+  "title": "Trend Analysis",
+  "subtitle": "",
+  "id": "SOCP000",
+  "lastUpdate": "Updated 36 minutes ago",
+  "status": "New",
+  "timeOfUpdate": "2019-12-03T15:23:58.000Z",
+  "description": "TEST",
+  "priority": "low",
+  "devices": [{ "name": "ibm-selm-qa" }],
+  "sharing": {
+    "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP000",
+    "title": "Trend Analysis"
+  },
+  "worklog": [
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated 36 minutes ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated 6 hours ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated a day ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated a day ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\ntest comment [timestamp: 1575310989485]"
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated a day ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated a day ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated a day ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated a day ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated a day ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\ntest comment [timestamp: 1575286109062]"
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated a day ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated a day ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\ntest comment [timestamp: 1575285008526]"
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated a day ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated a day ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\ntest comment [timestamp: 1575283663151]"
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated a day ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+    },
+    {
+      "user": "Horizon Team",
+      "lastUpdate": "Updated 4 days ago",
+      "text": "Ticket updated via Web app by user: Horizon Team\n\nPlease close this ticket."
+    }
+  ]
+}

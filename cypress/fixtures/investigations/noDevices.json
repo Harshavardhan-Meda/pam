@@ -1,0 +1,17 @@
+{
+  "type": "investigation",
+  "title": "Unauthorized Access",
+  "subtitle": "",
+  "id": "SOCP00701548719",
+  "lastUpdate": "Updated 8 days ago",
+  "status": "New",
+  "timeOfUpdate": "2019-11-25T21:02:30.000Z",
+  "description": "description",
+  "priority": "low",
+  "devices": [],
+  "sharing": {
+    "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701548719",
+    "title": "Unauthorized Access"
+  },
+  "worklog": []
+}

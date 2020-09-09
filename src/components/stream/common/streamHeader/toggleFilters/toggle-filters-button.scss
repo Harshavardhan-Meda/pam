@@ -1,0 +1,21 @@
+@import "../../../../../constants/constants";
+@import "../../../../../constants/media-queries";
+
+.toggle-filters-btn {
+  width: 48px;
+  background-color: transparent;
+  border: transparent;
+  cursor: pointer;
+
+  .toggle-filters-icon {
+    width: 24px;
+    height: 24px;
+    fill: $COLOR_GRAY_60;
+  }
+
+  @include respond-to(mobile) {
+    order: 1;
+  }
+}
+
+

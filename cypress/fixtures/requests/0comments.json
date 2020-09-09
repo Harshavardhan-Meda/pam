@@ -1,0 +1,20 @@
+{
+  "type": "request",
+  "title": "Expected Outage Notification",
+  "subtitle": "",
+  "id": "SOCP00701539097",
+  "lastUpdate": "Updated 13 days ago",
+  "status": "New",
+  "timeOfUpdate": "2019-11-20T14:52:56.000Z",
+  "description": "test",
+  "devices": [
+    {
+      "name": "ASA @ estreamer2-log-gen"
+    }
+  ],
+  "sharing": {
+    "url": "https://portal.mss.iss.net/mss/ticket/securityTicketUpdate.mss?ticketId=SOCP00701539097",
+    "title": "Expected Outage Notification"
+  },
+  "worklog": []
+}

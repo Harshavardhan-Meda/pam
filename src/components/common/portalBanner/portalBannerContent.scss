@@ -1,0 +1,108 @@
+@import '../../../constants/constants';
+@import '../../../constants/media-queries';
+
+.portalBanner {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-left: 50px;
+  background: #4f2196; /* Old browsers */
+  background: -moz-linear-gradient(left, #4f2196 0%, #054ada 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(left, #4f2196 0%, #054ada 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(
+    to right,
+    #4f2196 0%,
+    #054ada 100%
+  ); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4f2196', endColorstr='#054ada',GradientType=1 ); /* IE6-9 */
+
+  &__rightContainer,
+  &__leftContainer {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  &__rightContainer {
+    flex-wrap: nowrap;
+    flex-grow: 1;
+    justify-content: space-between;
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-image: url('../../../assets/portalBanner/banner_icons.png');
+  }
+
+  &__watsonLogo {
+    margin: 6px 15px;
+    @include respond-to(mobile-portrait) {
+      display: none;
+    }
+  }
+
+  &__text-background {
+    background-color: white;
+    margin: 6px 6px 6px 8px;
+    position: relative;
+
+    &__text {
+      color: black;
+      font-size: 14px;
+      padding: 11px;
+      white-space: nowrap;
+      @include respond-to(mobile-portrait) {
+        white-space: normal;
+      }
+    }
+
+    &__bannerArrow {
+      position: absolute;
+      top: 0;
+      left: -8px;
+    }
+    @include respond-to(mobile-portrait) {
+      width: 100%;
+    }
+  }
+
+  &__bannerIcons {
+    margin: 6px 0;
+  }
+
+  &__button {
+    &-survey {
+      border: 1px solid white;
+      @include respond-to(mobile-portrait) {
+        width: 100%;
+      }
+    }
+    &-survey,
+    &-back {
+      color: white;
+      margin: 6px;
+      padding: 5px 20px;
+      @include respond-to(mobile-portrait) {
+        margin: 0;
+      }
+    }
+  }
+
+  &__closeBanner {
+    svg {
+      width: 30px;
+      height: 30px;
+    }
+  }
+  &__closeBanner,
+  &__button-survey,
+  &__button-back {
+    &:hover,
+    &:focus,
+    &:active {
+      color: white;
+      background-color: darken(#3632b2, 5%);
+    }
+  }
+
+  @include respond-to(mobile-portrait) {
+    margin-left: 48px;
+  }
+}

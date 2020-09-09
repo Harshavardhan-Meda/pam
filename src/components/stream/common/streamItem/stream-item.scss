@@ -1,0 +1,51 @@
+@import "../../../../constants/constants";
+@import "../../../../constants/media-queries";
+
+a {
+  text-decoration: none;
+}
+.stream-item {
+  background: $COLOR_GRAY_90;
+  color: $SECONDARY_GREY;
+  padding: 12px 16px 12px 12px;
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: row;
+  font-size: 14px;
+
+  &:hover {
+    background-color: #222222;
+    transition-duration: 250ms;
+  }
+
+  h2 {
+    color: white;
+    margin-bottom: 8px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: unset;
+  }
+
+  .left {
+    flex-grow: 1;
+    min-width: 0;
+  }
+
+  .right {
+    min-width: 200px;
+    margin: 0;
+    padding: 0;
+  }
+
+  .comment {
+    margin-top: 8px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    font-size: 12px;
+  }
+
+  @include respond-to(mobile) {
+    flex-direction: column;
+  }
+}

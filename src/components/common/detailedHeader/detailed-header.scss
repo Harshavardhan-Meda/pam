@@ -1,0 +1,122 @@
+@import '../../../constants/constants';
+@import '../../../constants/media-queries';
+
+.details {
+  .detailed-header {
+    background: $COLOR_GRAY_90;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 0 16px #000000;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+
+    .container {
+      display: flex;
+    }
+
+    h3 {
+      padding-top: 8px;
+      padding-bottom: 8px;
+      font-size: 20px;
+      font-weight: bold;
+      line-height: 24px;
+    }
+
+    h4 {
+      color: #9b9b9b;
+      font-size: 12px;
+      font-weight: normal;
+      line-height: 14px;
+    }
+
+    .priority {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 96px;
+      height: 96px;
+      border: none;
+      font-weight: bold;
+    }
+
+    .priority-high {
+      background-color: $PRIORITY_HIGH;
+    }
+
+    .priority-medium {
+      background-color: $PRIORITY_MEDIUM;
+    }
+
+    .priority-low {
+      background-color: $PRIORITY_LOW;
+    }
+
+    .priority-none {
+      background-color: $PRIORITY_NONE;
+    }
+
+    .header-content {
+      margin-left: 26px;
+
+      .link {
+        color: white;
+        text-decoration: none;
+
+        .back {
+          display: inline-flex;
+          align-items: center;
+          cursor: pointer;
+          font-size: 14px;
+          line-height: 17px;
+          padding-top: 8px;
+          padding-bottom: 3px;
+
+          .arrow {
+            svg {
+              fill: white;
+            }
+            height: 14px;
+            width: 16px;
+            margin-right: 8px;
+          }
+        }
+      }
+    }
+
+    .bx--inline-notification {
+      margin: 0;
+    }
+
+    @include respond-to(mobile) {
+      h3 {
+        font-size: 16px;
+        white-space: nowrap;
+        padding-top: 17px;
+        line-height: 20px;
+      }
+
+      .priority {
+        width: 6px;
+        color: transparent;
+        height: 124px;
+
+        svg {
+          display: none;
+        }
+      }
+
+      .header-content {
+        margin-left: 10px;
+      }
+    }
+  }
+}
+.export-content {
+  display: flex;
+  justify-content: flex-end;
+  color: #58a5f3;
+  height: 50px;
+  border-top: 1px solid #000000;
+  margin-right: 24px;
+}

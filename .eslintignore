@@ -1,0 +1,16 @@
+# testing
+/coverage
+/e2e
+setupTests.js
+/build
+
+# create-react-app ejected scripts/config
+# remove from ignore list after cleaning warnings/errors
+/config
+/scripts
+lcov_coverage
+mochawesome-report
+
+#cypress
+snapshots.js
+cypress/snapshots/snapshots.js

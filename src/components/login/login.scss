@@ -1,0 +1,125 @@
+@import '../../../node_modules/carbon-components/scss/globals/scss/colors';
+@import "../../constants/media-queries";
+
+html, body, #root, .login-container {
+  height: 100%;
+}
+
+.login-container {
+  display: flex;
+  flex-direction: column-reverse;
+  color: $ibm-color__white-0;
+}
+
+.login-content {
+  flex: 1;
+  display: flex;
+  padding: 0px 20px 0px 20px;
+
+  background: url('../../assets/login/login-background.png') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.login-form {
+  display: flex;
+  flex:2;
+  justify-content:space-around;
+  flex-direction: column;
+  min-width: 320px;
+  padding: 20px 20px 0px 20px;
+  background: black;
+
+  .title {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    div {
+      color: $ibm-color__white-0;
+      margin-top: 20px;
+      font-size: 24px;
+      font-weight: 100;
+    }
+
+  }
+  .button {
+    min-width: 100%;
+    justify-content: center;
+    padding: 0;
+  }
+  .link {
+    margin-top: 20px;
+    a {
+      color: $ibm-color__white-0;
+      text-decoration: none;
+    }
+  }
+  .alertcon {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    p {
+      font-weight: 100;
+    }
+  }
+
+  .shield {
+    width: 100px;
+  }
+}
+@include respond-to(wide-screens) {
+  .login-container {
+    flex-direction: row;
+  }
+
+  .login-content {
+    display: inline;
+    padding: 0px 20px;
+    padding: 12vh 192px;
+  }
+
+  .button {
+    margin-top:75px;
+  }
+
+  .login-form {
+    flex:none;
+    padding: 50px 20px 24px 20px;
+
+    .title {
+      margin-bottom: 0px;
+    }
+
+    .alertcon {
+      margin-top: auto;
+      margin-bottom: 0px;
+    }
+
+    .button {
+      width: 280px;
+    }
+  }
+}
+
+@include respond-to(mobile-lanscape) {
+  .login-container {
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  .login-form {
+    flex:none;
+    padding: 50px 20px;
+
+    .title {
+      margin-bottom: 0px;
+    }
+    .button {
+      width: 100%;
+    }
+  }
+  .button {
+    margin-top:40px;
+  }
+}
